@@ -1,0 +1,6 @@
+data/raw/
+data/csv/
+__pycache__/
+.env
+config.py
+*.pyc

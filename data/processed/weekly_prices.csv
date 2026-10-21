@@ -1,0 +1,2453 @@
+state,commodity,week_start,avg_price,days,prev_price,pct_change,status
+Karnataka,Onion,2024-01-01,1992.86,7,,,No data
+Karnataka,Onion,2024-01-08,1910.0,6,1992.86,-4.16,Normal
+Karnataka,Onion,2024-01-15,1765.79,7,1910.0,-7.55,Normal
+Karnataka,Onion,2024-01-22,1751.07,7,1765.79,-0.83,Normal
+Karnataka,Onion,2024-01-29,1520.57,7,1751.07,-13.16,Normal
+Karnataka,Onion,2024-02-05,1510.71,7,1520.57,-0.65,Normal
+Karnataka,Onion,2024-02-12,1554.5,7,1510.71,2.9,Normal
+Karnataka,Onion,2024-02-19,1611.07,7,1554.5,3.64,Normal
+Karnataka,Onion,2024-02-26,1735.71,7,1611.07,7.74,Normal
+Karnataka,Onion,2024-03-04,1553.57,7,1735.71,-10.49,Normal
+Karnataka,Onion,2024-03-11,1500.0,7,1553.57,-3.45,Normal
+Karnataka,Onion,2024-03-18,1482.79,7,1500.0,-1.15,Normal
+Karnataka,Onion,2024-03-25,1571.14,7,1482.79,5.96,Normal
+Karnataka,Onion,2024-04-01,1546.43,7,1571.14,-1.57,Normal
+Karnataka,Onion,2024-04-08,1668.75,4,1546.43,7.91,Normal
+Karnataka,Onion,2024-04-15,1514.29,7,1668.75,-9.26,Normal
+Karnataka,Onion,2024-04-22,1371.43,7,1514.29,-9.43,Normal
+Karnataka,Onion,2024-04-29,1507.14,7,1371.43,9.9,Normal
+Karnataka,Onion,2024-05-06,1518.36,7,1507.14,0.74,Normal
+Karnataka,Onion,2024-05-13,1708.64,7,1518.36,12.53,Normal
+Karnataka,Onion,2024-05-20,1835.71,7,1708.64,7.44,Normal
+Karnataka,Onion,2024-05-27,1844.43,7,1835.71,0.47,Normal
+Karnataka,Onion,2024-06-03,2160.07,7,1844.43,17.11,Alert
+Karnataka,Onion,2024-06-10,2489.75,6,2160.07,15.26,Alert
+Karnataka,Onion,2024-06-17,2693.57,7,2489.75,8.19,Normal
+Karnataka,Onion,2024-06-24,2463.33,6,2693.57,-8.55,Normal
+Karnataka,Onion,2024-07-01,2803.57,7,2463.33,13.81,Normal
+Karnataka,Onion,2024-07-08,2840.0,6,2803.57,1.3,Normal
+Karnataka,Onion,2024-07-15,2809.42,6,2840.0,-1.08,Normal
+Karnataka,Onion,2024-07-22,2642.14,7,2809.42,-5.95,Normal
+Karnataka,Onion,2024-07-29,2721.43,7,2642.14,3.0,Normal
+Karnataka,Onion,2024-08-05,2825.83,6,2721.43,3.84,Normal
+Karnataka,Onion,2024-08-12,2836.86,7,2825.83,0.39,Normal
+Karnataka,Onion,2024-08-19,2820.0,7,2836.86,-0.59,Normal
+Karnataka,Onion,2024-08-26,3597.14,7,2820.0,27.56,Severe
+Karnataka,Onion,2024-09-02,3484.21,7,3597.14,-3.14,Normal
+Karnataka,Onion,2024-09-09,3216.67,6,3484.21,-7.68,Normal
+Karnataka,Onion,2024-09-16,3852.86,7,3216.67,19.78,Alert
+Karnataka,Onion,2024-09-23,3743.57,7,3852.86,-2.84,Normal
+Karnataka,Onion,2024-09-30,3458.57,7,3743.57,-7.61,Normal
+Karnataka,Onion,2024-10-07,3564.29,7,3458.57,3.06,Normal
+Karnataka,Onion,2024-10-14,3447.14,7,3564.29,-3.29,Normal
+Karnataka,Onion,2024-10-21,3494.29,7,3447.14,1.37,Normal
+Karnataka,Onion,2024-10-28,3575.0,6,3494.29,2.31,Normal
+Karnataka,Onion,2024-11-04,3578.57,7,3575.0,0.1,Normal
+Karnataka,Onion,2024-11-11,3659.0,6,3578.57,2.25,Normal
+Karnataka,Onion,2024-11-18,3437.5,4,3659.0,-6.05,Normal
+Karnataka,Onion,2024-11-25,4390.21,7,3437.5,27.72,Severe
+Karnataka,Onion,2024-12-02,4200.0,7,4390.21,-4.33,Normal
+Karnataka,Onion,2024-12-09,4007.14,7,4200.0,-4.59,Normal
+Karnataka,Onion,2024-12-16,3078.57,7,4007.14,-23.17,Normal
+Karnataka,Onion,2024-12-23,2967.86,7,3078.57,-3.6,Normal
+Karnataka,Onion,2024-12-30,3250.0,7,2967.86,9.51,Normal
+Karnataka,Onion,2025-01-06,2910.71,7,3250.0,-10.44,Normal
+Karnataka,Onion,2025-01-13,3028.57,7,2910.71,4.05,Normal
+Karnataka,Onion,2025-01-20,2764.29,7,3028.57,-8.73,Normal
+Karnataka,Onion,2025-01-27,2745.93,7,2764.29,-0.66,Normal
+Karnataka,Onion,2025-02-03,2628.57,7,2745.93,-4.27,Normal
+Karnataka,Onion,2025-02-10,2784.36,7,2628.57,5.93,Normal
+Karnataka,Onion,2025-02-17,3121.43,7,2784.36,12.11,Normal
+Karnataka,Onion,2025-02-24,2962.67,6,3121.43,-5.09,Normal
+Karnataka,Onion,2025-03-03,3150.0,4,2962.67,6.32,Normal
+Karnataka,Onion,2025-03-10,2308.1,5,3150.0,-26.73,Normal
+Karnataka,Onion,2025-03-17,2224.57,7,2308.1,-3.62,Normal
+Karnataka,Onion,2025-03-24,1942.86,7,2224.57,-12.66,Normal
+Karnataka,Onion,2025-03-31,1841.67,6,1942.86,-5.21,Normal
+Karnataka,Onion,2025-04-07,1805.0,5,1841.67,-1.99,Normal
+Karnataka,Onion,2025-04-14,1857.14,7,1805.0,2.89,Normal
+Karnataka,Onion,2025-04-21,1721.43,7,1857.14,-7.31,Normal
+Karnataka,Onion,2025-04-28,1685.0,5,1721.43,-2.12,Normal
+Karnataka,Onion,2025-05-05,1676.0,7,1685.0,-0.53,Normal
+Karnataka,Onion,2025-05-12,1792.14,7,1676.0,6.93,Normal
+Karnataka,Onion,2025-05-19,1606.43,7,1792.14,-10.36,Normal
+Karnataka,Onion,2025-05-26,1812.5,6,1606.43,12.83,Normal
+Karnataka,Onion,2025-06-02,1887.79,7,1812.5,4.15,Normal
+Karnataka,Onion,2025-06-09,1768.64,7,1887.79,-6.31,Normal
+Karnataka,Onion,2025-06-16,1919.71,7,1768.64,8.54,Normal
+Karnataka,Onion,2025-06-23,1725.0,7,1919.71,-10.14,Normal
+Karnataka,Onion,2025-06-30,2008.0,7,1725.0,16.41,Alert
+Karnataka,Onion,2025-07-07,1886.0,7,2008.0,-6.08,Normal
+Karnataka,Onion,2025-07-14,1767.86,7,1886.0,-6.26,Normal
+Karnataka,Onion,2025-07-21,1808.0,7,1767.86,2.27,Normal
+Karnataka,Onion,2025-07-28,1779.36,7,1808.0,-1.58,Normal
+Karnataka,Onion,2025-08-04,1771.43,7,1779.36,-0.45,Normal
+Karnataka,Onion,2025-08-11,1821.43,7,1771.43,2.82,Normal
+Karnataka,Onion,2025-08-18,1895.71,7,1821.43,4.08,Normal
+Karnataka,Onion,2025-08-25,1874.36,7,1895.71,-1.13,Normal
+Karnataka,Onion,2025-09-01,1872.14,7,1874.36,-0.12,Normal
+Karnataka,Onion,2025-09-08,1730.14,7,1872.14,-7.58,Normal
+Karnataka,Onion,2025-09-15,1575.29,7,1730.14,-8.95,Normal
+Karnataka,Onion,2025-09-22,1507.14,7,1575.29,-4.33,Normal
+Karnataka,Onion,2025-09-29,1609.0,6,1507.14,6.76,Normal
+Karnataka,Onion,2025-10-06,1370.79,7,1609.0,-14.81,Normal
+Karnataka,Onion,2025-10-13,1325.75,6,1370.79,-3.29,Normal
+Karnataka,Onion,2025-10-27,1085.0,5,1325.75,,No data
+Karnataka,Onion,2025-12-01,1360.0,5,1085.0,,No data
+Karnataka,Onion,2025-12-08,1400.0,5,1360.0,2.94,Normal
+Karnataka,Onion,2025-12-15,1629.17,6,1400.0,16.37,Alert
+Karnataka,Onion,2025-12-22,1830.0,5,1629.17,12.33,Normal
+Karnataka,Onion,2025-12-29,1526.6,5,1830.0,-16.58,Normal
+Karnataka,Onion,2026-01-05,1318.17,6,1526.6,-13.65,Normal
+Karnataka,Onion,2026-01-12,1540.0,5,1318.17,16.83,Alert
+Karnataka,Onion,2026-01-19,1420.0,5,1540.0,-7.79,Normal
+Karnataka,Onion,2026-01-26,1967.86,7,1420.0,38.58,Severe
+Karnataka,Onion,2026-02-02,1492.86,7,1967.86,-24.14,Normal
+Karnataka,Onion,2026-02-09,1410.86,7,1492.86,-5.49,Normal
+Karnataka,Onion,2026-02-16,1782.14,7,1410.86,26.32,Severe
+Karnataka,Onion,2026-02-23,1500.0,5,1782.14,-15.83,Normal
+Karnataka,Onion,2026-03-02,1216.67,3,1500.0,-18.89,Normal
+Karnataka,Onion,2026-03-09,1530.0,5,1216.67,25.75,Severe
+Karnataka,Onion,2026-03-16,1367.67,3,1530.0,-10.61,Normal
+Karnataka,Onion,2026-03-23,1220.0,5,1367.67,-10.8,Normal
+Karnataka,Onion,2026-03-30,1392.86,7,1220.0,14.17,Normal
+Karnataka,Onion,2026-04-06,1304.0,7,1392.86,-6.38,Normal
+Karnataka,Onion,2026-04-13,1291.67,6,1304.0,-0.95,Normal
+Karnataka,Potato,2024-01-01,1885.93,7,,,No data
+Karnataka,Potato,2024-01-08,1818.33,6,1885.93,-3.58,Normal
+Karnataka,Potato,2024-01-15,1791.29,7,1818.33,-1.49,Normal
+Karnataka,Potato,2024-01-22,1822.71,7,1791.29,1.75,Normal
+Karnataka,Potato,2024-01-29,1721.57,7,1822.71,-5.55,Normal
+Karnataka,Potato,2024-02-05,1735.79,7,1721.57,0.83,Normal
+Karnataka,Potato,2024-02-12,1754.33,6,1735.79,1.07,Normal
+Karnataka,Potato,2024-02-19,1885.93,7,1754.33,7.5,Normal
+Karnataka,Potato,2024-02-26,1968.07,7,1885.93,4.36,Normal
+Karnataka,Potato,2024-03-04,1854.64,7,1968.07,-5.76,Normal
+Karnataka,Potato,2024-03-11,1845.43,7,1854.64,-0.5,Normal
+Karnataka,Potato,2024-03-18,1874.07,7,1845.43,1.55,Normal
+Karnataka,Potato,2024-03-25,2014.93,7,1874.07,7.52,Normal
+Karnataka,Potato,2024-04-01,2041.36,7,2014.93,1.31,Normal
+Karnataka,Potato,2024-04-08,2443.75,4,2041.36,19.71,Alert
+Karnataka,Potato,2024-04-15,2321.43,7,2443.75,-5.01,Normal
+Karnataka,Potato,2024-04-22,2256.0,7,2321.43,-2.82,Normal
+Karnataka,Potato,2024-04-29,2454.43,7,2256.0,8.8,Normal
+Karnataka,Potato,2024-05-06,2483.86,7,2454.43,1.2,Normal
+Karnataka,Potato,2024-05-13,2436.64,7,2483.86,-1.9,Normal
+Karnataka,Potato,2024-05-20,2514.29,7,2436.64,3.19,Normal
+Karnataka,Potato,2024-05-27,2514.29,7,2514.29,0.0,Normal
+Karnataka,Potato,2024-06-03,2511.79,7,2514.29,-0.1,Normal
+Karnataka,Potato,2024-06-10,2648.67,6,2511.79,5.45,Normal
+Karnataka,Potato,2024-06-17,2525.0,7,2648.67,-4.67,Normal
+Karnataka,Potato,2024-06-24,2614.29,7,2525.0,3.54,Normal
+Karnataka,Potato,2024-07-01,2732.57,7,2614.29,4.52,Normal
+Karnataka,Potato,2024-07-08,2765.64,7,2732.57,1.21,Normal
+Karnataka,Potato,2024-07-15,2785.71,7,2765.64,0.73,Normal
+Karnataka,Potato,2024-07-22,2800.0,7,2785.71,0.51,Normal
+Karnataka,Potato,2024-07-29,2757.5,7,2800.0,-1.52,Normal
+Karnataka,Potato,2024-08-05,2457.14,7,2757.5,-10.89,Normal
+Karnataka,Potato,2024-08-12,2453.57,7,2457.14,-0.15,Normal
+Karnataka,Potato,2024-08-19,2564.29,7,2453.57,4.51,Normal
+Karnataka,Potato,2024-08-26,2785.71,7,2564.29,8.64,Normal
+Karnataka,Potato,2024-09-02,2531.86,7,2785.71,-9.11,Normal
+Karnataka,Potato,2024-09-09,2688.0,6,2531.86,6.17,Normal
+Karnataka,Potato,2024-09-16,2646.43,7,2688.0,-1.55,Normal
+Karnataka,Potato,2024-09-23,2482.14,7,2646.43,-6.21,Normal
+Karnataka,Potato,2024-09-30,2785.93,7,2482.14,12.24,Normal
+Karnataka,Potato,2024-10-07,2771.21,7,2785.93,-0.53,Normal
+Karnataka,Potato,2024-10-14,2981.33,6,2771.21,7.58,Normal
+Karnataka,Potato,2024-10-21,2702.79,7,2981.33,-9.34,Normal
+Karnataka,Potato,2024-10-28,2566.67,6,2702.79,-5.04,Normal
+Karnataka,Potato,2024-11-04,2756.64,7,2566.67,7.4,Normal
+Karnataka,Potato,2024-11-11,2665.0,6,2756.64,-3.32,Normal
+Karnataka,Potato,2024-11-18,2687.5,4,2665.0,0.84,Normal
+Karnataka,Potato,2024-11-25,2608.86,7,2687.5,-2.93,Normal
+Karnataka,Potato,2024-12-02,2896.64,7,2608.86,11.03,Normal
+Karnataka,Potato,2024-12-09,2628.57,7,2896.64,-9.25,Normal
+Karnataka,Potato,2024-12-16,2369.86,7,2628.57,-9.84,Normal
+Karnataka,Potato,2024-12-23,2071.43,7,2369.86,-12.59,Normal
+Karnataka,Potato,2024-12-30,2447.86,7,2071.43,18.17,Alert
+Karnataka,Potato,2025-01-06,2254.64,7,2447.86,-7.89,Normal
+Karnataka,Potato,2025-01-13,2514.29,7,2254.64,11.52,Normal
+Karnataka,Potato,2025-01-20,2269.57,7,2514.29,-9.73,Normal
+Karnataka,Potato,2025-01-27,2021.43,7,2269.57,-10.93,Normal
+Karnataka,Potato,2025-02-03,2089.29,7,2021.43,3.36,Normal
+Karnataka,Potato,2025-02-10,1996.43,7,2089.29,-4.44,Normal
+Karnataka,Potato,2025-02-17,1891.64,7,1996.43,-5.25,Normal
+Karnataka,Potato,2025-02-24,1872.17,6,1891.64,-1.03,Normal
+Karnataka,Potato,2025-03-03,2555.25,4,1872.17,36.49,Severe
+Karnataka,Potato,2025-03-10,1766.67,6,2555.25,-30.86,Normal
+Karnataka,Potato,2025-03-17,1975.71,7,1766.67,11.83,Normal
+Karnataka,Potato,2025-03-24,1792.86,7,1975.71,-9.26,Normal
+Karnataka,Potato,2025-03-31,1829.17,6,1792.86,2.03,Normal
+Karnataka,Potato,2025-04-07,1691.42,6,1829.17,-7.53,Normal
+Karnataka,Potato,2025-04-14,1763.07,7,1691.42,4.24,Normal
+Karnataka,Potato,2025-04-21,1817.79,7,1763.07,3.1,Normal
+Karnataka,Potato,2025-04-28,1935.2,5,1817.79,6.46,Normal
+Karnataka,Potato,2025-05-05,1901.43,7,1935.2,-1.75,Normal
+Karnataka,Potato,2025-05-12,2031.0,7,1901.43,6.81,Normal
+Karnataka,Potato,2025-05-19,2037.29,7,2031.0,0.31,Normal
+Karnataka,Potato,2025-05-26,1982.67,6,2037.29,-2.68,Normal
+Karnataka,Potato,2025-06-02,1940.57,7,1982.67,-2.12,Normal
+Karnataka,Potato,2025-06-09,1959.29,7,1940.57,0.96,Normal
+Karnataka,Potato,2025-06-16,1893.0,7,1959.29,-3.38,Normal
+Karnataka,Potato,2025-06-23,1877.57,7,1893.0,-0.82,Normal
+Karnataka,Potato,2025-06-30,1905.21,7,1877.57,1.47,Normal
+Karnataka,Potato,2025-07-07,1877.43,7,1905.21,-1.46,Normal
+Karnataka,Potato,2025-07-14,1974.29,7,1877.43,5.16,Normal
+Karnataka,Potato,2025-07-21,1865.0,7,1974.29,-5.54,Normal
+Karnataka,Potato,2025-07-28,1912.0,7,1865.0,2.52,Normal
+Karnataka,Potato,2025-08-04,1955.86,7,1912.0,2.29,Normal
+Karnataka,Potato,2025-08-11,1929.29,7,1955.86,-1.36,Normal
+Karnataka,Potato,2025-08-18,2025.86,7,1929.29,5.01,Normal
+Karnataka,Potato,2025-08-25,2042.86,7,2025.86,0.84,Normal
+Karnataka,Potato,2025-09-01,1907.07,7,2042.86,-6.65,Normal
+Karnataka,Potato,2025-09-08,1842.86,7,1907.07,-3.37,Normal
+Karnataka,Potato,2025-09-15,1811.5,7,1842.86,-1.7,Normal
+Karnataka,Potato,2025-09-22,1825.0,7,1811.5,0.75,Normal
+Karnataka,Potato,2025-09-29,1710.17,6,1825.0,-6.29,Normal
+Karnataka,Potato,2025-10-06,1737.25,6,1710.17,1.58,Normal
+Karnataka,Potato,2025-10-13,1867.57,7,1737.25,7.5,Normal
+Karnataka,Potato,2025-10-20,2075.0,4,1867.57,11.11,Normal
+Karnataka,Potato,2025-10-27,2091.1,5,2075.0,0.78,Normal
+Karnataka,Potato,2025-12-01,2066.67,3,2091.1,,No data
+Karnataka,Potato,2025-12-08,2150.0,4,2066.67,4.03,Normal
+Karnataka,Potato,2025-12-15,2168.33,6,2150.0,0.85,Normal
+Karnataka,Potato,2025-12-22,1980.0,5,2168.33,-8.69,Normal
+Karnataka,Potato,2025-12-29,1850.0,6,1980.0,-6.57,Normal
+Karnataka,Potato,2026-01-05,1913.83,6,1850.0,3.45,Normal
+Karnataka,Potato,2026-01-12,1854.1,5,1913.83,-3.12,Normal
+Karnataka,Potato,2026-01-19,1666.67,6,1854.1,-10.11,Normal
+Karnataka,Potato,2026-01-26,1775.0,7,1666.67,6.5,Normal
+Karnataka,Potato,2026-02-02,1568.67,6,1775.0,-11.62,Normal
+Karnataka,Potato,2026-02-09,1584.8,5,1568.67,1.03,Normal
+Karnataka,Potato,2026-02-16,1721.43,7,1584.8,8.62,Normal
+Karnataka,Potato,2026-02-23,1560.0,5,1721.43,-9.38,Normal
+Karnataka,Potato,2026-03-02,1650.0,3,1560.0,5.77,Normal
+Karnataka,Potato,2026-03-09,1365.5,5,1650.0,-17.24,Normal
+Karnataka,Potato,2026-03-16,1400.0,3,1365.5,2.53,Normal
+Karnataka,Potato,2026-03-23,1704.6,5,1400.0,21.76,Alert
+Karnataka,Potato,2026-03-30,1435.71,7,1704.6,-15.77,Normal
+Karnataka,Potato,2026-04-06,1591.0,5,1435.71,10.82,Normal
+Karnataka,Potato,2026-04-13,1130.0,5,1591.0,-28.98,Normal
+Karnataka,Rice,2024-01-01,4734.17,6,,,No data
+Karnataka,Rice,2024-01-08,4242.5,6,4734.17,-10.39,Normal
+Karnataka,Rice,2024-01-15,4604.17,6,4242.5,8.52,Normal
+Karnataka,Rice,2024-01-22,4714.33,6,4604.17,2.39,Normal
+Karnataka,Rice,2024-01-29,4057.92,6,4714.33,-13.92,Normal
+Karnataka,Rice,2024-02-05,4008.33,6,4057.92,-1.22,Normal
+Karnataka,Rice,2024-02-12,4187.5,6,4008.33,4.47,Normal
+Karnataka,Rice,2024-02-19,4083.33,6,4187.5,-2.49,Normal
+Karnataka,Rice,2024-02-26,4284.25,6,4083.33,4.92,Normal
+Karnataka,Rice,2024-03-04,4964.33,6,4284.25,15.87,Alert
+Karnataka,Rice,2024-03-11,4635.67,6,4964.33,-6.62,Normal
+Karnataka,Rice,2024-03-18,4737.33,6,4635.67,2.19,Normal
+Karnataka,Rice,2024-03-25,4227.5,6,4737.33,-10.76,Normal
+Karnataka,Rice,2024-04-01,3941.67,6,4227.5,-6.76,Normal
+Karnataka,Rice,2024-04-08,5063.67,3,3941.67,28.47,Severe
+Karnataka,Rice,2024-04-15,4289.43,7,5063.67,-15.29,Normal
+Karnataka,Rice,2024-04-22,4162.5,6,4289.43,-2.96,Normal
+Karnataka,Rice,2024-04-29,4076.17,6,4162.5,-2.07,Normal
+Karnataka,Rice,2024-05-06,4053.33,6,4076.17,-0.56,Normal
+Karnataka,Rice,2024-05-13,3625.83,6,4053.33,-10.55,Normal
+Karnataka,Rice,2024-05-20,3970.83,6,3625.83,9.52,Normal
+Karnataka,Rice,2024-05-27,4070.75,6,3970.83,2.52,Normal
+Karnataka,Rice,2024-06-03,4440.33,6,4070.75,9.08,Normal
+Karnataka,Rice,2024-06-10,4157.58,6,4440.33,-6.37,Normal
+Karnataka,Rice,2024-06-17,4066.5,6,4157.58,-2.19,Normal
+Karnataka,Rice,2024-06-24,3902.14,7,4066.5,-4.04,Normal
+Karnataka,Rice,2024-07-01,4302.57,7,3902.14,10.26,Normal
+Karnataka,Rice,2024-07-08,4300.0,6,4302.57,-0.06,Normal
+Karnataka,Rice,2024-07-15,4377.14,7,4300.0,1.79,Normal
+Karnataka,Rice,2024-07-22,4168.83,6,4377.14,-4.76,Normal
+Karnataka,Rice,2024-07-29,3804.29,7,4168.83,-8.74,Normal
+Karnataka,Rice,2024-08-05,4147.92,6,3804.29,9.03,Normal
+Karnataka,Rice,2024-08-12,4278.2,5,4147.92,3.14,Normal
+Karnataka,Rice,2024-08-19,4158.33,6,4278.2,-2.8,Normal
+Karnataka,Rice,2024-08-26,4070.83,6,4158.33,-2.1,Normal
+Karnataka,Rice,2024-09-02,3729.0,5,4070.83,-8.4,Normal
+Karnataka,Rice,2024-09-09,4301.4,5,3729.0,15.35,Alert
+Karnataka,Rice,2024-09-16,4344.93,7,4301.4,1.01,Normal
+Karnataka,Rice,2024-09-23,4270.71,7,4344.93,-1.71,Normal
+Karnataka,Rice,2024-09-30,3886.42,6,4270.71,-9.0,Normal
+Karnataka,Rice,2024-10-07,4722.5,6,3886.42,21.51,Alert
+Karnataka,Rice,2024-10-14,4803.57,7,4722.5,1.72,Normal
+Karnataka,Rice,2024-10-21,4045.67,6,4803.57,-15.78,Normal
+Karnataka,Rice,2024-10-28,3543.33,3,4045.67,-12.42,Normal
+Karnataka,Rice,2024-11-04,4484.29,7,3543.33,26.56,Severe
+Karnataka,Rice,2024-11-11,3802.5,6,4484.29,-15.2,Normal
+Karnataka,Rice,2024-11-25,4626.67,6,3802.5,,No data
+Karnataka,Rice,2024-12-02,3950.36,7,4626.67,-14.62,Normal
+Karnataka,Rice,2024-12-09,3927.0,5,3950.36,-0.59,Normal
+Karnataka,Rice,2024-12-16,4005.0,7,3927.0,1.99,Normal
+Karnataka,Rice,2024-12-23,4360.71,7,4005.0,8.88,Normal
+Karnataka,Rice,2024-12-30,4269.57,7,4360.71,-2.09,Normal
+Karnataka,Rice,2025-01-06,3912.5,6,4269.57,-8.36,Normal
+Karnataka,Rice,2025-01-13,3990.92,6,3912.5,2.0,Normal
+Karnataka,Rice,2025-01-20,4262.5,6,3990.92,6.81,Normal
+Karnataka,Rice,2025-01-27,3961.43,7,4262.5,-7.06,Normal
+Karnataka,Rice,2025-02-03,3945.33,6,3961.43,-0.41,Normal
+Karnataka,Rice,2025-02-10,3925.42,6,3945.33,-0.5,Normal
+Karnataka,Rice,2025-02-17,4225.83,6,3925.42,7.65,Normal
+Karnataka,Rice,2025-02-24,4383.33,6,4225.83,3.73,Normal
+Karnataka,Rice,2025-03-03,4483.33,3,4383.33,2.28,Normal
+Karnataka,Rice,2025-03-10,4314.0,5,4483.33,-3.78,Normal
+Karnataka,Rice,2025-03-17,3970.0,6,4314.0,-7.97,Normal
+Karnataka,Rice,2025-03-24,4165.0,6,3970.0,4.91,Normal
+Karnataka,Rice,2025-03-31,4344.0,4,4165.0,4.3,Normal
+Karnataka,Rice,2025-04-07,3608.0,5,4344.0,-16.94,Normal
+Karnataka,Rice,2025-04-14,3920.83,6,3608.0,8.67,Normal
+Karnataka,Rice,2025-04-21,3743.33,6,3920.83,-4.53,Normal
+Karnataka,Rice,2025-04-28,3401.25,4,3743.33,-9.14,Normal
+Karnataka,Rice,2025-05-05,3535.83,6,3401.25,3.96,Normal
+Karnataka,Rice,2025-05-12,3740.83,6,3535.83,5.8,Normal
+Karnataka,Rice,2025-05-19,3335.71,7,3740.83,-10.83,Normal
+Karnataka,Rice,2025-05-26,3313.33,6,3335.71,-0.67,Normal
+Karnataka,Rice,2025-06-02,2774.58,6,3313.33,-16.26,Normal
+Karnataka,Rice,2025-06-09,3086.0,6,2774.58,11.22,Normal
+Karnataka,Rice,2025-06-16,3200.0,6,3086.0,3.69,Normal
+Karnataka,Rice,2025-06-23,2988.43,7,3200.0,-6.61,Normal
+Karnataka,Rice,2025-06-30,3176.43,7,2988.43,6.29,Normal
+Karnataka,Rice,2025-07-07,3649.17,6,3176.43,14.88,Normal
+Karnataka,Rice,2025-07-14,3103.57,7,3649.17,-14.95,Normal
+Karnataka,Rice,2025-07-21,3217.86,7,3103.57,3.68,Normal
+Karnataka,Rice,2025-07-28,3111.43,7,3217.86,-3.31,Normal
+Karnataka,Rice,2025-08-04,2835.25,6,3111.43,-8.88,Normal
+Karnataka,Rice,2025-08-11,3242.5,6,2835.25,14.36,Normal
+Karnataka,Rice,2025-08-18,2656.43,7,3242.5,-18.07,Normal
+Karnataka,Rice,2025-08-25,2924.29,7,2656.43,10.08,Normal
+Karnataka,Rice,2025-09-01,2807.17,6,2924.29,-4.01,Normal
+Karnataka,Rice,2025-09-08,2935.43,7,2807.17,4.57,Normal
+Karnataka,Rice,2025-09-15,2971.33,6,2935.43,1.22,Normal
+Karnataka,Rice,2025-09-22,2861.0,6,2971.33,-3.71,Normal
+Karnataka,Rice,2025-09-29,3018.0,5,2861.0,5.49,Normal
+Karnataka,Rice,2025-10-06,3550.0,6,3018.0,17.63,Alert
+Karnataka,Rice,2025-10-13,3062.08,6,3550.0,-13.74,Normal
+Karnataka,Rice,2025-10-27,4594.7,5,3062.08,,No data
+Karnataka,Rice,2025-12-01,3680.0,4,4594.7,,No data
+Karnataka,Rice,2025-12-08,3550.0,3,3680.0,-3.53,Normal
+Karnataka,Rice,2025-12-15,2946.9,5,3550.0,-16.99,Normal
+Karnataka,Rice,2025-12-22,3150.0,4,2946.9,6.89,Normal
+Karnataka,Rice,2025-12-29,2898.33,6,3150.0,-7.99,Normal
+Karnataka,Rice,2026-01-05,3798.0,6,2898.33,31.04,Severe
+Karnataka,Rice,2026-01-12,2815.0,5,3798.0,-25.88,Normal
+Karnataka,Rice,2026-01-19,3582.7,5,2815.0,27.27,Severe
+Karnataka,Rice,2026-01-26,3351.21,7,3582.7,-6.46,Normal
+Karnataka,Rice,2026-02-02,3173.21,7,3351.21,-5.31,Normal
+Karnataka,Rice,2026-02-09,2891.67,6,3173.21,-8.87,Normal
+Karnataka,Rice,2026-02-16,3028.33,6,2891.67,4.73,Normal
+Karnataka,Rice,2026-02-23,2550.0,4,3028.33,-15.8,Normal
+Karnataka,Rice,2026-03-09,2893.75,4,2550.0,,No data
+Karnataka,Rice,2026-03-23,2561.9,5,2893.75,,No data
+Karnataka,Rice,2026-03-30,3013.4,5,2561.9,17.62,Alert
+Karnataka,Rice,2026-04-06,3023.42,6,3013.4,0.33,Normal
+Karnataka,Rice,2026-04-13,3130.83,6,3023.42,3.55,Normal
+Karnataka,Tomato,2024-01-01,1740.21,7,,,No data
+Karnataka,Tomato,2024-01-08,1495.21,7,1740.21,-14.08,Normal
+Karnataka,Tomato,2024-01-15,1392.14,7,1495.21,-6.89,Normal
+Karnataka,Tomato,2024-01-22,1315.21,7,1392.14,-5.53,Normal
+Karnataka,Tomato,2024-01-29,1353.14,7,1315.21,2.88,Normal
+Karnataka,Tomato,2024-02-05,1387.5,7,1353.14,2.54,Normal
+Karnataka,Tomato,2024-02-12,1161.86,7,1387.5,-16.26,Normal
+Karnataka,Tomato,2024-02-19,920.21,7,1161.86,-20.8,Normal
+Karnataka,Tomato,2024-02-26,830.43,7,920.21,-9.76,Normal
+Karnataka,Tomato,2024-03-04,1053.36,7,830.43,26.85,Severe
+Karnataka,Tomato,2024-03-11,1050.07,7,1053.36,-0.31,Normal
+Karnataka,Tomato,2024-03-18,1042.29,7,1050.07,-0.74,Normal
+Karnataka,Tomato,2024-03-25,1115.43,7,1042.29,7.02,Normal
+Karnataka,Tomato,2024-04-01,1464.36,7,1115.43,31.28,Severe
+Karnataka,Tomato,2024-04-08,1138.4,5,1464.36,-22.26,Normal
+Karnataka,Tomato,2024-04-15,1422.86,7,1138.4,24.99,Alert
+Karnataka,Tomato,2024-04-22,1564.71,7,1422.86,9.97,Normal
+Karnataka,Tomato,2024-04-29,1673.36,7,1564.71,6.94,Normal
+Karnataka,Tomato,2024-05-06,1624.64,7,1673.36,-2.91,Normal
+Karnataka,Tomato,2024-05-13,1941.14,7,1624.64,19.48,Alert
+Karnataka,Tomato,2024-05-20,2134.57,7,1941.14,9.96,Normal
+Karnataka,Tomato,2024-05-27,2267.43,7,2134.57,6.22,Normal
+Karnataka,Tomato,2024-06-03,2435.71,7,2267.43,7.42,Normal
+Karnataka,Tomato,2024-06-10,3148.21,7,2435.71,29.25,Severe
+Karnataka,Tomato,2024-06-17,4464.29,7,3148.21,41.8,Severe
+Karnataka,Tomato,2024-06-24,3599.71,7,4464.29,-19.37,Normal
+Karnataka,Tomato,2024-07-01,3237.64,7,3599.71,-10.06,Normal
+Karnataka,Tomato,2024-07-08,3336.86,7,3237.64,3.06,Normal
+Karnataka,Tomato,2024-07-15,4001.86,7,3336.86,19.93,Alert
+Karnataka,Tomato,2024-07-22,2576.71,7,4001.86,-35.61,Normal
+Karnataka,Tomato,2024-07-29,1642.86,7,2576.71,-36.24,Normal
+Karnataka,Tomato,2024-08-05,1366.64,7,1642.86,-16.81,Normal
+Karnataka,Tomato,2024-08-12,1299.5,7,1366.64,-4.91,Normal
+Karnataka,Tomato,2024-08-19,1087.86,7,1299.5,-16.29,Normal
+Karnataka,Tomato,2024-08-26,1132.14,7,1087.86,4.07,Normal
+Karnataka,Tomato,2024-09-02,1276.43,7,1132.14,12.74,Normal
+Karnataka,Tomato,2024-09-09,1328.93,7,1276.43,4.11,Normal
+Karnataka,Tomato,2024-09-16,1849.21,7,1328.93,39.15,Severe
+Karnataka,Tomato,2024-09-23,2289.79,7,1849.21,23.82,Alert
+Karnataka,Tomato,2024-09-30,2968.07,7,2289.79,29.62,Severe
+Karnataka,Tomato,2024-10-07,2597.14,7,2968.07,-12.5,Normal
+Karnataka,Tomato,2024-10-14,3021.07,7,2597.14,16.32,Alert
+Karnataka,Tomato,2024-10-21,2694.0,7,3021.07,-10.83,Normal
+Karnataka,Tomato,2024-10-28,1943.0,6,2694.0,-27.88,Normal
+Karnataka,Tomato,2024-11-04,1746.86,7,1943.0,-10.09,Normal
+Karnataka,Tomato,2024-11-11,1519.29,7,1746.86,-13.03,Normal
+Karnataka,Tomato,2024-11-18,1682.62,4,1519.29,10.75,Normal
+Karnataka,Tomato,2024-11-25,2236.8,5,1682.62,32.94,Severe
+Karnataka,Tomato,2024-12-02,2452.14,7,2236.8,9.63,Normal
+Karnataka,Tomato,2024-12-09,1187.75,6,2452.14,-51.56,Normal
+Karnataka,Tomato,2024-12-16,1249.07,7,1187.75,5.16,Normal
+Karnataka,Tomato,2024-12-23,1215.29,7,1249.07,-2.7,Normal
+Karnataka,Tomato,2024-12-30,1031.57,7,1215.29,-15.12,Normal
+Karnataka,Tomato,2025-01-06,920.86,7,1031.57,-10.73,Normal
+Karnataka,Tomato,2025-01-13,958.64,7,920.86,4.1,Normal
+Karnataka,Tomato,2025-01-20,932.5,7,958.64,-2.73,Normal
+Karnataka,Tomato,2025-01-27,1076.86,7,932.5,15.48,Alert
+Karnataka,Tomato,2025-02-03,1061.86,7,1076.86,-1.39,Normal
+Karnataka,Tomato,2025-02-10,1140.21,7,1061.86,7.38,Normal
+Karnataka,Tomato,2025-02-17,997.14,7,1140.21,-12.55,Normal
+Karnataka,Tomato,2025-02-24,860.0,7,997.14,-13.75,Normal
+Karnataka,Tomato,2025-03-03,868.75,4,860.0,1.02,Normal
+Karnataka,Tomato,2025-03-10,702.86,7,868.75,-19.1,Normal
+Karnataka,Tomato,2025-03-17,657.14,7,702.86,-6.5,Normal
+Karnataka,Tomato,2025-03-24,658.57,7,657.14,0.22,Normal
+Karnataka,Tomato,2025-03-31,635.83,6,658.57,-3.45,Normal
+Karnataka,Tomato,2025-04-07,801.43,7,635.83,26.04,Severe
+Karnataka,Tomato,2025-04-14,828.57,7,801.43,3.39,Normal
+Karnataka,Tomato,2025-04-21,884.29,7,828.57,6.72,Normal
+Karnataka,Tomato,2025-04-28,930.71,7,884.29,5.25,Normal
+Karnataka,Tomato,2025-05-05,782.86,7,930.71,-15.89,Normal
+Karnataka,Tomato,2025-05-12,1107.14,7,782.86,41.42,Severe
+Karnataka,Tomato,2025-05-19,983.29,7,1107.14,-11.19,Normal
+Karnataka,Tomato,2025-05-26,1042.86,7,983.29,6.06,Normal
+Karnataka,Tomato,2025-06-02,1146.43,7,1042.86,9.93,Normal
+Karnataka,Tomato,2025-06-09,1330.0,7,1146.43,16.01,Alert
+Karnataka,Tomato,2025-06-16,1168.29,7,1330.0,-12.16,Normal
+Karnataka,Tomato,2025-06-23,1479.29,7,1168.29,26.62,Severe
+Karnataka,Tomato,2025-06-30,1636.43,7,1479.29,10.62,Normal
+Karnataka,Tomato,2025-07-07,1654.21,7,1636.43,1.09,Normal
+Karnataka,Tomato,2025-07-14,1546.14,7,1654.21,-6.53,Normal
+Karnataka,Tomato,2025-07-21,2094.07,7,1546.14,35.44,Severe
+Karnataka,Tomato,2025-07-28,2498.57,7,2094.07,19.32,Alert
+Karnataka,Tomato,2025-08-04,2335.71,7,2498.57,-6.52,Normal
+Karnataka,Tomato,2025-08-11,2091.29,7,2335.71,-10.46,Normal
+Karnataka,Tomato,2025-08-18,2125.0,7,2091.29,1.61,Normal
+Karnataka,Tomato,2025-08-25,2357.0,7,2125.0,10.92,Normal
+Karnataka,Tomato,2025-09-01,1635.71,7,2357.0,-30.6,Normal
+Karnataka,Tomato,2025-09-08,1207.14,7,1635.71,-26.2,Normal
+Karnataka,Tomato,2025-09-15,1185.0,7,1207.14,-1.83,Normal
+Karnataka,Tomato,2025-09-22,1505.86,7,1185.0,27.08,Severe
+Karnataka,Tomato,2025-09-29,1278.57,7,1505.86,-15.09,Normal
+Karnataka,Tomato,2025-10-06,1233.71,7,1278.57,-3.51,Normal
+Karnataka,Tomato,2025-10-13,1172.64,7,1233.71,-4.95,Normal
+Karnataka,Tomato,2025-10-20,1460.0,5,1172.64,24.51,Alert
+Karnataka,Tomato,2025-10-27,1335.0,6,1460.0,-8.56,Normal
+Karnataka,Tomato,2025-12-01,2870.1,5,1335.0,,No data
+Karnataka,Tomato,2025-12-08,2044.42,6,2870.1,-28.77,Normal
+Karnataka,Tomato,2025-12-15,3266.67,6,2044.42,59.78,Severe
+Karnataka,Tomato,2025-12-22,2812.6,5,3266.67,-13.9,Normal
+Karnataka,Tomato,2025-12-29,3142.86,7,2812.6,11.74,Normal
+Karnataka,Tomato,2026-01-05,2623.67,6,3142.86,-16.52,Normal
+Karnataka,Tomato,2026-01-12,2158.75,6,2623.67,-17.72,Normal
+Karnataka,Tomato,2026-01-19,1897.57,7,2158.75,-12.1,Normal
+Karnataka,Tomato,2026-01-26,1374.0,7,1897.57,-27.59,Normal
+Karnataka,Tomato,2026-02-02,1079.17,6,1374.0,-21.46,Normal
+Karnataka,Tomato,2026-02-09,1310.71,7,1079.17,21.46,Alert
+Karnataka,Tomato,2026-02-16,1210.0,7,1310.71,-7.68,Normal
+Karnataka,Tomato,2026-02-23,1119.0,6,1210.0,-7.52,Normal
+Karnataka,Tomato,2026-03-02,874.33,3,1119.0,-21.86,Normal
+Karnataka,Tomato,2026-03-09,878.17,6,874.33,0.44,Normal
+Karnataka,Tomato,2026-03-16,1207.5,3,878.17,37.5,Severe
+Karnataka,Tomato,2026-03-23,1106.5,7,1207.5,-8.36,Normal
+Karnataka,Tomato,2026-03-30,1120.0,7,1106.5,1.22,Normal
+Karnataka,Tomato,2026-04-06,1205.17,6,1120.0,7.6,Normal
+Karnataka,Tomato,2026-04-13,1506.92,6,1205.17,25.04,Severe
+Karnataka,Wheat,2024-01-01,3194.92,6,,,No data
+Karnataka,Wheat,2024-01-08,3254.17,6,3194.92,1.85,Normal
+Karnataka,Wheat,2024-01-15,2906.4,5,3254.17,-10.69,Normal
+Karnataka,Wheat,2024-01-22,3140.1,5,2906.4,8.04,Normal
+Karnataka,Wheat,2024-01-29,2943.08,6,3140.1,-6.27,Normal
+Karnataka,Wheat,2024-02-05,3088.17,6,2943.08,4.93,Normal
+Karnataka,Wheat,2024-02-12,3148.25,6,3088.17,1.95,Normal
+Karnataka,Wheat,2024-02-19,3032.58,6,3148.25,-3.67,Normal
+Karnataka,Wheat,2024-02-26,3214.08,6,3032.58,5.98,Normal
+Karnataka,Wheat,2024-03-04,3156.25,4,3214.08,-1.8,Normal
+Karnataka,Wheat,2024-03-11,3379.75,6,3156.25,7.08,Normal
+Karnataka,Wheat,2024-03-18,3327.67,6,3379.75,-1.54,Normal
+Karnataka,Wheat,2024-03-25,3259.33,6,3327.67,-2.05,Normal
+Karnataka,Wheat,2024-04-01,3505.17,6,3259.33,7.54,Normal
+Karnataka,Wheat,2024-04-15,3480.25,6,3505.17,,No data
+Karnataka,Wheat,2024-04-22,3299.92,6,3480.25,-5.18,Normal
+Karnataka,Wheat,2024-04-29,3406.7,5,3299.92,3.24,Normal
+Karnataka,Wheat,2024-05-06,3390.0,5,3406.7,-0.49,Normal
+Karnataka,Wheat,2024-05-13,3340.33,6,3390.0,-1.47,Normal
+Karnataka,Wheat,2024-05-20,3242.67,6,3340.33,-2.92,Normal
+Karnataka,Wheat,2024-05-27,3340.17,6,3242.67,3.01,Normal
+Karnataka,Wheat,2024-06-03,3318.92,6,3340.17,-0.64,Normal
+Karnataka,Wheat,2024-06-10,3582.67,6,3318.92,7.95,Normal
+Karnataka,Wheat,2024-06-17,3439.2,5,3582.67,-4.0,Normal
+Karnataka,Wheat,2024-06-24,3252.75,6,3439.2,-5.42,Normal
+Karnataka,Wheat,2024-07-01,3382.92,6,3252.75,4.0,Normal
+Karnataka,Wheat,2024-07-08,3148.5,6,3382.92,-6.93,Normal
+Karnataka,Wheat,2024-07-15,3508.08,6,3148.5,11.42,Normal
+Karnataka,Wheat,2024-07-22,3145.83,6,3508.08,-10.33,Normal
+Karnataka,Wheat,2024-07-29,3285.0,6,3145.83,4.42,Normal
+Karnataka,Wheat,2024-08-05,3258.42,6,3285.0,-0.81,Normal
+Karnataka,Wheat,2024-08-12,3313.0,5,3258.42,1.68,Normal
+Karnataka,Wheat,2024-08-19,3058.5,6,3313.0,-7.68,Normal
+Karnataka,Wheat,2024-08-26,3047.17,6,3058.5,-0.37,Normal
+Karnataka,Wheat,2024-09-02,3335.4,5,3047.17,9.46,Normal
+Karnataka,Wheat,2024-09-09,3360.25,6,3335.4,0.75,Normal
+Karnataka,Wheat,2024-09-16,3391.1,5,3360.25,0.92,Normal
+Karnataka,Wheat,2024-09-23,3393.36,7,3391.1,0.07,Normal
+Karnataka,Wheat,2024-09-30,3437.92,6,3393.36,1.31,Normal
+Karnataka,Wheat,2024-10-07,3607.9,5,3437.92,4.94,Normal
+Karnataka,Wheat,2024-10-14,3426.2,5,3607.9,-5.04,Normal
+Karnataka,Wheat,2024-10-21,3469.17,6,3426.2,1.25,Normal
+Karnataka,Wheat,2024-10-28,3353.0,4,3469.17,-3.35,Normal
+Karnataka,Wheat,2024-11-04,3158.58,6,3353.0,-5.8,Normal
+Karnataka,Wheat,2024-11-11,3181.0,6,3158.58,0.71,Normal
+Karnataka,Wheat,2024-11-25,3367.92,6,3181.0,,No data
+Karnataka,Wheat,2024-12-02,3326.0,6,3367.92,-1.24,Normal
+Karnataka,Wheat,2024-12-09,3042.8,5,3326.0,-8.51,Normal
+Karnataka,Wheat,2024-12-16,3537.75,6,3042.8,16.27,Alert
+Karnataka,Wheat,2024-12-23,3661.25,4,3537.75,3.49,Normal
+Karnataka,Wheat,2024-12-30,3620.83,6,3661.25,-1.1,Normal
+Karnataka,Wheat,2025-01-06,3190.0,6,3620.83,-11.9,Normal
+Karnataka,Wheat,2025-01-13,3399.8,5,3190.0,6.58,Normal
+Karnataka,Wheat,2025-01-20,3384.58,6,3399.8,-0.45,Normal
+Karnataka,Wheat,2025-01-27,3402.5,6,3384.58,0.53,Normal
+Karnataka,Wheat,2025-02-03,3396.5,6,3402.5,-0.18,Normal
+Karnataka,Wheat,2025-02-10,3422.25,6,3396.5,0.76,Normal
+Karnataka,Wheat,2025-02-17,3444.83,6,3422.25,0.66,Normal
+Karnataka,Wheat,2025-02-24,3306.3,5,3444.83,-4.02,Normal
+Karnataka,Wheat,2025-03-03,3306.25,4,3306.3,-0.0,Normal
+Karnataka,Wheat,2025-03-10,3590.0,5,3306.25,8.58,Normal
+Karnataka,Wheat,2025-03-17,3910.0,5,3590.0,8.91,Normal
+Karnataka,Wheat,2025-03-24,3550.0,6,3910.0,-9.21,Normal
+Karnataka,Wheat,2025-03-31,3670.0,4,3550.0,3.38,Normal
+Karnataka,Wheat,2025-04-07,3578.9,5,3670.0,-2.48,Normal
+Karnataka,Wheat,2025-04-14,3422.2,5,3578.9,-4.38,Normal
+Karnataka,Wheat,2025-04-21,3603.2,5,3422.2,5.29,Normal
+Karnataka,Wheat,2025-04-28,3350.0,4,3603.2,-7.03,Normal
+Karnataka,Wheat,2025-05-05,3455.0,6,3350.0,3.13,Normal
+Karnataka,Wheat,2025-05-12,3353.0,6,3455.0,-2.95,Normal
+Karnataka,Wheat,2025-05-19,3645.0,5,3353.0,8.71,Normal
+Karnataka,Wheat,2025-05-26,3437.08,6,3645.0,-5.7,Normal
+Karnataka,Wheat,2025-06-02,3316.7,5,3437.08,-3.5,Normal
+Karnataka,Wheat,2025-06-09,3556.25,6,3316.7,7.22,Normal
+Karnataka,Wheat,2025-06-16,3598.42,6,3556.25,1.19,Normal
+Karnataka,Wheat,2025-06-23,3770.9,5,3598.42,4.79,Normal
+Karnataka,Wheat,2025-06-30,3583.92,6,3770.9,-4.96,Normal
+Karnataka,Wheat,2025-07-07,3213.2,5,3583.92,-10.34,Normal
+Karnataka,Wheat,2025-07-14,3476.79,7,3213.2,8.2,Normal
+Karnataka,Wheat,2025-07-21,3694.0,5,3476.79,6.25,Normal
+Karnataka,Wheat,2025-07-28,3740.0,6,3694.0,1.25,Normal
+Karnataka,Wheat,2025-08-04,3841.67,6,3740.0,2.72,Normal
+Karnataka,Wheat,2025-08-11,3547.5,5,3841.67,-7.66,Normal
+Karnataka,Wheat,2025-08-18,3320.83,6,3547.5,-6.39,Normal
+Karnataka,Wheat,2025-08-25,3775.0,5,3320.83,13.68,Normal
+Karnataka,Wheat,2025-09-01,3352.5,4,3775.0,-11.19,Normal
+Karnataka,Wheat,2025-09-08,3649.2,5,3352.5,8.85,Normal
+Karnataka,Wheat,2025-09-15,3227.0,6,3649.2,-11.57,Normal
+Karnataka,Wheat,2025-09-22,3326.33,6,3227.0,3.08,Normal
+Karnataka,Wheat,2025-09-29,3425.7,5,3326.33,2.99,Normal
+Karnataka,Wheat,2025-10-06,3498.88,4,3425.7,2.14,Normal
+Karnataka,Wheat,2025-10-13,3269.42,6,3498.88,-6.56,Normal
+Karnataka,Wheat,2025-10-27,3249.33,3,3269.42,,No data
+Karnataka,Wheat,2025-12-15,2978.9,5,3249.33,,No data
+Karnataka,Wheat,2025-12-29,2856.5,7,2978.9,,No data
+Karnataka,Wheat,2026-01-05,2851.62,4,2856.5,-0.17,Normal
+Karnataka,Wheat,2026-01-12,2526.0,4,2851.62,-11.42,Normal
+Karnataka,Wheat,2026-01-19,2962.33,3,2526.0,17.27,Alert
+Karnataka,Wheat,2026-01-26,2822.62,4,2962.33,-4.72,Normal
+Karnataka,Wheat,2026-02-02,3099.25,4,2822.62,9.8,Normal
+Karnataka,Wheat,2026-02-09,2896.17,6,3099.25,-6.55,Normal
+Karnataka,Wheat,2026-02-16,2851.0,5,2896.17,-1.56,Normal
+Karnataka,Wheat,2026-02-23,3503.67,3,2851.0,22.89,Alert
+Karnataka,Wheat,2026-03-16,3420.5,3,3503.67,,No data
+Karnataka,Wheat,2026-03-23,2723.83,6,3420.5,-20.37,Normal
+Karnataka,Wheat,2026-03-30,2804.71,7,2723.83,2.97,Normal
+Karnataka,Wheat,2026-04-06,2770.0,6,2804.71,-1.24,Normal
+Karnataka,Wheat,2026-04-13,2740.5,6,2770.0,-1.06,Normal
+Kerala,Onion,2024-01-01,3450.0,7,,,No data
+Kerala,Onion,2024-01-08,3414.29,7,3450.0,-1.04,Normal
+Kerala,Onion,2024-01-15,3307.14,7,3414.29,-3.14,Normal
+Kerala,Onion,2024-01-22,3128.57,7,3307.14,-5.4,Normal
+Kerala,Onion,2024-01-29,2757.14,7,3128.57,-11.87,Normal
+Kerala,Onion,2024-02-05,2785.71,7,2757.14,1.04,Normal
+Kerala,Onion,2024-02-12,2614.29,7,2785.71,-6.15,Normal
+Kerala,Onion,2024-02-19,2857.14,7,2614.29,9.29,Normal
+Kerala,Onion,2024-02-26,2971.43,7,2857.14,4.0,Normal
+Kerala,Onion,2024-03-04,2957.14,7,2971.43,-0.48,Normal
+Kerala,Onion,2024-03-11,2942.86,7,2957.14,-0.48,Normal
+Kerala,Onion,2024-03-18,2835.71,7,2942.86,-3.64,Normal
+Kerala,Onion,2024-03-25,2757.14,7,2835.71,-2.77,Normal
+Kerala,Onion,2024-04-01,2867.86,7,2757.14,4.02,Normal
+Kerala,Onion,2024-04-08,2971.43,7,2867.86,3.61,Normal
+Kerala,Onion,2024-04-15,2800.0,7,2971.43,-5.77,Normal
+Kerala,Onion,2024-04-22,2875.0,7,2800.0,2.68,Normal
+Kerala,Onion,2024-04-29,2750.0,7,2875.0,-4.35,Normal
+Kerala,Onion,2024-05-06,3278.57,7,2750.0,19.22,Alert
+Kerala,Onion,2024-05-13,3135.71,7,3278.57,-4.36,Normal
+Kerala,Onion,2024-05-20,3217.86,7,3135.71,2.62,Normal
+Kerala,Onion,2024-05-27,3232.14,7,3217.86,0.44,Normal
+Kerala,Onion,2024-06-03,3421.43,7,3232.14,5.86,Normal
+Kerala,Onion,2024-06-10,3992.86,7,3421.43,16.7,Alert
+Kerala,Onion,2024-06-17,4100.0,7,3992.86,2.68,Normal
+Kerala,Onion,2024-06-24,4057.14,7,4100.0,-1.05,Normal
+Kerala,Onion,2024-07-01,4135.71,7,4057.14,1.94,Normal
+Kerala,Onion,2024-07-08,4167.86,7,4135.71,0.78,Normal
+Kerala,Onion,2024-07-15,4114.29,7,4167.86,-1.29,Normal
+Kerala,Onion,2024-07-22,4064.29,7,4114.29,-1.22,Normal
+Kerala,Onion,2024-07-29,4057.14,7,4064.29,-0.18,Normal
+Kerala,Onion,2024-08-05,4089.29,7,4057.14,0.79,Normal
+Kerala,Onion,2024-08-12,4378.57,7,4089.29,7.07,Normal
+Kerala,Onion,2024-08-19,4557.14,7,4378.57,4.08,Normal
+Kerala,Onion,2024-08-26,4971.43,7,4557.14,9.09,Normal
+Kerala,Onion,2024-09-02,5164.29,7,4971.43,3.88,Normal
+Kerala,Onion,2024-09-09,5328.57,7,5164.29,3.18,Normal
+Kerala,Onion,2024-09-16,5528.57,7,5328.57,3.75,Normal
+Kerala,Onion,2024-09-23,5703.57,7,5528.57,3.17,Normal
+Kerala,Onion,2024-09-30,5421.43,7,5703.57,-4.95,Normal
+Kerala,Onion,2024-10-07,5492.86,7,5421.43,1.32,Normal
+Kerala,Onion,2024-10-14,5500.0,7,5492.86,0.13,Normal
+Kerala,Onion,2024-10-21,5732.14,7,5500.0,4.22,Normal
+Kerala,Onion,2024-10-28,5864.29,7,5732.14,2.31,Normal
+Kerala,Onion,2024-11-04,6407.14,7,5864.29,9.26,Normal
+Kerala,Onion,2024-11-11,6807.14,7,6407.14,6.24,Normal
+Kerala,Onion,2024-11-18,6728.57,7,6807.14,-1.15,Normal
+Kerala,Onion,2024-11-25,6700.0,7,6728.57,-0.42,Normal
+Kerala,Onion,2024-12-02,6457.14,7,6700.0,-3.62,Normal
+Kerala,Onion,2024-12-09,6314.29,7,6457.14,-2.21,Normal
+Kerala,Onion,2024-12-16,5528.57,7,6314.29,-12.44,Normal
+Kerala,Onion,2024-12-23,4650.0,7,5528.57,-15.89,Normal
+Kerala,Onion,2024-12-30,4507.14,7,4650.0,-3.07,Normal
+Kerala,Onion,2025-01-06,4464.29,7,4507.14,-0.95,Normal
+Kerala,Onion,2025-01-13,4464.29,7,4464.29,0.0,Normal
+Kerala,Onion,2025-01-20,4628.57,7,4464.29,3.68,Normal
+Kerala,Onion,2025-01-27,4442.86,7,4628.57,-4.01,Normal
+Kerala,Onion,2025-02-03,4171.43,7,4442.86,-6.11,Normal
+Kerala,Onion,2025-02-10,4178.57,7,4171.43,0.17,Normal
+Kerala,Onion,2025-02-17,4342.86,7,4178.57,3.93,Normal
+Kerala,Onion,2025-02-24,4121.43,7,4342.86,-5.1,Normal
+Kerala,Onion,2025-03-03,3914.29,7,4121.43,-5.03,Normal
+Kerala,Onion,2025-03-10,3467.86,7,3914.29,-11.41,Normal
+Kerala,Onion,2025-03-17,3192.86,7,3467.86,-7.93,Normal
+Kerala,Onion,2025-03-24,3028.57,7,3192.86,-5.15,Normal
+Kerala,Onion,2025-03-31,3035.71,7,3028.57,0.24,Normal
+Kerala,Onion,2025-04-07,2907.14,7,3035.71,-4.24,Normal
+Kerala,Onion,2025-04-14,2992.86,7,2907.14,2.95,Normal
+Kerala,Onion,2025-04-21,2914.29,7,2992.86,-2.63,Normal
+Kerala,Onion,2025-04-28,2828.57,7,2914.29,-2.94,Normal
+Kerala,Onion,2025-05-05,2700.0,7,2828.57,-4.55,Normal
+Kerala,Onion,2025-05-12,2528.57,7,2700.0,-6.35,Normal
+Kerala,Onion,2025-05-19,2514.29,7,2528.57,-0.56,Normal
+Kerala,Onion,2025-05-26,2671.43,7,2514.29,6.25,Normal
+Kerala,Onion,2025-06-02,2771.43,7,2671.43,3.74,Normal
+Kerala,Onion,2025-06-09,2900.0,7,2771.43,4.64,Normal
+Kerala,Onion,2025-06-16,3000.0,7,2900.0,3.45,Normal
+Kerala,Onion,2025-06-23,3000.0,7,3000.0,0.0,Normal
+Kerala,Onion,2025-06-30,3064.29,7,3000.0,2.14,Normal
+Kerala,Onion,2025-07-07,2971.43,7,3064.29,-3.03,Normal
+Kerala,Onion,2025-07-14,2971.43,7,2971.43,0.0,Normal
+Kerala,Onion,2025-07-21,2907.14,7,2971.43,-2.16,Normal
+Kerala,Onion,2025-07-28,2785.71,7,2907.14,-4.18,Normal
+Kerala,Onion,2025-08-04,2750.0,7,2785.71,-1.28,Normal
+Kerala,Onion,2025-08-11,2742.86,7,2750.0,-0.26,Normal
+Kerala,Onion,2025-08-18,2750.0,7,2742.86,0.26,Normal
+Kerala,Onion,2025-08-25,2867.86,7,2750.0,4.29,Normal
+Kerala,Onion,2025-09-01,2910.71,7,2867.86,1.49,Normal
+Kerala,Onion,2025-09-08,2778.57,7,2910.71,-4.54,Normal
+Kerala,Onion,2025-09-15,2571.43,7,2778.57,-7.46,Normal
+Kerala,Onion,2025-09-22,2592.86,7,2571.43,0.83,Normal
+Kerala,Onion,2025-09-29,2585.71,7,2592.86,-0.28,Normal
+Kerala,Onion,2025-10-06,2721.43,7,2585.71,5.25,Normal
+Kerala,Onion,2025-10-13,2550.0,7,2721.43,-6.3,Normal
+Kerala,Onion,2025-10-20,2471.43,7,2550.0,-3.08,Normal
+Kerala,Onion,2025-10-27,2807.14,7,2471.43,13.58,Normal
+Kerala,Onion,2025-11-03,2733.33,3,2807.14,-2.63,Normal
+Kerala,Onion,2025-12-01,2900.0,6,2733.33,,No data
+Kerala,Onion,2025-12-08,2850.0,7,2900.0,-1.72,Normal
+Kerala,Onion,2025-12-15,3621.43,7,2850.0,27.07,Severe
+Kerala,Onion,2025-12-22,3221.43,7,3621.43,-11.05,Normal
+Kerala,Onion,2025-12-29,3350.0,7,3221.43,3.99,Normal
+Kerala,Onion,2026-01-05,3335.71,7,3350.0,-0.43,Normal
+Kerala,Onion,2026-01-12,3185.71,7,3335.71,-4.5,Normal
+Kerala,Onion,2026-01-19,2985.71,7,3185.71,-6.28,Normal
+Kerala,Onion,2026-01-26,2857.14,7,2985.71,-4.31,Normal
+Kerala,Onion,2026-02-02,2992.86,7,2857.14,4.75,Normal
+Kerala,Onion,2026-02-09,2783.33,6,2992.86,-7.0,Normal
+Kerala,Onion,2026-02-16,2778.57,7,2783.33,-0.17,Normal
+Kerala,Onion,2026-02-23,2978.57,7,2778.57,7.2,Normal
+Kerala,Onion,2026-03-02,2362.5,4,2978.57,-20.68,Normal
+Kerala,Onion,2026-03-09,2590.0,5,2362.5,9.63,Normal
+Kerala,Onion,2026-03-16,2712.5,4,2590.0,4.73,Normal
+Kerala,Onion,2026-03-23,2357.14,7,2712.5,-13.1,Normal
+Kerala,Onion,2026-03-30,2514.29,7,2357.14,6.67,Normal
+Kerala,Onion,2026-04-06,2489.29,7,2514.29,-0.99,Normal
+Kerala,Onion,2026-04-13,2592.86,7,2489.29,4.16,Normal
+Kerala,Potato,2024-01-01,3146.43,7,,,No data
+Kerala,Potato,2024-01-08,3317.86,7,3146.43,5.45,Normal
+Kerala,Potato,2024-01-15,3157.14,7,3317.86,-4.84,Normal
+Kerala,Potato,2024-01-22,3117.86,7,3157.14,-1.24,Normal
+Kerala,Potato,2024-01-29,3028.57,7,3117.86,-2.86,Normal
+Kerala,Potato,2024-02-05,2985.71,7,3028.57,-1.42,Normal
+Kerala,Potato,2024-02-12,3050.0,7,2985.71,2.15,Normal
+Kerala,Potato,2024-02-19,3207.14,7,3050.0,5.15,Normal
+Kerala,Potato,2024-02-26,3178.57,7,3207.14,-0.89,Normal
+Kerala,Potato,2024-03-04,3171.43,7,3178.57,-0.22,Normal
+Kerala,Potato,2024-03-11,3392.86,7,3171.43,6.98,Normal
+Kerala,Potato,2024-03-18,3289.29,7,3392.86,-3.05,Normal
+Kerala,Potato,2024-03-25,3407.14,7,3289.29,3.58,Normal
+Kerala,Potato,2024-04-01,3672.86,7,3407.14,7.8,Normal
+Kerala,Potato,2024-04-08,3742.86,7,3672.86,1.91,Normal
+Kerala,Potato,2024-04-15,3685.71,7,3742.86,-1.53,Normal
+Kerala,Potato,2024-04-22,3621.43,7,3685.71,-1.74,Normal
+Kerala,Potato,2024-04-29,3717.86,7,3621.43,2.66,Normal
+Kerala,Potato,2024-05-06,3692.86,7,3717.86,-0.67,Normal
+Kerala,Potato,2024-05-13,3760.71,7,3692.86,1.84,Normal
+Kerala,Potato,2024-05-20,3757.14,7,3760.71,-0.09,Normal
+Kerala,Potato,2024-05-27,3810.71,7,3757.14,1.43,Normal
+Kerala,Potato,2024-06-03,3867.86,7,3810.71,1.5,Normal
+Kerala,Potato,2024-06-10,3964.29,7,3867.86,2.49,Normal
+Kerala,Potato,2024-06-17,4192.86,7,3964.29,5.77,Normal
+Kerala,Potato,2024-06-24,4164.29,7,4192.86,-0.68,Normal
+Kerala,Potato,2024-07-01,4428.57,7,4164.29,6.35,Normal
+Kerala,Potato,2024-07-08,4435.71,7,4428.57,0.16,Normal
+Kerala,Potato,2024-07-15,4471.43,7,4435.71,0.81,Normal
+Kerala,Potato,2024-07-22,4460.71,7,4471.43,-0.24,Normal
+Kerala,Potato,2024-07-29,4471.43,7,4460.71,0.24,Normal
+Kerala,Potato,2024-08-05,4378.57,7,4471.43,-2.08,Normal
+Kerala,Potato,2024-08-12,4357.14,7,4378.57,-0.49,Normal
+Kerala,Potato,2024-08-19,4300.0,7,4357.14,-1.31,Normal
+Kerala,Potato,2024-08-26,4385.71,7,4300.0,1.99,Normal
+Kerala,Potato,2024-09-02,4428.57,7,4385.71,0.98,Normal
+Kerala,Potato,2024-09-09,4435.71,7,4428.57,0.16,Normal
+Kerala,Potato,2024-09-16,4378.57,7,4435.71,-1.29,Normal
+Kerala,Potato,2024-09-23,4400.0,7,4378.57,0.49,Normal
+Kerala,Potato,2024-09-30,4300.0,7,4400.0,-2.27,Normal
+Kerala,Potato,2024-10-07,4550.0,7,4300.0,5.81,Normal
+Kerala,Potato,2024-10-14,4521.43,7,4550.0,-0.63,Normal
+Kerala,Potato,2024-10-21,4407.14,7,4521.43,-2.53,Normal
+Kerala,Potato,2024-10-28,4485.71,7,4407.14,1.78,Normal
+Kerala,Potato,2024-11-04,4500.0,7,4485.71,0.32,Normal
+Kerala,Potato,2024-11-11,4385.71,7,4500.0,-2.54,Normal
+Kerala,Potato,2024-11-18,4378.57,7,4385.71,-0.16,Normal
+Kerala,Potato,2024-11-25,4450.0,7,4378.57,1.63,Normal
+Kerala,Potato,2024-12-02,4357.14,7,4450.0,-2.09,Normal
+Kerala,Potato,2024-12-09,4257.14,7,4357.14,-2.3,Normal
+Kerala,Potato,2024-12-16,4150.0,7,4257.14,-2.52,Normal
+Kerala,Potato,2024-12-23,3935.71,7,4150.0,-5.16,Normal
+Kerala,Potato,2024-12-30,3935.71,7,3935.71,0.0,Normal
+Kerala,Potato,2025-01-06,3921.43,7,3935.71,-0.36,Normal
+Kerala,Potato,2025-01-13,3885.71,7,3921.43,-0.91,Normal
+Kerala,Potato,2025-01-20,3971.43,7,3885.71,2.21,Normal
+Kerala,Potato,2025-01-27,3685.71,7,3971.43,-7.19,Normal
+Kerala,Potato,2025-02-03,3542.86,7,3685.71,-3.88,Normal
+Kerala,Potato,2025-02-10,3528.57,7,3542.86,-0.4,Normal
+Kerala,Potato,2025-02-17,3450.0,7,3528.57,-2.23,Normal
+Kerala,Potato,2025-02-24,3478.57,7,3450.0,0.83,Normal
+Kerala,Potato,2025-03-03,3357.14,7,3478.57,-3.49,Normal
+Kerala,Potato,2025-03-10,3242.86,7,3357.14,-3.4,Normal
+Kerala,Potato,2025-03-17,3192.86,7,3242.86,-1.54,Normal
+Kerala,Potato,2025-03-24,3228.57,7,3192.86,1.12,Normal
+Kerala,Potato,2025-03-31,3217.86,7,3228.57,-0.33,Normal
+Kerala,Potato,2025-04-07,3150.0,7,3217.86,-2.11,Normal
+Kerala,Potato,2025-04-14,3292.86,7,3150.0,4.54,Normal
+Kerala,Potato,2025-04-21,3178.57,7,3292.86,-3.47,Normal
+Kerala,Potato,2025-04-28,3321.43,7,3178.57,4.49,Normal
+Kerala,Potato,2025-05-05,3385.71,7,3321.43,1.94,Normal
+Kerala,Potato,2025-05-12,3400.0,7,3385.71,0.42,Normal
+Kerala,Potato,2025-05-19,3414.29,7,3400.0,0.42,Normal
+Kerala,Potato,2025-05-26,3400.0,7,3414.29,-0.42,Normal
+Kerala,Potato,2025-06-02,3435.71,7,3400.0,1.05,Normal
+Kerala,Potato,2025-06-09,3485.71,7,3435.71,1.46,Normal
+Kerala,Potato,2025-06-16,3442.86,7,3485.71,-1.23,Normal
+Kerala,Potato,2025-06-23,3307.14,7,3442.86,-3.94,Normal
+Kerala,Potato,2025-06-30,3421.43,7,3307.14,3.46,Normal
+Kerala,Potato,2025-07-07,3314.29,7,3421.43,-3.13,Normal
+Kerala,Potato,2025-07-14,3500.0,7,3314.29,5.6,Normal
+Kerala,Potato,2025-07-21,3421.43,7,3500.0,-2.24,Normal
+Kerala,Potato,2025-07-28,3307.14,7,3421.43,-3.34,Normal
+Kerala,Potato,2025-08-04,3371.43,7,3307.14,1.94,Normal
+Kerala,Potato,2025-08-11,3314.29,7,3371.43,-1.69,Normal
+Kerala,Potato,2025-08-18,3414.29,7,3314.29,3.02,Normal
+Kerala,Potato,2025-08-25,3350.0,7,3414.29,-1.88,Normal
+Kerala,Potato,2025-09-01,3350.0,7,3350.0,0.0,Normal
+Kerala,Potato,2025-09-08,3292.86,7,3350.0,-1.71,Normal
+Kerala,Potato,2025-09-15,3192.86,7,3292.86,-3.04,Normal
+Kerala,Potato,2025-09-22,3400.0,7,3192.86,6.49,Normal
+Kerala,Potato,2025-09-29,3228.57,7,3400.0,-5.04,Normal
+Kerala,Potato,2025-10-06,3328.57,7,3228.57,3.1,Normal
+Kerala,Potato,2025-10-13,3357.14,7,3328.57,0.86,Normal
+Kerala,Potato,2025-10-20,3600.0,7,3357.14,7.23,Normal
+Kerala,Potato,2025-10-27,3735.71,7,3600.0,3.77,Normal
+Kerala,Potato,2025-11-03,3766.67,3,3735.71,0.83,Normal
+Kerala,Potato,2025-12-01,3550.0,7,3766.67,,No data
+Kerala,Potato,2025-12-08,3457.14,7,3550.0,-2.62,Normal
+Kerala,Potato,2025-12-15,3611.57,7,3457.14,4.47,Normal
+Kerala,Potato,2025-12-22,3550.0,7,3611.57,-1.7,Normal
+Kerala,Potato,2025-12-29,3135.71,7,3550.0,-11.67,Normal
+Kerala,Potato,2026-01-05,3392.86,7,3135.71,8.2,Normal
+Kerala,Potato,2026-01-12,3228.57,7,3392.86,-4.84,Normal
+Kerala,Potato,2026-01-19,3178.57,7,3228.57,-1.55,Normal
+Kerala,Potato,2026-01-26,3021.43,7,3178.57,-4.94,Normal
+Kerala,Potato,2026-02-02,2966.67,6,3021.43,-1.81,Normal
+Kerala,Potato,2026-02-09,3021.43,7,2966.67,1.85,Normal
+Kerala,Potato,2026-02-16,2972.86,7,3021.43,-1.61,Normal
+Kerala,Potato,2026-02-23,3058.33,6,2972.86,2.88,Normal
+Kerala,Potato,2026-03-02,3250.0,4,3058.33,6.27,Normal
+Kerala,Potato,2026-03-09,3066.67,6,3250.0,-5.64,Normal
+Kerala,Potato,2026-03-16,2875.0,4,3066.67,-6.25,Normal
+Kerala,Potato,2026-03-23,2957.14,7,2875.0,2.86,Normal
+Kerala,Potato,2026-03-30,3021.43,7,2957.14,2.17,Normal
+Kerala,Potato,2026-04-06,2807.14,7,3021.43,-7.09,Normal
+Kerala,Potato,2026-04-13,2885.71,7,2807.14,2.8,Normal
+Kerala,Rice,2024-01-01,4654.17,6,,,No data
+Kerala,Rice,2024-01-08,4710.0,5,4654.17,1.2,Normal
+Kerala,Rice,2024-01-15,4717.86,7,4710.0,0.17,Normal
+Kerala,Rice,2024-01-22,4708.33,6,4717.86,-0.2,Normal
+Kerala,Rice,2024-01-29,4714.29,7,4708.33,0.13,Normal
+Kerala,Rice,2024-02-05,4654.17,6,4714.29,-1.28,Normal
+Kerala,Rice,2024-02-12,4725.0,6,4654.17,1.52,Normal
+Kerala,Rice,2024-02-19,4714.29,7,4725.0,-0.23,Normal
+Kerala,Rice,2024-02-26,4666.67,6,4714.29,-1.01,Normal
+Kerala,Rice,2024-03-04,4683.33,6,4666.67,0.36,Normal
+Kerala,Rice,2024-03-11,4716.67,6,4683.33,0.71,Normal
+Kerala,Rice,2024-03-18,4714.29,7,4716.67,-0.05,Normal
+Kerala,Rice,2024-03-25,4666.67,6,4714.29,-1.01,Normal
+Kerala,Rice,2024-04-01,4670.0,5,4666.67,0.07,Normal
+Kerala,Rice,2024-04-08,4582.14,7,4670.0,-1.88,Normal
+Kerala,Rice,2024-04-15,4703.57,7,4582.14,2.65,Normal
+Kerala,Rice,2024-04-22,4654.17,6,4703.57,-1.05,Normal
+Kerala,Rice,2024-04-29,4603.57,7,4654.17,-1.09,Normal
+Kerala,Rice,2024-05-06,4662.5,6,4603.57,1.28,Normal
+Kerala,Rice,2024-05-13,4750.0,6,4662.5,1.88,Normal
+Kerala,Rice,2024-05-20,4635.71,7,4750.0,-2.41,Normal
+Kerala,Rice,2024-05-27,4641.67,6,4635.71,0.13,Normal
+Kerala,Rice,2024-06-03,4682.14,7,4641.67,0.87,Normal
+Kerala,Rice,2024-06-10,4687.86,7,4682.14,0.12,Normal
+Kerala,Rice,2024-06-17,4654.17,6,4687.86,-0.72,Normal
+Kerala,Rice,2024-06-24,4687.5,6,4654.17,0.72,Normal
+Kerala,Rice,2024-07-01,4654.17,6,4687.5,-0.71,Normal
+Kerala,Rice,2024-07-08,4714.29,7,4654.17,1.29,Normal
+Kerala,Rice,2024-07-15,4545.83,6,4714.29,-3.57,Normal
+Kerala,Rice,2024-07-22,4750.0,6,4545.83,4.49,Normal
+Kerala,Rice,2024-07-29,4770.83,6,4750.0,0.44,Normal
+Kerala,Rice,2024-08-05,4608.33,6,4770.83,-3.41,Normal
+Kerala,Rice,2024-08-12,4710.0,5,4608.33,2.21,Normal
+Kerala,Rice,2024-08-19,4800.0,6,4710.0,1.91,Normal
+Kerala,Rice,2024-08-26,4679.17,6,4800.0,-2.52,Normal
+Kerala,Rice,2024-09-02,4750.0,6,4679.17,1.51,Normal
+Kerala,Rice,2024-09-09,4691.67,6,4750.0,-1.23,Normal
+Kerala,Rice,2024-09-16,4770.0,5,4691.67,1.67,Normal
+Kerala,Rice,2024-09-23,4778.57,7,4770.0,0.18,Normal
+Kerala,Rice,2024-09-30,4639.29,7,4778.57,-2.91,Normal
+Kerala,Rice,2024-10-07,4795.83,6,4639.29,3.37,Normal
+Kerala,Rice,2024-10-14,4775.0,6,4795.83,-0.43,Normal
+Kerala,Rice,2024-10-21,4704.17,6,4775.0,-1.48,Normal
+Kerala,Rice,2024-10-28,4762.5,6,4704.17,1.24,Normal
+Kerala,Rice,2024-11-04,4796.43,7,4762.5,0.71,Normal
+Kerala,Rice,2024-11-11,4812.5,6,4796.43,0.34,Normal
+Kerala,Rice,2024-11-18,4700.0,6,4812.5,-2.34,Normal
+Kerala,Rice,2024-11-25,4792.86,7,4700.0,1.98,Normal
+Kerala,Rice,2024-12-02,4854.17,6,4792.86,1.28,Normal
+Kerala,Rice,2024-12-09,4779.17,6,4854.17,-1.55,Normal
+Kerala,Rice,2024-12-16,4625.0,6,4779.17,-3.23,Normal
+Kerala,Rice,2024-12-23,4755.0,5,4625.0,2.81,Normal
+Kerala,Rice,2025-01-06,4266.67,3,4755.0,,No data
+Kerala,Rice,2025-01-13,4440.0,5,4266.67,4.06,Normal
+Kerala,Rice,2025-01-20,4793.75,4,4440.0,7.97,Normal
+Kerala,Rice,2025-01-27,4691.67,6,4793.75,-2.13,Normal
+Kerala,Rice,2025-02-03,4687.5,6,4691.67,-0.09,Normal
+Kerala,Rice,2025-02-10,4585.71,7,4687.5,-2.17,Normal
+Kerala,Rice,2025-02-17,4496.43,7,4585.71,-1.95,Normal
+Kerala,Rice,2025-02-24,4678.57,7,4496.43,4.05,Normal
+Kerala,Rice,2025-03-03,4625.0,7,4678.57,-1.15,Normal
+Kerala,Rice,2025-03-10,4625.0,7,4625.0,0.0,Normal
+Kerala,Rice,2025-03-17,4675.0,7,4625.0,1.08,Normal
+Kerala,Rice,2025-03-24,4625.0,6,4675.0,-1.07,Normal
+Kerala,Rice,2025-03-31,4780.0,5,4625.0,3.35,Normal
+Kerala,Rice,2025-04-07,4787.5,6,4780.0,0.16,Normal
+Kerala,Rice,2025-04-14,4795.0,5,4787.5,0.16,Normal
+Kerala,Rice,2025-04-21,4725.0,6,4795.0,-1.46,Normal
+Kerala,Rice,2025-04-28,4612.5,4,4725.0,-2.38,Normal
+Kerala,Rice,2025-05-05,4670.83,6,4612.5,1.26,Normal
+Kerala,Rice,2025-05-12,4696.43,7,4670.83,0.55,Normal
+Kerala,Rice,2025-05-19,4812.5,6,4696.43,2.47,Normal
+Kerala,Rice,2025-05-26,4855.0,5,4812.5,0.88,Normal
+Kerala,Rice,2025-06-02,4787.5,4,4855.0,-1.39,Normal
+Kerala,Rice,2025-06-09,4837.5,6,4787.5,1.04,Normal
+Kerala,Rice,2025-06-16,4812.5,6,4837.5,-0.52,Normal
+Kerala,Rice,2025-06-23,4800.0,6,4812.5,-0.26,Normal
+Kerala,Rice,2025-06-30,4825.0,5,4800.0,0.52,Normal
+Kerala,Rice,2025-07-07,4816.67,6,4825.0,-0.17,Normal
+Kerala,Rice,2025-07-14,4840.0,5,4816.67,0.48,Normal
+Kerala,Rice,2025-07-21,4816.67,6,4840.0,-0.48,Normal
+Kerala,Rice,2025-07-28,4945.83,6,4816.67,2.68,Normal
+Kerala,Rice,2025-08-04,4716.67,6,4945.83,-4.63,Normal
+Kerala,Rice,2025-08-11,4895.83,6,4716.67,3.8,Normal
+Kerala,Rice,2025-08-18,4892.86,7,4895.83,-0.06,Normal
+Kerala,Rice,2025-08-25,4995.83,6,4892.86,2.1,Normal
+Kerala,Rice,2025-09-01,4841.67,6,4995.83,-3.09,Normal
+Kerala,Rice,2025-09-08,4800.0,5,4841.67,-0.86,Normal
+Kerala,Rice,2025-09-15,4767.86,7,4800.0,-0.67,Normal
+Kerala,Rice,2025-09-22,4839.29,7,4767.86,1.5,Normal
+Kerala,Rice,2025-09-29,4491.67,6,4839.29,-7.18,Normal
+Kerala,Rice,2025-10-06,4603.57,7,4491.67,2.49,Normal
+Kerala,Rice,2025-10-13,4810.71,7,4603.57,4.5,Normal
+Kerala,Rice,2025-10-27,4800.0,3,4810.71,,No data
+Kerala,Rice,2025-12-08,5100.0,5,4800.0,,No data
+Kerala,Rice,2025-12-15,4775.0,4,5100.0,-6.37,Normal
+Kerala,Rice,2025-12-22,4858.33,3,4775.0,1.75,Normal
+Kerala,Rice,2025-12-29,5112.5,4,4858.33,5.23,Normal
+Kerala,Rice,2026-01-05,4900.0,4,5112.5,-4.16,Normal
+Kerala,Rice,2026-01-12,5200.0,3,4900.0,6.12,Normal
+Kerala,Rice,2026-01-26,4900.0,3,5200.0,,No data
+Kerala,Rice,2026-02-02,4900.0,3,4900.0,0.0,Normal
+Kerala,Rice,2026-02-09,5066.67,3,4900.0,3.4,Normal
+Kerala,Rice,2026-02-23,4900.0,4,5066.67,,No data
+Kerala,Rice,2026-04-13,4800.0,3,4900.0,,No data
+Kerala,Tomato,2024-01-01,3775.0,7,,,No data
+Kerala,Tomato,2024-01-08,3457.14,7,3775.0,-8.42,Normal
+Kerala,Tomato,2024-01-15,3421.43,7,3457.14,-1.03,Normal
+Kerala,Tomato,2024-01-22,3500.0,7,3421.43,2.3,Normal
+Kerala,Tomato,2024-01-29,3442.86,7,3500.0,-1.63,Normal
+Kerala,Tomato,2024-02-05,3553.57,7,3442.86,3.22,Normal
+Kerala,Tomato,2024-02-12,3500.0,7,3553.57,-1.51,Normal
+Kerala,Tomato,2024-02-19,3100.0,7,3500.0,-11.43,Normal
+Kerala,Tomato,2024-02-26,2907.14,7,3100.0,-6.22,Normal
+Kerala,Tomato,2024-03-04,2892.86,7,2907.14,-0.49,Normal
+Kerala,Tomato,2024-03-11,2957.14,7,2892.86,2.22,Normal
+Kerala,Tomato,2024-03-18,2778.57,7,2957.14,-6.04,Normal
+Kerala,Tomato,2024-03-25,2878.57,7,2778.57,3.6,Normal
+Kerala,Tomato,2024-04-01,3089.29,7,2878.57,7.32,Normal
+Kerala,Tomato,2024-04-08,3510.71,7,3089.29,13.64,Normal
+Kerala,Tomato,2024-04-15,3085.71,7,3510.71,-12.11,Normal
+Kerala,Tomato,2024-04-22,3325.0,7,3085.71,7.75,Normal
+Kerala,Tomato,2024-04-29,3335.71,7,3325.0,0.32,Normal
+Kerala,Tomato,2024-05-06,3353.57,7,3335.71,0.54,Normal
+Kerala,Tomato,2024-05-13,3478.57,7,3353.57,3.73,Normal
+Kerala,Tomato,2024-05-20,4278.57,7,3478.57,23.0,Alert
+Kerala,Tomato,2024-05-27,4603.57,7,4278.57,7.6,Normal
+Kerala,Tomato,2024-06-03,5128.57,7,4603.57,11.4,Normal
+Kerala,Tomato,2024-06-10,5757.14,7,5128.57,12.26,Normal
+Kerala,Tomato,2024-06-17,7621.43,7,5757.14,32.38,Severe
+Kerala,Tomato,2024-06-24,6685.71,7,7621.43,-12.28,Normal
+Kerala,Tomato,2024-07-01,5985.71,7,6685.71,-10.47,Normal
+Kerala,Tomato,2024-07-08,5628.57,7,5985.71,-5.97,Normal
+Kerala,Tomato,2024-07-15,6425.0,7,5628.57,14.15,Normal
+Kerala,Tomato,2024-07-22,5421.43,7,6425.0,-15.62,Normal
+Kerala,Tomato,2024-07-29,3900.0,7,5421.43,-28.06,Normal
+Kerala,Tomato,2024-08-05,3121.43,7,3900.0,-19.96,Normal
+Kerala,Tomato,2024-08-12,2992.86,7,3121.43,-4.12,Normal
+Kerala,Tomato,2024-08-19,2900.0,7,2992.86,-3.1,Normal
+Kerala,Tomato,2024-08-26,2742.86,7,2900.0,-5.42,Normal
+Kerala,Tomato,2024-09-02,2975.0,7,2742.86,8.46,Normal
+Kerala,Tomato,2024-09-09,3071.43,7,2975.0,3.24,Normal
+Kerala,Tomato,2024-09-16,3314.29,7,3071.43,7.91,Normal
+Kerala,Tomato,2024-09-23,4242.86,7,3314.29,28.02,Severe
+Kerala,Tomato,2024-09-30,5428.57,7,4242.86,27.95,Severe
+Kerala,Tomato,2024-10-07,5628.57,7,5428.57,3.68,Normal
+Kerala,Tomato,2024-10-14,5092.86,7,5628.57,-9.52,Normal
+Kerala,Tomato,2024-10-21,5042.86,7,5092.86,-0.98,Normal
+Kerala,Tomato,2024-10-28,4085.71,7,5042.86,-18.98,Normal
+Kerala,Tomato,2024-11-04,3685.71,7,4085.71,-9.79,Normal
+Kerala,Tomato,2024-11-11,2992.86,7,3685.71,-18.8,Normal
+Kerala,Tomato,2024-11-18,3275.0,7,2992.86,9.43,Normal
+Kerala,Tomato,2024-11-25,3814.29,7,3275.0,16.47,Alert
+Kerala,Tomato,2024-12-02,4625.71,7,3814.29,21.27,Alert
+Kerala,Tomato,2024-12-09,3807.14,7,4625.71,-17.7,Normal
+Kerala,Tomato,2024-12-16,3257.14,7,3807.14,-14.45,Normal
+Kerala,Tomato,2024-12-23,3421.43,7,3257.14,5.04,Normal
+Kerala,Tomato,2024-12-30,2875.0,7,3421.43,-15.97,Normal
+Kerala,Tomato,2025-01-06,2928.57,7,2875.0,1.86,Normal
+Kerala,Tomato,2025-01-13,2900.0,7,2928.57,-0.98,Normal
+Kerala,Tomato,2025-01-20,2796.43,7,2900.0,-3.57,Normal
+Kerala,Tomato,2025-01-27,2878.57,7,2796.43,2.94,Normal
+Kerala,Tomato,2025-02-03,2750.0,7,2878.57,-4.47,Normal
+Kerala,Tomato,2025-02-10,2857.14,7,2750.0,3.9,Normal
+Kerala,Tomato,2025-02-17,2764.29,7,2857.14,-3.25,Normal
+Kerala,Tomato,2025-02-24,2642.86,7,2764.29,-4.39,Normal
+Kerala,Tomato,2025-03-03,2542.86,7,2642.86,-3.78,Normal
+Kerala,Tomato,2025-03-10,2478.57,7,2542.86,-2.53,Normal
+Kerala,Tomato,2025-03-17,2500.0,7,2478.57,0.86,Normal
+Kerala,Tomato,2025-03-24,2471.43,7,2500.0,-1.14,Normal
+Kerala,Tomato,2025-03-31,2585.71,7,2471.43,4.62,Normal
+Kerala,Tomato,2025-04-07,2492.86,7,2585.71,-3.59,Normal
+Kerala,Tomato,2025-04-14,2607.14,7,2492.86,4.58,Normal
+Kerala,Tomato,2025-04-21,2592.86,7,2607.14,-0.55,Normal
+Kerala,Tomato,2025-04-28,2507.14,7,2592.86,-3.31,Normal
+Kerala,Tomato,2025-05-05,2642.86,7,2507.14,5.41,Normal
+Kerala,Tomato,2025-05-12,2614.29,7,2642.86,-1.08,Normal
+Kerala,Tomato,2025-05-19,2653.57,7,2614.29,1.5,Normal
+Kerala,Tomato,2025-05-26,2678.57,7,2653.57,0.94,Normal
+Kerala,Tomato,2025-06-02,3021.43,7,2678.57,12.8,Normal
+Kerala,Tomato,2025-06-09,3128.57,7,3021.43,3.55,Normal
+Kerala,Tomato,2025-06-16,2985.71,7,3128.57,-4.57,Normal
+Kerala,Tomato,2025-06-23,3114.29,7,2985.71,4.31,Normal
+Kerala,Tomato,2025-06-30,3567.86,7,3114.29,14.56,Normal
+Kerala,Tomato,2025-07-07,3442.86,7,3567.86,-3.5,Normal
+Kerala,Tomato,2025-07-14,3335.71,7,3442.86,-3.11,Normal
+Kerala,Tomato,2025-07-21,3764.29,7,3335.71,12.85,Normal
+Kerala,Tomato,2025-07-28,4228.57,7,3764.29,12.33,Normal
+Kerala,Tomato,2025-08-04,4185.71,7,4228.57,-1.01,Normal
+Kerala,Tomato,2025-08-11,4157.14,7,4185.71,-0.68,Normal
+Kerala,Tomato,2025-08-18,4385.71,7,4157.14,5.5,Normal
+Kerala,Tomato,2025-08-25,4628.57,7,4385.71,5.54,Normal
+Kerala,Tomato,2025-09-01,3907.14,7,4628.57,-15.59,Normal
+Kerala,Tomato,2025-09-08,3150.0,7,3907.14,-19.38,Normal
+Kerala,Tomato,2025-09-15,2885.71,7,3150.0,-8.39,Normal
+Kerala,Tomato,2025-09-22,3064.29,7,2885.71,6.19,Normal
+Kerala,Tomato,2025-09-29,2928.57,7,3064.29,-4.43,Normal
+Kerala,Tomato,2025-10-06,3057.14,7,2928.57,4.39,Normal
+Kerala,Tomato,2025-10-13,2900.0,7,3057.14,-5.14,Normal
+Kerala,Tomato,2025-10-20,3085.71,7,2900.0,6.4,Normal
+Kerala,Tomato,2025-10-27,3142.86,7,3085.71,1.85,Normal
+Kerala,Tomato,2025-11-03,2833.33,3,3142.86,-9.85,Normal
+Kerala,Tomato,2025-12-01,5140.0,5,2833.33,,No data
+Kerala,Tomato,2025-12-08,4607.14,7,5140.0,-10.37,Normal
+Kerala,Tomato,2025-12-15,4999.79,7,4607.14,8.52,Normal
+Kerala,Tomato,2025-12-22,5576.79,7,4999.79,11.54,Normal
+Kerala,Tomato,2025-12-29,6085.71,7,5576.79,9.13,Normal
+Kerala,Tomato,2026-01-05,5200.0,7,6085.71,-14.55,Normal
+Kerala,Tomato,2026-01-12,4107.14,7,5200.0,-21.02,Normal
+Kerala,Tomato,2026-01-19,3928.57,7,4107.14,-4.35,Normal
+Kerala,Tomato,2026-01-26,3242.86,7,3928.57,-17.45,Normal
+Kerala,Tomato,2026-02-02,3208.33,6,3242.86,-1.06,Normal
+Kerala,Tomato,2026-02-09,3050.0,7,3208.33,-4.94,Normal
+Kerala,Tomato,2026-02-16,3178.57,7,3050.0,4.22,Normal
+Kerala,Tomato,2026-02-23,2908.33,6,3178.57,-8.5,Normal
+Kerala,Tomato,2026-03-02,3310.0,5,2908.33,13.81,Normal
+Kerala,Tomato,2026-03-09,2700.0,6,3310.0,-18.43,Normal
+Kerala,Tomato,2026-03-16,2550.0,4,2700.0,-5.56,Normal
+Kerala,Tomato,2026-03-23,2835.71,7,2550.0,11.2,Normal
+Kerala,Tomato,2026-03-30,2892.86,7,2835.71,2.02,Normal
+Kerala,Tomato,2026-04-06,2871.43,7,2892.86,-0.74,Normal
+Kerala,Tomato,2026-04-13,3735.71,7,2871.43,30.1,Severe
+Maharashtra,Onion,2024-01-01,1741.07,7,,,No data
+Maharashtra,Onion,2024-01-08,1607.21,7,1741.07,-7.69,Normal
+Maharashtra,Onion,2024-01-15,1417.5,7,1607.21,-11.8,Normal
+Maharashtra,Onion,2024-01-22,1115.71,7,1417.5,-21.29,Normal
+Maharashtra,Onion,2024-01-29,1140.0,7,1115.71,2.18,Normal
+Maharashtra,Onion,2024-02-05,1099.29,7,1140.0,-3.57,Normal
+Maharashtra,Onion,2024-02-12,1139.29,7,1099.29,3.64,Normal
+Maharashtra,Onion,2024-02-19,1496.5,7,1139.29,31.35,Severe
+Maharashtra,Onion,2024-02-26,1561.79,7,1496.5,4.36,Normal
+Maharashtra,Onion,2024-03-04,1537.86,7,1561.79,-1.53,Normal
+Maharashtra,Onion,2024-03-11,1407.14,7,1537.86,-8.5,Normal
+Maharashtra,Onion,2024-03-18,1204.29,7,1407.14,-14.42,Normal
+Maharashtra,Onion,2024-03-25,1281.36,7,1204.29,6.4,Normal
+Maharashtra,Onion,2024-04-01,1246.43,7,1281.36,-2.73,Normal
+Maharashtra,Onion,2024-04-08,1210.0,5,1246.43,-2.92,Normal
+Maharashtra,Onion,2024-04-15,1226.11,6,1210.0,1.33,Normal
+Maharashtra,Onion,2024-04-22,1212.57,7,1226.11,-1.1,Normal
+Maharashtra,Onion,2024-04-29,1292.86,7,1212.57,6.62,Normal
+Maharashtra,Onion,2024-05-06,1457.14,7,1292.86,12.71,Normal
+Maharashtra,Onion,2024-05-13,1407.14,7,1457.14,-3.43,Normal
+Maharashtra,Onion,2024-05-20,1443.93,7,1407.14,2.61,Normal
+Maharashtra,Onion,2024-05-27,1687.86,7,1443.93,16.89,Alert
+Maharashtra,Onion,2024-06-03,2027.14,7,1687.86,20.1,Alert
+Maharashtra,Onion,2024-06-10,2347.57,7,2027.14,15.81,Alert
+Maharashtra,Onion,2024-06-17,2614.36,7,2347.57,11.36,Normal
+Maharashtra,Onion,2024-06-24,2661.43,7,2614.36,1.8,Normal
+Maharashtra,Onion,2024-07-01,2725.0,7,2661.43,2.39,Normal
+Maharashtra,Onion,2024-07-08,2632.14,7,2725.0,-3.41,Normal
+Maharashtra,Onion,2024-07-15,2596.43,7,2632.14,-1.36,Normal
+Maharashtra,Onion,2024-07-22,2573.29,7,2596.43,-0.89,Normal
+Maharashtra,Onion,2024-07-29,2557.14,7,2573.29,-0.63,Normal
+Maharashtra,Onion,2024-08-05,2789.29,7,2557.14,9.08,Normal
+Maharashtra,Onion,2024-08-12,3032.14,7,2789.29,8.71,Normal
+Maharashtra,Onion,2024-08-19,3420.0,7,3032.14,12.79,Normal
+Maharashtra,Onion,2024-08-26,3514.29,7,3420.0,2.76,Normal
+Maharashtra,Onion,2024-09-02,3715.71,7,3514.29,5.73,Normal
+Maharashtra,Onion,2024-09-09,3825.0,7,3715.71,2.94,Normal
+Maharashtra,Onion,2024-09-16,4128.86,7,3825.0,7.94,Normal
+Maharashtra,Onion,2024-09-23,4032.14,7,4128.86,-2.34,Normal
+Maharashtra,Onion,2024-09-30,3682.5,7,4032.14,-8.67,Normal
+Maharashtra,Onion,2024-10-07,3483.33,6,3682.5,-5.41,Normal
+Maharashtra,Onion,2024-10-14,3651.36,7,3483.33,4.82,Normal
+Maharashtra,Onion,2024-10-21,3760.71,7,3651.36,2.99,Normal
+Maharashtra,Onion,2024-10-28,3146.43,7,3760.71,-16.33,Normal
+Maharashtra,Onion,2024-11-04,4179.0,7,3146.43,32.82,Severe
+Maharashtra,Onion,2024-11-11,4064.36,7,4179.0,-2.74,Normal
+Maharashtra,Onion,2024-11-18,3939.29,7,4064.36,-3.08,Normal
+Maharashtra,Onion,2024-11-25,3870.83,6,3939.29,-1.74,Normal
+Maharashtra,Onion,2024-12-02,3528.57,7,3870.83,-8.84,Normal
+Maharashtra,Onion,2024-12-09,3339.71,7,3528.57,-5.35,Normal
+Maharashtra,Onion,2024-12-16,2039.57,7,3339.71,-38.93,Normal
+Maharashtra,Onion,2024-12-23,2023.21,7,2039.57,-0.8,Normal
+Maharashtra,Onion,2024-12-30,2297.86,7,2023.21,13.57,Normal
+Maharashtra,Onion,2025-01-06,2080.36,7,2297.86,-9.47,Normal
+Maharashtra,Onion,2025-01-13,1972.14,7,2080.36,-5.2,Normal
+Maharashtra,Onion,2025-01-20,2207.14,7,1972.14,11.92,Normal
+Maharashtra,Onion,2025-01-27,2029.29,7,2207.14,-8.06,Normal
+Maharashtra,Onion,2025-02-03,2092.5,7,2029.29,3.12,Normal
+Maharashtra,Onion,2025-02-10,2362.61,7,2092.5,12.91,Normal
+Maharashtra,Onion,2025-02-17,2243.57,7,2362.61,-5.04,Normal
+Maharashtra,Onion,2025-02-24,2118.0,7,2243.57,-5.6,Normal
+Maharashtra,Onion,2025-03-03,1930.36,7,2118.0,-8.86,Normal
+Maharashtra,Onion,2025-03-10,1457.29,7,1930.36,-24.51,Normal
+Maharashtra,Onion,2025-03-17,1348.57,7,1457.29,-7.46,Normal
+Maharashtra,Onion,2025-03-24,1357.14,7,1348.57,0.64,Normal
+Maharashtra,Onion,2025-03-31,1252.14,7,1357.14,-7.74,Normal
+Maharashtra,Onion,2025-04-07,1141.07,7,1252.14,-8.87,Normal
+Maharashtra,Onion,2025-04-14,1047.5,7,1141.07,-8.2,Normal
+Maharashtra,Onion,2025-04-21,1030.36,7,1047.5,-1.64,Normal
+Maharashtra,Onion,2025-04-28,1008.57,7,1030.36,-2.11,Normal
+Maharashtra,Onion,2025-05-05,997.86,7,1008.57,-1.06,Normal
+Maharashtra,Onion,2025-05-12,1004.17,6,997.86,0.63,Normal
+Maharashtra,Onion,2025-05-19,1021.43,7,1004.17,1.72,Normal
+Maharashtra,Onion,2025-05-26,1152.14,7,1021.43,12.8,Normal
+Maharashtra,Onion,2025-06-02,1200.0,7,1152.14,4.15,Normal
+Maharashtra,Onion,2025-06-09,1364.29,7,1200.0,13.69,Normal
+Maharashtra,Onion,2025-06-16,1385.71,7,1364.29,1.57,Normal
+Maharashtra,Onion,2025-06-23,1394.64,7,1385.71,0.64,Normal
+Maharashtra,Onion,2025-06-30,1376.07,7,1394.64,-1.33,Normal
+Maharashtra,Onion,2025-07-07,1308.0,7,1376.07,-4.95,Normal
+Maharashtra,Onion,2025-07-14,1268.57,7,1308.0,-3.01,Normal
+Maharashtra,Onion,2025-07-21,1226.79,7,1268.57,-3.29,Normal
+Maharashtra,Onion,2025-07-28,1214.29,7,1226.79,-1.02,Normal
+Maharashtra,Onion,2025-08-04,1207.14,7,1214.29,-0.59,Normal
+Maharashtra,Onion,2025-08-11,1392.86,7,1207.14,15.38,Alert
+Maharashtra,Onion,2025-08-18,1364.29,7,1392.86,-2.05,Normal
+Maharashtra,Onion,2025-08-25,1221.57,7,1364.29,-10.46,Normal
+Maharashtra,Onion,2025-09-01,1217.86,7,1221.57,-0.3,Normal
+Maharashtra,Onion,2025-09-08,1083.71,7,1217.86,-11.01,Normal
+Maharashtra,Onion,2025-09-15,1055.36,7,1083.71,-2.62,Normal
+Maharashtra,Onion,2025-09-22,1096.14,7,1055.36,3.86,Normal
+Maharashtra,Onion,2025-09-29,1100.0,7,1096.14,0.35,Normal
+Maharashtra,Onion,2025-10-06,1059.64,7,1100.0,-3.67,Normal
+Maharashtra,Onion,2025-10-13,997.14,7,1059.64,-5.9,Normal
+Maharashtra,Onion,2025-10-20,1245.83,6,997.14,24.94,Alert
+Maharashtra,Onion,2025-10-27,1360.0,7,1245.83,9.16,Normal
+Maharashtra,Onion,2025-12-01,1137.0,5,1360.0,,No data
+Maharashtra,Onion,2025-12-08,1500.0,7,1137.0,31.93,Severe
+Maharashtra,Onion,2025-12-15,1734.29,7,1500.0,15.62,Alert
+Maharashtra,Onion,2025-12-22,1438.64,7,1734.29,-17.05,Normal
+Maharashtra,Onion,2025-12-29,1510.79,7,1438.64,5.01,Normal
+Maharashtra,Onion,2026-01-05,1383.93,7,1510.79,-8.4,Normal
+Maharashtra,Onion,2026-01-12,1264.29,7,1383.93,-8.65,Normal
+Maharashtra,Onion,2026-01-19,1330.0,7,1264.29,5.2,Normal
+Maharashtra,Onion,2026-01-26,1175.0,7,1330.0,-11.65,Normal
+Maharashtra,Onion,2026-02-02,1076.79,7,1175.0,-8.36,Normal
+Maharashtra,Onion,2026-02-09,1084.64,7,1076.79,0.73,Normal
+Maharashtra,Onion,2026-02-16,1023.57,7,1084.64,-5.63,Normal
+Maharashtra,Onion,2026-02-23,943.33,6,1023.57,-7.84,Normal
+Maharashtra,Onion,2026-03-02,898.33,3,943.33,-4.77,Normal
+Maharashtra,Onion,2026-03-09,975.0,5,898.33,8.53,Normal
+Maharashtra,Onion,2026-03-16,966.83,3,975.0,-0.84,Normal
+Maharashtra,Onion,2026-03-23,918.57,7,966.83,-4.99,Normal
+Maharashtra,Onion,2026-03-30,944.64,7,918.57,2.84,Normal
+Maharashtra,Onion,2026-04-06,927.14,7,944.64,-1.85,Normal
+Maharashtra,Onion,2026-04-13,848.57,7,927.14,-8.47,Normal
+Maharashtra,Potato,2024-01-01,1425.0,7,,,No data
+Maharashtra,Potato,2024-01-08,1385.71,7,1425.0,-2.76,Normal
+Maharashtra,Potato,2024-01-15,1296.43,7,1385.71,-6.44,Normal
+Maharashtra,Potato,2024-01-22,1275.0,7,1296.43,-1.65,Normal
+Maharashtra,Potato,2024-01-29,1246.43,7,1275.0,-2.24,Normal
+Maharashtra,Potato,2024-02-05,1366.07,7,1246.43,9.6,Normal
+Maharashtra,Potato,2024-02-12,1400.0,7,1366.07,2.48,Normal
+Maharashtra,Potato,2024-02-19,1450.0,7,1400.0,3.57,Normal
+Maharashtra,Potato,2024-02-26,1435.71,7,1450.0,-0.99,Normal
+Maharashtra,Potato,2024-03-04,1510.71,7,1435.71,5.22,Normal
+Maharashtra,Potato,2024-03-11,1557.14,7,1510.71,3.07,Normal
+Maharashtra,Potato,2024-03-18,1582.14,7,1557.14,1.61,Normal
+Maharashtra,Potato,2024-03-25,1707.14,7,1582.14,7.9,Normal
+Maharashtra,Potato,2024-04-01,1880.36,7,1707.14,10.15,Normal
+Maharashtra,Potato,2024-04-08,1925.0,5,1880.36,2.37,Normal
+Maharashtra,Potato,2024-04-15,2030.0,5,1925.0,5.45,Normal
+Maharashtra,Potato,2024-04-22,2063.21,7,2030.0,1.64,Normal
+Maharashtra,Potato,2024-04-29,2055.36,7,2063.21,-0.38,Normal
+Maharashtra,Potato,2024-05-06,2125.0,7,2055.36,3.39,Normal
+Maharashtra,Potato,2024-05-13,2155.36,7,2125.0,1.43,Normal
+Maharashtra,Potato,2024-05-20,2182.14,7,2155.36,1.24,Normal
+Maharashtra,Potato,2024-05-27,2185.71,7,2182.14,0.16,Normal
+Maharashtra,Potato,2024-06-03,2296.43,7,2185.71,5.07,Normal
+Maharashtra,Potato,2024-06-10,2378.57,7,2296.43,3.58,Normal
+Maharashtra,Potato,2024-06-17,2582.14,7,2378.57,8.56,Normal
+Maharashtra,Potato,2024-06-24,2571.43,7,2582.14,-0.41,Normal
+Maharashtra,Potato,2024-07-01,2671.43,7,2571.43,3.89,Normal
+Maharashtra,Potato,2024-07-08,2725.0,7,2671.43,2.01,Normal
+Maharashtra,Potato,2024-07-15,2657.14,7,2725.0,-2.49,Normal
+Maharashtra,Potato,2024-07-22,2675.0,7,2657.14,0.67,Normal
+Maharashtra,Potato,2024-07-29,2632.14,7,2675.0,-1.6,Normal
+Maharashtra,Potato,2024-08-05,2650.0,7,2632.14,0.68,Normal
+Maharashtra,Potato,2024-08-12,2682.14,7,2650.0,1.21,Normal
+Maharashtra,Potato,2024-08-19,2596.43,7,2682.14,-3.2,Normal
+Maharashtra,Potato,2024-08-26,2592.86,7,2596.43,-0.14,Normal
+Maharashtra,Potato,2024-09-02,2589.29,7,2592.86,-0.14,Normal
+Maharashtra,Potato,2024-09-09,2550.0,7,2589.29,-1.52,Normal
+Maharashtra,Potato,2024-09-16,2600.0,7,2550.0,1.96,Normal
+Maharashtra,Potato,2024-09-23,2600.0,7,2600.0,0.0,Normal
+Maharashtra,Potato,2024-09-30,2675.0,7,2600.0,2.88,Normal
+Maharashtra,Potato,2024-10-07,2641.67,6,2675.0,-1.25,Normal
+Maharashtra,Potato,2024-10-14,2603.57,7,2641.67,-1.44,Normal
+Maharashtra,Potato,2024-10-21,2566.57,7,2603.57,-1.42,Normal
+Maharashtra,Potato,2024-10-28,2528.57,7,2566.57,-1.48,Normal
+Maharashtra,Potato,2024-11-04,2585.71,7,2528.57,2.26,Normal
+Maharashtra,Potato,2024-11-11,2587.5,7,2585.71,0.07,Normal
+Maharashtra,Potato,2024-11-18,2700.0,7,2587.5,4.35,Normal
+Maharashtra,Potato,2024-11-25,2566.67,6,2700.0,-4.94,Normal
+Maharashtra,Potato,2024-12-02,2514.29,7,2566.67,-2.04,Normal
+Maharashtra,Potato,2024-12-09,2325.0,7,2514.29,-7.53,Normal
+Maharashtra,Potato,2024-12-16,2025.0,7,2325.0,-12.9,Normal
+Maharashtra,Potato,2024-12-23,1900.0,7,2025.0,-6.17,Normal
+Maharashtra,Potato,2024-12-30,1778.57,7,1900.0,-6.39,Normal
+Maharashtra,Potato,2025-01-06,1792.86,7,1778.57,0.8,Normal
+Maharashtra,Potato,2025-01-13,1778.57,7,1792.86,-0.8,Normal
+Maharashtra,Potato,2025-01-20,1660.71,7,1778.57,-6.63,Normal
+Maharashtra,Potato,2025-01-27,1592.86,7,1660.71,-4.09,Normal
+Maharashtra,Potato,2025-02-03,1550.0,7,1592.86,-2.69,Normal
+Maharashtra,Potato,2025-02-10,1516.67,6,1550.0,-2.15,Normal
+Maharashtra,Potato,2025-02-17,1460.71,7,1516.67,-3.69,Normal
+Maharashtra,Potato,2025-02-24,1453.57,7,1460.71,-0.49,Normal
+Maharashtra,Potato,2025-03-03,1421.43,7,1453.57,-2.21,Normal
+Maharashtra,Potato,2025-03-10,1464.29,7,1421.43,3.02,Normal
+Maharashtra,Potato,2025-03-17,1457.14,7,1464.29,-0.49,Normal
+Maharashtra,Potato,2025-03-24,1439.29,7,1457.14,-1.23,Normal
+Maharashtra,Potato,2025-03-31,1471.43,7,1439.29,2.23,Normal
+Maharashtra,Potato,2025-04-07,1567.86,7,1471.43,6.55,Normal
+Maharashtra,Potato,2025-04-14,1571.43,7,1567.86,0.23,Normal
+Maharashtra,Potato,2025-04-21,1621.43,7,1571.43,3.18,Normal
+Maharashtra,Potato,2025-04-28,1621.43,7,1621.43,0.0,Normal
+Maharashtra,Potato,2025-05-05,1710.71,7,1621.43,5.51,Normal
+Maharashtra,Potato,2025-05-12,1677.08,6,1710.71,-1.97,Normal
+Maharashtra,Potato,2025-05-19,1639.29,7,1677.08,-2.25,Normal
+Maharashtra,Potato,2025-05-26,1675.0,7,1639.29,2.18,Normal
+Maharashtra,Potato,2025-06-02,1707.14,7,1675.0,1.92,Normal
+Maharashtra,Potato,2025-06-09,1639.29,7,1707.14,-3.97,Normal
+Maharashtra,Potato,2025-06-16,1639.29,7,1639.29,0.0,Normal
+Maharashtra,Potato,2025-06-23,1682.14,7,1639.29,2.61,Normal
+Maharashtra,Potato,2025-06-30,1664.29,7,1682.14,-1.06,Normal
+Maharashtra,Potato,2025-07-07,1603.57,7,1664.29,-3.65,Normal
+Maharashtra,Potato,2025-07-14,1607.14,7,1603.57,0.22,Normal
+Maharashtra,Potato,2025-07-21,1503.57,7,1607.14,-6.44,Normal
+Maharashtra,Potato,2025-07-28,1482.14,7,1503.57,-1.43,Normal
+Maharashtra,Potato,2025-08-04,1492.86,7,1482.14,0.72,Normal
+Maharashtra,Potato,2025-08-11,1475.0,7,1492.86,-1.2,Normal
+Maharashtra,Potato,2025-08-18,1417.86,7,1475.0,-3.87,Normal
+Maharashtra,Potato,2025-08-25,1425.0,7,1417.86,0.5,Normal
+Maharashtra,Potato,2025-09-01,1439.29,7,1425.0,1.0,Normal
+Maharashtra,Potato,2025-09-08,1450.0,7,1439.29,0.74,Normal
+Maharashtra,Potato,2025-09-15,1446.43,7,1450.0,-0.25,Normal
+Maharashtra,Potato,2025-09-22,1492.86,7,1446.43,3.21,Normal
+Maharashtra,Potato,2025-09-29,1492.86,7,1492.86,0.0,Normal
+Maharashtra,Potato,2025-10-06,1485.71,7,1492.86,-0.48,Normal
+Maharashtra,Potato,2025-10-13,1471.43,7,1485.71,-0.96,Normal
+Maharashtra,Potato,2025-10-20,1612.5,6,1471.43,9.59,Normal
+Maharashtra,Potato,2025-10-27,1671.43,7,1612.5,3.65,Normal
+Maharashtra,Potato,2025-12-01,1375.0,6,1671.43,,No data
+Maharashtra,Potato,2025-12-08,1457.14,7,1375.0,5.97,Normal
+Maharashtra,Potato,2025-12-15,1460.71,7,1457.14,0.25,Normal
+Maharashtra,Potato,2025-12-22,1328.57,7,1460.71,-9.05,Normal
+Maharashtra,Potato,2025-12-29,1185.71,7,1328.57,-10.75,Normal
+Maharashtra,Potato,2026-01-05,1075.0,7,1185.71,-9.34,Normal
+Maharashtra,Potato,2026-01-12,1171.43,7,1075.0,8.97,Normal
+Maharashtra,Potato,2026-01-19,1046.43,7,1171.43,-10.67,Normal
+Maharashtra,Potato,2026-01-26,1103.57,7,1046.43,5.46,Normal
+Maharashtra,Potato,2026-02-02,1004.17,6,1103.57,-9.01,Normal
+Maharashtra,Potato,2026-02-09,1109.5,7,1004.17,10.49,Normal
+Maharashtra,Potato,2026-02-16,1050.0,7,1109.5,-5.36,Normal
+Maharashtra,Potato,2026-02-23,1013.33,6,1050.0,-3.49,Normal
+Maharashtra,Potato,2026-03-02,1033.33,3,1013.33,1.97,Normal
+Maharashtra,Potato,2026-03-09,1083.33,6,1033.33,4.84,Normal
+Maharashtra,Potato,2026-03-16,950.0,3,1083.33,-12.31,Normal
+Maharashtra,Potato,2026-03-23,1007.14,7,950.0,6.02,Normal
+Maharashtra,Potato,2026-03-30,1025.0,7,1007.14,1.77,Normal
+Maharashtra,Potato,2026-04-06,1007.14,7,1025.0,-1.74,Normal
+Maharashtra,Potato,2026-04-13,992.86,7,1007.14,-1.42,Normal
+Maharashtra,Rice,2024-01-01,3754.71,7,,,No data
+Maharashtra,Rice,2024-01-08,3954.64,7,3754.71,5.32,Normal
+Maharashtra,Rice,2024-01-15,3980.36,7,3954.64,0.65,Normal
+Maharashtra,Rice,2024-01-22,3210.07,7,3980.36,-19.35,Normal
+Maharashtra,Rice,2024-01-29,4102.5,7,3210.07,27.8,Severe
+Maharashtra,Rice,2024-02-05,3920.79,7,4102.5,-4.43,Normal
+Maharashtra,Rice,2024-02-12,3942.92,6,3920.79,0.56,Normal
+Maharashtra,Rice,2024-02-19,3341.57,7,3942.92,-15.25,Normal
+Maharashtra,Rice,2024-02-26,4016.79,7,3341.57,20.21,Alert
+Maharashtra,Rice,2024-03-04,3578.21,7,4016.79,-10.92,Normal
+Maharashtra,Rice,2024-03-11,4190.71,7,3578.21,17.12,Alert
+Maharashtra,Rice,2024-03-18,3786.79,7,4190.71,-9.64,Normal
+Maharashtra,Rice,2024-03-25,3588.93,7,3786.79,-5.22,Normal
+Maharashtra,Rice,2024-04-01,3878.93,7,3588.93,8.08,Normal
+Maharashtra,Rice,2024-04-15,3187.1,5,3878.93,,No data
+Maharashtra,Rice,2024-04-22,3638.93,7,3187.1,14.18,Normal
+Maharashtra,Rice,2024-04-29,3470.0,7,3638.93,-4.64,Normal
+Maharashtra,Rice,2024-05-06,3836.07,7,3470.0,10.55,Normal
+Maharashtra,Rice,2024-05-13,3666.79,7,3836.07,-4.41,Normal
+Maharashtra,Rice,2024-05-20,3542.14,7,3666.79,-3.4,Normal
+Maharashtra,Rice,2024-05-27,3818.21,7,3542.14,7.79,Normal
+Maharashtra,Rice,2024-06-03,3856.07,7,3818.21,0.99,Normal
+Maharashtra,Rice,2024-06-10,3589.29,7,3856.07,-6.92,Normal
+Maharashtra,Rice,2024-06-17,3433.93,7,3589.29,-4.33,Normal
+Maharashtra,Rice,2024-06-24,3698.57,7,3433.93,7.71,Normal
+Maharashtra,Rice,2024-07-01,3539.64,7,3698.57,-4.3,Normal
+Maharashtra,Rice,2024-07-08,3836.86,7,3539.64,8.4,Normal
+Maharashtra,Rice,2024-07-15,3520.36,7,3836.86,-8.25,Normal
+Maharashtra,Rice,2024-07-22,3827.14,7,3520.36,8.71,Normal
+Maharashtra,Rice,2024-07-29,3709.64,7,3827.14,-3.07,Normal
+Maharashtra,Rice,2024-08-05,3678.64,7,3709.64,-0.84,Normal
+Maharashtra,Rice,2024-08-12,3709.29,7,3678.64,0.83,Normal
+Maharashtra,Rice,2024-08-19,4052.14,7,3709.29,9.24,Normal
+Maharashtra,Rice,2024-08-26,3987.21,7,4052.14,-1.6,Normal
+Maharashtra,Rice,2024-09-02,4082.86,7,3987.21,2.4,Normal
+Maharashtra,Rice,2024-09-09,3923.21,7,4082.86,-3.91,Normal
+Maharashtra,Rice,2024-09-16,4066.07,7,3923.21,3.64,Normal
+Maharashtra,Rice,2024-09-23,4015.71,7,4066.07,-1.24,Normal
+Maharashtra,Rice,2024-09-30,4190.0,7,4015.71,4.34,Normal
+Maharashtra,Rice,2024-10-07,3955.83,6,4190.0,-5.59,Normal
+Maharashtra,Rice,2024-10-14,4126.79,7,3955.83,4.32,Normal
+Maharashtra,Rice,2024-10-21,4150.36,7,4126.79,0.57,Normal
+Maharashtra,Rice,2024-10-28,3899.29,7,4150.36,-6.05,Normal
+Maharashtra,Rice,2024-11-04,4022.14,7,3899.29,3.15,Normal
+Maharashtra,Rice,2024-11-11,4197.14,7,4022.14,4.35,Normal
+Maharashtra,Rice,2024-11-18,4105.5,7,4197.14,-2.18,Normal
+Maharashtra,Rice,2024-11-25,4317.5,7,4105.5,5.16,Normal
+Maharashtra,Rice,2024-12-02,4109.64,7,4317.5,-4.81,Normal
+Maharashtra,Rice,2024-12-09,4379.64,7,4109.64,6.57,Normal
+Maharashtra,Rice,2024-12-16,4380.71,7,4379.64,0.02,Normal
+Maharashtra,Rice,2024-12-23,4127.86,7,4380.71,-5.77,Normal
+Maharashtra,Rice,2024-12-30,4011.79,7,4127.86,-2.81,Normal
+Maharashtra,Rice,2025-01-06,4107.5,7,4011.79,2.39,Normal
+Maharashtra,Rice,2025-01-13,4147.14,7,4107.5,0.97,Normal
+Maharashtra,Rice,2025-01-20,4088.21,7,4147.14,-1.42,Normal
+Maharashtra,Rice,2025-01-27,4019.29,7,4088.21,-1.69,Normal
+Maharashtra,Rice,2025-02-03,3917.14,7,4019.29,-2.54,Normal
+Maharashtra,Rice,2025-02-10,4139.67,6,3917.14,5.68,Normal
+Maharashtra,Rice,2025-02-17,3857.14,7,4139.67,-6.82,Normal
+Maharashtra,Rice,2025-02-24,3917.5,7,3857.14,1.56,Normal
+Maharashtra,Rice,2025-03-03,4119.29,7,3917.5,5.15,Normal
+Maharashtra,Rice,2025-03-10,3923.57,7,4119.29,-4.75,Normal
+Maharashtra,Rice,2025-03-17,3999.64,7,3923.57,1.94,Normal
+Maharashtra,Rice,2025-03-24,3925.36,7,3999.64,-1.86,Normal
+Maharashtra,Rice,2025-03-31,3881.07,7,3925.36,-1.13,Normal
+Maharashtra,Rice,2025-04-07,3791.07,7,3881.07,-2.32,Normal
+Maharashtra,Rice,2025-04-14,3907.86,7,3791.07,3.08,Normal
+Maharashtra,Rice,2025-04-21,3753.64,7,3907.86,-3.95,Normal
+Maharashtra,Rice,2025-04-28,3573.57,7,3753.64,-4.8,Normal
+Maharashtra,Rice,2025-05-05,3774.29,7,3573.57,5.62,Normal
+Maharashtra,Rice,2025-05-12,3964.17,6,3774.29,5.03,Normal
+Maharashtra,Rice,2025-05-19,3872.86,7,3964.17,-2.3,Normal
+Maharashtra,Rice,2025-05-26,4039.29,7,3872.86,4.3,Normal
+Maharashtra,Rice,2025-06-02,3935.0,7,4039.29,-2.58,Normal
+Maharashtra,Rice,2025-06-09,3976.14,7,3935.0,1.05,Normal
+Maharashtra,Rice,2025-06-16,3853.57,7,3976.14,-3.08,Normal
+Maharashtra,Rice,2025-06-23,3936.79,7,3853.57,2.16,Normal
+Maharashtra,Rice,2025-06-30,4040.71,7,3936.79,2.64,Normal
+Maharashtra,Rice,2025-07-07,4081.07,7,4040.71,1.0,Normal
+Maharashtra,Rice,2025-07-14,4042.86,7,4081.07,-0.94,Normal
+Maharashtra,Rice,2025-07-21,4168.93,7,4042.86,3.12,Normal
+Maharashtra,Rice,2025-07-28,3971.86,7,4168.93,-4.73,Normal
+Maharashtra,Rice,2025-08-04,4026.43,7,3971.86,1.37,Normal
+Maharashtra,Rice,2025-08-11,3824.29,7,4026.43,-5.02,Normal
+Maharashtra,Rice,2025-08-18,3953.21,7,3824.29,3.37,Normal
+Maharashtra,Rice,2025-08-25,3678.21,7,3953.21,-6.96,Normal
+Maharashtra,Rice,2025-09-01,3870.36,7,3678.21,5.22,Normal
+Maharashtra,Rice,2025-09-08,4087.5,7,3870.36,5.61,Normal
+Maharashtra,Rice,2025-09-15,4132.14,7,4087.5,1.09,Normal
+Maharashtra,Rice,2025-09-22,3962.86,7,4132.14,-4.1,Normal
+Maharashtra,Rice,2025-09-29,3935.71,7,3962.86,-0.68,Normal
+Maharashtra,Rice,2025-10-06,4181.0,7,3935.71,6.23,Normal
+Maharashtra,Rice,2025-10-13,3895.0,7,4181.0,-6.84,Normal
+Maharashtra,Rice,2025-10-20,3993.75,4,3895.0,2.54,Normal
+Maharashtra,Rice,2025-10-27,3830.36,7,3993.75,-4.09,Normal
+Maharashtra,Rice,2025-12-01,5209.38,4,3830.36,,No data
+Maharashtra,Rice,2025-12-08,3855.0,5,5209.38,-26.0,Normal
+Maharashtra,Rice,2025-12-15,4852.92,6,3855.0,25.89,Severe
+Maharashtra,Rice,2025-12-22,4668.0,7,4852.92,-3.81,Normal
+Maharashtra,Rice,2025-12-29,3909.64,7,4668.0,-16.25,Normal
+Maharashtra,Rice,2026-01-05,4053.33,6,3909.64,3.68,Normal
+Maharashtra,Rice,2026-01-12,4431.67,6,4053.33,9.33,Normal
+Maharashtra,Rice,2026-01-19,4806.43,7,4431.67,8.46,Normal
+Maharashtra,Rice,2026-01-26,4225.36,7,4806.43,-12.09,Normal
+Maharashtra,Rice,2026-02-02,4920.0,6,4225.36,16.44,Alert
+Maharashtra,Rice,2026-02-09,4890.71,7,4920.0,-0.6,Normal
+Maharashtra,Rice,2026-02-16,5077.14,7,4890.71,3.81,Normal
+Maharashtra,Rice,2026-02-23,4602.6,5,5077.14,-9.35,Normal
+Maharashtra,Rice,2026-03-09,3793.75,6,4602.6,,No data
+Maharashtra,Rice,2026-03-16,4241.67,3,3793.75,11.81,Normal
+Maharashtra,Rice,2026-03-23,5564.29,7,4241.67,31.18,Severe
+Maharashtra,Rice,2026-03-30,4030.08,6,5564.29,-27.57,Normal
+Maharashtra,Rice,2026-04-06,4768.93,7,4030.08,18.33,Alert
+Maharashtra,Rice,2026-04-13,4242.5,7,4768.93,-11.04,Normal
+Maharashtra,Tomato,2024-01-01,1635.71,7,,,No data
+Maharashtra,Tomato,2024-01-08,1341.07,7,1635.71,-18.01,Normal
+Maharashtra,Tomato,2024-01-15,1422.14,7,1341.07,6.05,Normal
+Maharashtra,Tomato,2024-01-22,1886.07,7,1422.14,32.62,Severe
+Maharashtra,Tomato,2024-01-29,2132.43,7,1886.07,13.06,Normal
+Maharashtra,Tomato,2024-02-05,2025.71,7,2132.43,-5.0,Normal
+Maharashtra,Tomato,2024-02-12,1632.14,7,2025.71,-19.43,Normal
+Maharashtra,Tomato,2024-02-19,1453.57,7,1632.14,-10.94,Normal
+Maharashtra,Tomato,2024-02-26,1241.79,7,1453.57,-14.57,Normal
+Maharashtra,Tomato,2024-03-04,1146.43,7,1241.79,-7.68,Normal
+Maharashtra,Tomato,2024-03-11,1189.29,7,1146.43,3.74,Normal
+Maharashtra,Tomato,2024-03-18,1009.64,7,1189.29,-15.11,Normal
+Maharashtra,Tomato,2024-03-25,941.07,7,1009.64,-6.79,Normal
+Maharashtra,Tomato,2024-04-01,903.57,7,941.07,-3.98,Normal
+Maharashtra,Tomato,2024-04-08,950.0,5,903.57,5.14,Normal
+Maharashtra,Tomato,2024-04-15,1000.0,5,950.0,5.26,Normal
+Maharashtra,Tomato,2024-04-22,1042.86,7,1000.0,4.29,Normal
+Maharashtra,Tomato,2024-04-29,1128.57,7,1042.86,8.22,Normal
+Maharashtra,Tomato,2024-05-06,1185.71,7,1128.57,5.06,Normal
+Maharashtra,Tomato,2024-05-13,1028.57,7,1185.71,-13.25,Normal
+Maharashtra,Tomato,2024-05-20,1266.43,7,1028.57,23.12,Alert
+Maharashtra,Tomato,2024-05-27,1550.0,7,1266.43,22.39,Alert
+Maharashtra,Tomato,2024-06-03,2343.21,7,1550.0,51.18,Severe
+Maharashtra,Tomato,2024-06-10,2657.86,7,2343.21,13.43,Normal
+Maharashtra,Tomato,2024-06-17,3469.64,7,2657.86,30.54,Severe
+Maharashtra,Tomato,2024-06-24,3609.64,7,3469.64,4.03,Normal
+Maharashtra,Tomato,2024-07-01,3610.71,7,3609.64,0.03,Normal
+Maharashtra,Tomato,2024-07-08,4207.14,7,3610.71,16.52,Alert
+Maharashtra,Tomato,2024-07-15,4871.43,7,4207.14,15.79,Alert
+Maharashtra,Tomato,2024-07-22,3685.71,7,4871.43,-24.34,Normal
+Maharashtra,Tomato,2024-07-29,2107.14,7,3685.71,-42.83,Normal
+Maharashtra,Tomato,2024-08-05,1751.79,7,2107.14,-16.86,Normal
+Maharashtra,Tomato,2024-08-12,1646.43,7,1751.79,-6.01,Normal
+Maharashtra,Tomato,2024-08-19,1596.43,7,1646.43,-3.04,Normal
+Maharashtra,Tomato,2024-08-26,1328.57,7,1596.43,-16.78,Normal
+Maharashtra,Tomato,2024-09-02,1439.16,7,1328.57,8.32,Normal
+Maharashtra,Tomato,2024-09-09,1521.79,7,1439.16,5.74,Normal
+Maharashtra,Tomato,2024-09-16,2302.64,7,1521.79,51.31,Severe
+Maharashtra,Tomato,2024-09-23,2612.05,7,2302.64,13.44,Normal
+Maharashtra,Tomato,2024-09-30,3355.9,7,2612.05,28.48,Severe
+Maharashtra,Tomato,2024-10-07,3713.33,6,3355.9,10.65,Normal
+Maharashtra,Tomato,2024-10-14,3525.71,7,3713.33,-5.05,Normal
+Maharashtra,Tomato,2024-10-21,3028.93,7,3525.71,-14.09,Normal
+Maharashtra,Tomato,2024-10-28,2143.93,7,3028.93,-29.22,Normal
+Maharashtra,Tomato,2024-11-04,2098.21,7,2143.93,-2.13,Normal
+Maharashtra,Tomato,2024-11-11,2085.71,7,2098.21,-0.6,Normal
+Maharashtra,Tomato,2024-11-18,2146.43,7,2085.71,2.91,Normal
+Maharashtra,Tomato,2024-11-25,2332.14,7,2146.43,8.65,Normal
+Maharashtra,Tomato,2024-12-02,2368.21,7,2332.14,1.55,Normal
+Maharashtra,Tomato,2024-12-09,1507.14,7,2368.21,-36.36,Normal
+Maharashtra,Tomato,2024-12-16,1861.07,7,1507.14,23.48,Alert
+Maharashtra,Tomato,2024-12-23,1478.57,7,1861.07,-20.55,Normal
+Maharashtra,Tomato,2024-12-30,917.86,7,1478.57,-37.92,Normal
+Maharashtra,Tomato,2025-01-06,1010.71,7,917.86,10.12,Normal
+Maharashtra,Tomato,2025-01-13,846.43,7,1010.71,-16.25,Normal
+Maharashtra,Tomato,2025-01-20,765.57,7,846.43,-9.55,Normal
+Maharashtra,Tomato,2025-01-27,840.36,7,765.57,9.77,Normal
+Maharashtra,Tomato,2025-02-03,791.07,7,840.36,-5.86,Normal
+Maharashtra,Tomato,2025-02-10,710.4,5,791.07,-10.2,Normal
+Maharashtra,Tomato,2025-02-17,850.0,7,710.4,19.65,Alert
+Maharashtra,Tomato,2025-02-24,875.0,7,850.0,2.94,Normal
+Maharashtra,Tomato,2025-03-03,871.43,7,875.0,-0.41,Normal
+Maharashtra,Tomato,2025-03-10,956.64,7,871.43,9.78,Normal
+Maharashtra,Tomato,2025-03-17,835.5,7,956.64,-12.66,Normal
+Maharashtra,Tomato,2025-03-24,796.43,7,835.5,-4.68,Normal
+Maharashtra,Tomato,2025-03-31,712.5,7,796.43,-10.54,Normal
+Maharashtra,Tomato,2025-04-07,844.64,7,712.5,18.55,Alert
+Maharashtra,Tomato,2025-04-14,814.64,7,844.64,-3.55,Normal
+Maharashtra,Tomato,2025-04-21,896.64,7,814.64,10.07,Normal
+Maharashtra,Tomato,2025-04-28,1000.0,7,896.64,11.53,Normal
+Maharashtra,Tomato,2025-05-05,978.57,7,1000.0,-2.14,Normal
+Maharashtra,Tomato,2025-05-12,1067.92,6,978.57,9.13,Normal
+Maharashtra,Tomato,2025-05-19,1251.79,7,1067.92,17.22,Alert
+Maharashtra,Tomato,2025-05-26,1434.86,7,1251.79,14.62,Normal
+Maharashtra,Tomato,2025-06-02,1517.86,7,1434.86,5.78,Normal
+Maharashtra,Tomato,2025-06-09,1628.93,7,1517.86,7.32,Normal
+Maharashtra,Tomato,2025-06-16,1481.0,7,1628.93,-9.08,Normal
+Maharashtra,Tomato,2025-06-23,1398.14,7,1481.0,-5.59,Normal
+Maharashtra,Tomato,2025-06-30,1523.93,7,1398.14,9.0,Normal
+Maharashtra,Tomato,2025-07-07,1721.79,7,1523.93,12.98,Normal
+Maharashtra,Tomato,2025-07-14,1446.43,7,1721.79,-15.99,Normal
+Maharashtra,Tomato,2025-07-21,2196.43,7,1446.43,51.85,Severe
+Maharashtra,Tomato,2025-07-28,2940.71,7,2196.43,33.89,Severe
+Maharashtra,Tomato,2025-08-04,2755.36,7,2940.71,-6.3,Normal
+Maharashtra,Tomato,2025-08-11,2596.43,7,2755.36,-5.77,Normal
+Maharashtra,Tomato,2025-08-18,2503.93,7,2596.43,-3.56,Normal
+Maharashtra,Tomato,2025-08-25,1785.71,7,2503.93,-28.68,Normal
+Maharashtra,Tomato,2025-09-01,1761.07,7,1785.71,-1.38,Normal
+Maharashtra,Tomato,2025-09-08,1280.0,7,1761.07,-27.32,Normal
+Maharashtra,Tomato,2025-09-15,1046.43,7,1280.0,-18.25,Normal
+Maharashtra,Tomato,2025-09-22,1321.79,7,1046.43,26.31,Severe
+Maharashtra,Tomato,2025-09-29,1389.29,7,1321.79,5.11,Normal
+Maharashtra,Tomato,2025-10-06,1450.36,7,1389.29,4.4,Normal
+Maharashtra,Tomato,2025-10-13,1364.29,7,1450.36,-5.93,Normal
+Maharashtra,Tomato,2025-10-20,1387.5,6,1364.29,1.7,Normal
+Maharashtra,Tomato,2025-10-27,1322.43,7,1387.5,-4.69,Normal
+Maharashtra,Tomato,2025-12-01,2458.7,5,1322.43,,No data
+Maharashtra,Tomato,2025-12-08,2458.57,7,2458.7,-0.01,Normal
+Maharashtra,Tomato,2025-12-15,3095.86,7,2458.57,25.92,Severe
+Maharashtra,Tomato,2025-12-22,2925.0,7,3095.86,-5.52,Normal
+Maharashtra,Tomato,2025-12-29,2928.57,7,2925.0,0.12,Normal
+Maharashtra,Tomato,2026-01-05,2457.14,7,2928.57,-16.1,Normal
+Maharashtra,Tomato,2026-01-12,1892.14,7,2457.14,-22.99,Normal
+Maharashtra,Tomato,2026-01-19,1542.86,7,1892.14,-18.46,Normal
+Maharashtra,Tomato,2026-01-26,1305.71,7,1542.86,-15.37,Normal
+Maharashtra,Tomato,2026-02-02,1087.5,6,1305.71,-16.71,Normal
+Maharashtra,Tomato,2026-02-09,1131.43,7,1087.5,4.04,Normal
+Maharashtra,Tomato,2026-02-16,1051.79,7,1131.43,-7.04,Normal
+Maharashtra,Tomato,2026-02-23,1139.92,6,1051.79,8.38,Normal
+Maharashtra,Tomato,2026-03-02,1108.33,3,1139.92,-2.77,Normal
+Maharashtra,Tomato,2026-03-09,978.5,6,1108.33,-11.71,Normal
+Maharashtra,Tomato,2026-03-16,995.83,3,978.5,1.77,Normal
+Maharashtra,Tomato,2026-03-23,1039.29,7,995.83,4.36,Normal
+Maharashtra,Tomato,2026-03-30,1033.93,7,1039.29,-0.52,Normal
+Maharashtra,Tomato,2026-04-06,982.5,7,1033.93,-4.97,Normal
+Maharashtra,Tomato,2026-04-13,1324.14,7,982.5,34.77,Severe
+Maharashtra,Wheat,2024-01-01,2572.21,7,,,No data
+Maharashtra,Wheat,2024-01-08,2600.36,7,2572.21,1.09,Normal
+Maharashtra,Wheat,2024-01-15,2634.36,7,2600.36,1.31,Normal
+Maharashtra,Wheat,2024-01-22,2661.5,7,2634.36,1.03,Normal
+Maharashtra,Wheat,2024-01-29,2618.36,7,2661.5,-1.62,Normal
+Maharashtra,Wheat,2024-02-05,2570.0,7,2618.36,-1.85,Normal
+Maharashtra,Wheat,2024-02-12,2484.64,7,2570.0,-3.32,Normal
+Maharashtra,Wheat,2024-02-19,2535.21,7,2484.64,2.04,Normal
+Maharashtra,Wheat,2024-02-26,2472.93,7,2535.21,-2.46,Normal
+Maharashtra,Wheat,2024-03-04,2464.86,7,2472.93,-0.33,Normal
+Maharashtra,Wheat,2024-03-11,2491.57,7,2464.86,1.08,Normal
+Maharashtra,Wheat,2024-03-18,2530.86,7,2491.57,1.58,Normal
+Maharashtra,Wheat,2024-03-25,2581.29,7,2530.86,1.99,Normal
+Maharashtra,Wheat,2024-04-01,2561.5,7,2581.29,-0.77,Normal
+Maharashtra,Wheat,2024-04-08,2486.4,5,2561.5,-2.93,Normal
+Maharashtra,Wheat,2024-04-15,2502.43,7,2486.4,0.64,Normal
+Maharashtra,Wheat,2024-04-22,2539.0,7,2502.43,1.46,Normal
+Maharashtra,Wheat,2024-04-29,2526.79,7,2539.0,-0.48,Normal
+Maharashtra,Wheat,2024-05-06,2500.5,7,2526.79,-1.04,Normal
+Maharashtra,Wheat,2024-05-13,2509.71,7,2500.5,0.37,Normal
+Maharashtra,Wheat,2024-05-20,2531.0,7,2509.71,0.85,Normal
+Maharashtra,Wheat,2024-05-27,2503.57,7,2531.0,-1.08,Normal
+Maharashtra,Wheat,2024-06-03,2527.29,7,2503.57,0.95,Normal
+Maharashtra,Wheat,2024-06-10,2498.93,7,2527.29,-1.12,Normal
+Maharashtra,Wheat,2024-06-17,2532.93,7,2498.93,1.36,Normal
+Maharashtra,Wheat,2024-06-24,2552.36,7,2532.93,0.77,Normal
+Maharashtra,Wheat,2024-07-01,2550.71,7,2552.36,-0.06,Normal
+Maharashtra,Wheat,2024-07-08,2561.07,7,2550.71,0.41,Normal
+Maharashtra,Wheat,2024-07-15,2599.07,7,2561.07,1.48,Normal
+Maharashtra,Wheat,2024-07-22,2560.36,7,2599.07,-1.49,Normal
+Maharashtra,Wheat,2024-07-29,2547.36,7,2560.36,-0.51,Normal
+Maharashtra,Wheat,2024-08-05,2601.5,7,2547.36,2.13,Normal
+Maharashtra,Wheat,2024-08-12,2613.64,7,2601.5,0.47,Normal
+Maharashtra,Wheat,2024-08-19,2630.14,7,2613.64,0.63,Normal
+Maharashtra,Wheat,2024-08-26,2649.5,7,2630.14,0.74,Normal
+Maharashtra,Wheat,2024-09-02,2690.07,7,2649.5,1.53,Normal
+Maharashtra,Wheat,2024-09-09,2669.64,7,2690.07,-0.76,Normal
+Maharashtra,Wheat,2024-09-16,2659.0,7,2669.64,-0.4,Normal
+Maharashtra,Wheat,2024-09-23,2651.29,7,2659.0,-0.29,Normal
+Maharashtra,Wheat,2024-09-30,2693.36,7,2651.29,1.59,Normal
+Maharashtra,Wheat,2024-10-07,2666.83,6,2693.36,-0.98,Normal
+Maharashtra,Wheat,2024-10-14,2732.93,7,2666.83,2.48,Normal
+Maharashtra,Wheat,2024-10-21,2773.57,7,2732.93,1.49,Normal
+Maharashtra,Wheat,2024-10-28,2777.71,7,2773.57,0.15,Normal
+Maharashtra,Wheat,2024-11-04,2842.86,7,2777.71,2.35,Normal
+Maharashtra,Wheat,2024-11-11,2836.93,7,2842.86,-0.21,Normal
+Maharashtra,Wheat,2024-11-18,2884.57,7,2836.93,1.68,Normal
+Maharashtra,Wheat,2024-11-25,2816.43,7,2884.57,-2.36,Normal
+Maharashtra,Wheat,2024-12-02,2793.64,7,2816.43,-0.81,Normal
+Maharashtra,Wheat,2024-12-09,2826.79,7,2793.64,1.19,Normal
+Maharashtra,Wheat,2024-12-16,2810.79,7,2826.79,-0.57,Normal
+Maharashtra,Wheat,2024-12-23,2810.07,7,2810.79,-0.03,Normal
+Maharashtra,Wheat,2024-12-30,2835.71,7,2810.07,0.91,Normal
+Maharashtra,Wheat,2025-01-06,2919.07,7,2835.71,2.94,Normal
+Maharashtra,Wheat,2025-01-13,2898.5,7,2919.07,-0.7,Normal
+Maharashtra,Wheat,2025-01-20,2925.36,7,2898.5,0.93,Normal
+Maharashtra,Wheat,2025-01-27,2842.21,7,2925.36,-2.84,Normal
+Maharashtra,Wheat,2025-02-03,2788.5,7,2842.21,-1.89,Normal
+Maharashtra,Wheat,2025-02-10,2768.92,6,2788.5,-0.7,Normal
+Maharashtra,Wheat,2025-02-17,2863.29,7,2768.92,3.41,Normal
+Maharashtra,Wheat,2025-02-24,2800.14,7,2863.29,-2.21,Normal
+Maharashtra,Wheat,2025-03-03,2655.29,7,2800.14,-5.17,Normal
+Maharashtra,Wheat,2025-03-10,2627.14,7,2655.29,-1.06,Normal
+Maharashtra,Wheat,2025-03-17,2589.57,7,2627.14,-1.43,Normal
+Maharashtra,Wheat,2025-03-24,2604.57,7,2589.57,0.58,Normal
+Maharashtra,Wheat,2025-03-31,2601.0,7,2604.57,-0.14,Normal
+Maharashtra,Wheat,2025-04-07,2619.64,7,2601.0,0.72,Normal
+Maharashtra,Wheat,2025-04-14,2628.64,7,2619.64,0.34,Normal
+Maharashtra,Wheat,2025-04-21,2594.36,7,2628.64,-1.3,Normal
+Maharashtra,Wheat,2025-04-28,2589.29,7,2594.36,-0.2,Normal
+Maharashtra,Wheat,2025-05-05,2560.29,7,2589.29,-1.12,Normal
+Maharashtra,Wheat,2025-05-12,2591.25,6,2560.29,1.21,Normal
+Maharashtra,Wheat,2025-05-19,2559.36,7,2591.25,-1.23,Normal
+Maharashtra,Wheat,2025-05-26,2547.43,7,2559.36,-0.47,Normal
+Maharashtra,Wheat,2025-06-02,2540.29,7,2547.43,-0.28,Normal
+Maharashtra,Wheat,2025-06-09,2545.64,7,2540.29,0.21,Normal
+Maharashtra,Wheat,2025-06-16,2530.71,7,2545.64,-0.59,Normal
+Maharashtra,Wheat,2025-06-23,2525.29,7,2530.71,-0.21,Normal
+Maharashtra,Wheat,2025-06-30,2510.36,7,2525.29,-0.59,Normal
+Maharashtra,Wheat,2025-07-07,2518.0,7,2510.36,0.3,Normal
+Maharashtra,Wheat,2025-07-14,2536.07,7,2518.0,0.72,Normal
+Maharashtra,Wheat,2025-07-21,2539.71,7,2536.07,0.14,Normal
+Maharashtra,Wheat,2025-07-28,2612.14,7,2539.71,2.85,Normal
+Maharashtra,Wheat,2025-08-04,2642.79,7,2612.14,1.17,Normal
+Maharashtra,Wheat,2025-08-11,2606.43,7,2642.79,-1.38,Normal
+Maharashtra,Wheat,2025-08-18,2629.29,7,2606.43,0.88,Normal
+Maharashtra,Wheat,2025-08-25,2624.14,7,2629.29,-0.2,Normal
+Maharashtra,Wheat,2025-09-01,2614.64,7,2624.14,-0.36,Normal
+Maharashtra,Wheat,2025-09-08,2615.0,7,2614.64,0.01,Normal
+Maharashtra,Wheat,2025-09-15,2579.86,7,2615.0,-1.34,Normal
+Maharashtra,Wheat,2025-09-22,2567.71,7,2579.86,-0.47,Normal
+Maharashtra,Wheat,2025-09-29,2561.36,7,2567.71,-0.25,Normal
+Maharashtra,Wheat,2025-10-06,2538.79,7,2561.36,-0.88,Normal
+Maharashtra,Wheat,2025-10-13,2534.71,7,2538.79,-0.16,Normal
+Maharashtra,Wheat,2025-10-20,2807.0,6,2534.71,10.74,Normal
+Maharashtra,Wheat,2025-10-27,2540.07,7,2807.0,-9.51,Normal
+Maharashtra,Wheat,2025-12-01,2547.6,5,2540.07,,No data
+Maharashtra,Wheat,2025-12-08,2526.57,7,2547.6,-0.83,Normal
+Maharashtra,Wheat,2025-12-15,2572.14,7,2526.57,1.8,Normal
+Maharashtra,Wheat,2025-12-22,2609.36,7,2572.14,1.45,Normal
+Maharashtra,Wheat,2025-12-29,2585.93,7,2609.36,-0.9,Normal
+Maharashtra,Wheat,2026-01-05,2662.43,7,2585.93,2.96,Normal
+Maharashtra,Wheat,2026-01-12,2621.86,7,2662.43,-1.52,Normal
+Maharashtra,Wheat,2026-01-19,2615.67,6,2621.86,-0.24,Normal
+Maharashtra,Wheat,2026-01-26,2549.57,7,2615.67,-2.53,Normal
+Maharashtra,Wheat,2026-02-02,2577.4,5,2549.57,1.09,Normal
+Maharashtra,Wheat,2026-02-09,2507.64,7,2577.4,-2.71,Normal
+Maharashtra,Wheat,2026-02-16,2497.0,7,2507.64,-0.42,Normal
+Maharashtra,Wheat,2026-02-23,2351.0,6,2497.0,-5.85,Normal
+Maharashtra,Wheat,2026-03-09,2232.92,6,2351.0,,No data
+Maharashtra,Wheat,2026-03-16,2247.0,3,2232.92,0.63,Normal
+Maharashtra,Wheat,2026-03-23,2249.57,7,2247.0,0.11,Normal
+Maharashtra,Wheat,2026-03-30,2421.86,7,2249.57,7.66,Normal
+Maharashtra,Wheat,2026-04-06,2250.86,7,2421.86,-7.06,Normal
+Maharashtra,Wheat,2026-04-13,2308.5,7,2250.86,2.56,Normal
+Tamil Nadu,Onion,2024-02-26,2190.0,5,,,No data
+Tamil Nadu,Onion,2024-07-08,4521.43,7,2190.0,,No data
+Tamil Nadu,Onion,2024-07-15,4500.0,7,4521.43,-0.47,Normal
+Tamil Nadu,Onion,2024-07-22,4528.57,7,4500.0,0.63,Normal
+Tamil Nadu,Onion,2024-07-29,4500.0,7,4528.57,-0.63,Normal
+Tamil Nadu,Onion,2024-08-05,4500.0,7,4500.0,0.0,Normal
+Tamil Nadu,Onion,2024-08-12,4914.29,7,4500.0,9.21,Normal
+Tamil Nadu,Onion,2024-08-19,5157.14,7,4914.29,4.94,Normal
+Tamil Nadu,Onion,2024-08-26,5500.0,7,5157.14,6.65,Normal
+Tamil Nadu,Onion,2024-09-02,5771.43,7,5500.0,4.94,Normal
+Tamil Nadu,Onion,2024-09-09,6000.0,7,5771.43,3.96,Normal
+Tamil Nadu,Onion,2024-09-16,6000.0,7,6000.0,0.0,Normal
+Tamil Nadu,Onion,2024-09-23,6000.0,7,6000.0,0.0,Normal
+Tamil Nadu,Onion,2024-09-30,6000.0,7,6000.0,0.0,Normal
+Tamil Nadu,Onion,2024-10-07,6000.0,7,6000.0,0.0,Normal
+Tamil Nadu,Onion,2024-10-14,6000.0,7,6000.0,0.0,Normal
+Tamil Nadu,Onion,2024-10-21,6000.0,7,6000.0,0.0,Normal
+Tamil Nadu,Onion,2024-10-28,6000.0,7,6000.0,0.0,Normal
+Tamil Nadu,Onion,2024-11-04,6528.57,7,6000.0,8.81,Normal
+Tamil Nadu,Onion,2024-11-11,6757.14,7,6528.57,3.5,Normal
+Tamil Nadu,Onion,2024-11-18,6535.71,7,6757.14,-3.28,Normal
+Tamil Nadu,Onion,2024-11-25,6840.0,5,6535.71,4.66,Normal
+Tamil Nadu,Onion,2024-12-02,7000.0,7,6840.0,2.34,Normal
+Tamil Nadu,Onion,2024-12-09,7000.0,7,7000.0,0.0,Normal
+Tamil Nadu,Onion,2024-12-16,6114.29,7,7000.0,-12.65,Normal
+Tamil Nadu,Onion,2024-12-23,5000.0,7,6114.29,-18.22,Normal
+Tamil Nadu,Onion,2024-12-30,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Onion,2025-01-06,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Onion,2025-01-13,4914.29,7,5000.0,-1.71,Normal
+Tamil Nadu,Onion,2025-01-20,4785.71,7,4914.29,-2.62,Normal
+Tamil Nadu,Onion,2025-01-27,4757.14,7,4785.71,-0.6,Normal
+Tamil Nadu,Onion,2025-02-03,4542.86,7,4757.14,-4.5,Normal
+Tamil Nadu,Onion,2025-02-10,4528.57,7,4542.86,-0.31,Normal
+Tamil Nadu,Onion,2025-02-17,4800.0,7,4528.57,5.99,Normal
+Tamil Nadu,Onion,2025-02-24,4485.71,7,4800.0,-6.55,Normal
+Tamil Nadu,Onion,2025-03-03,4114.29,7,4485.71,-8.28,Normal
+Tamil Nadu,Onion,2025-03-10,3933.33,6,4114.29,-4.4,Normal
+Tamil Nadu,Onion,2025-03-17,3500.0,7,3933.33,-11.02,Normal
+Tamil Nadu,Onion,2025-03-24,3342.86,7,3500.0,-4.49,Normal
+Tamil Nadu,Onion,2025-03-31,3157.14,7,3342.86,-5.56,Normal
+Tamil Nadu,Onion,2025-04-07,3000.0,7,3157.14,-4.98,Normal
+Tamil Nadu,Onion,2025-04-14,3000.0,7,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-04-21,3000.0,7,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-04-28,2971.43,7,3000.0,-0.95,Normal
+Tamil Nadu,Onion,2025-05-05,2900.0,6,2971.43,-2.4,Normal
+Tamil Nadu,Onion,2025-05-12,2857.14,7,2900.0,-1.48,Normal
+Tamil Nadu,Onion,2025-05-19,2814.29,7,2857.14,-1.5,Normal
+Tamil Nadu,Onion,2025-05-26,2942.86,7,2814.29,4.57,Normal
+Tamil Nadu,Onion,2025-06-02,3000.0,7,2942.86,1.94,Normal
+Tamil Nadu,Onion,2025-06-09,3000.0,6,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-06-16,3100.0,7,3000.0,3.33,Normal
+Tamil Nadu,Onion,2025-06-23,3033.33,6,3100.0,-2.15,Normal
+Tamil Nadu,Onion,2025-06-30,3058.33,6,3033.33,0.82,Normal
+Tamil Nadu,Onion,2025-07-07,3000.0,7,3058.33,-1.91,Normal
+Tamil Nadu,Onion,2025-07-14,3000.0,5,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-07-21,3000.0,6,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-07-28,3000.0,7,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-08-04,3000.0,5,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-08-11,3000.0,6,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-08-18,3014.29,7,3000.0,0.48,Normal
+Tamil Nadu,Onion,2025-08-25,3058.33,6,3014.29,1.46,Normal
+Tamil Nadu,Onion,2025-09-01,3000.0,7,3058.33,-1.91,Normal
+Tamil Nadu,Onion,2025-09-08,3000.0,7,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-09-15,3000.0,7,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-09-22,3000.0,6,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-09-29,3000.0,5,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-10-06,3000.0,6,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-10-13,3000.0,7,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-10-20,3000.0,5,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-10-27,3000.0,7,3000.0,0.0,Normal
+Tamil Nadu,Onion,2025-12-01,3050.0,5,3000.0,,No data
+Tamil Nadu,Onion,2025-12-08,3107.14,7,3050.0,1.87,Normal
+Tamil Nadu,Onion,2025-12-15,3532.14,7,3107.14,13.68,Normal
+Tamil Nadu,Onion,2025-12-22,3703.57,7,3532.14,4.85,Normal
+Tamil Nadu,Onion,2025-12-29,3664.29,7,3703.57,-1.06,Normal
+Tamil Nadu,Onion,2026-01-05,3432.14,7,3664.29,-6.34,Normal
+Tamil Nadu,Onion,2026-01-12,3282.14,7,3432.14,-4.37,Normal
+Tamil Nadu,Onion,2026-01-19,3292.86,7,3282.14,0.33,Normal
+Tamil Nadu,Onion,2026-01-26,3207.14,7,3292.86,-2.6,Normal
+Tamil Nadu,Onion,2026-02-02,2978.57,7,3207.14,-7.13,Normal
+Tamil Nadu,Onion,2026-02-09,2750.0,7,2978.57,-7.67,Normal
+Tamil Nadu,Onion,2026-02-16,2750.0,7,2750.0,0.0,Normal
+Tamil Nadu,Onion,2026-02-23,2729.17,6,2750.0,-0.76,Normal
+Tamil Nadu,Onion,2026-03-02,2693.75,4,2729.17,-1.3,Normal
+Tamil Nadu,Onion,2026-03-09,2665.0,5,2693.75,-1.07,Normal
+Tamil Nadu,Onion,2026-03-16,2700.0,4,2665.0,1.31,Normal
+Tamil Nadu,Onion,2026-03-23,2639.29,7,2700.0,-2.25,Normal
+Tamil Nadu,Onion,2026-03-30,2535.71,7,2639.29,-3.92,Normal
+Tamil Nadu,Onion,2026-04-06,2535.71,7,2535.71,0.0,Normal
+Tamil Nadu,Onion,2026-04-13,2467.86,7,2535.71,-2.68,Normal
+Tamil Nadu,Potato,2024-07-08,5000.0,7,,,No data
+Tamil Nadu,Potato,2024-07-15,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-07-22,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-07-29,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-08-05,4914.29,7,5000.0,-1.71,Normal
+Tamil Nadu,Potato,2024-08-12,4971.43,7,4914.29,1.16,Normal
+Tamil Nadu,Potato,2024-08-19,5000.0,7,4971.43,0.57,Normal
+Tamil Nadu,Potato,2024-08-26,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-09-02,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-09-09,4971.43,7,5000.0,-0.57,Normal
+Tamil Nadu,Potato,2024-09-16,5000.0,7,4971.43,0.57,Normal
+Tamil Nadu,Potato,2024-09-23,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-09-30,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-10-07,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-10-14,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-10-21,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-10-28,5000.0,7,5000.0,0.0,Normal
+Tamil Nadu,Potato,2024-11-04,5114.29,7,5000.0,2.29,Normal
+Tamil Nadu,Potato,2024-11-11,5114.29,7,5114.29,0.0,Normal
+Tamil Nadu,Potato,2024-11-18,5000.0,7,5114.29,-2.23,Normal
+Tamil Nadu,Potato,2024-11-25,5100.0,5,5000.0,2.0,Normal
+Tamil Nadu,Potato,2024-12-02,5271.43,7,5100.0,3.36,Normal
+Tamil Nadu,Potato,2024-12-09,5121.43,7,5271.43,-2.85,Normal
+Tamil Nadu,Potato,2024-12-16,5000.0,7,5121.43,-2.37,Normal
+Tamil Nadu,Potato,2024-12-23,4942.86,7,5000.0,-1.14,Normal
+Tamil Nadu,Potato,2024-12-30,5000.0,7,4942.86,1.16,Normal
+Tamil Nadu,Potato,2025-01-06,4914.29,7,5000.0,-1.71,Normal
+Tamil Nadu,Potato,2025-01-13,5000.0,7,4914.29,1.74,Normal
+Tamil Nadu,Potato,2025-01-20,4885.71,7,5000.0,-2.29,Normal
+Tamil Nadu,Potato,2025-01-27,4514.29,7,4885.71,-7.6,Normal
+Tamil Nadu,Potato,2025-02-03,4442.86,7,4514.29,-1.58,Normal
+Tamil Nadu,Potato,2025-02-10,4057.14,7,4442.86,-8.68,Normal
+Tamil Nadu,Potato,2025-02-17,4000.0,7,4057.14,-1.41,Normal
+Tamil Nadu,Potato,2025-02-24,4000.0,7,4000.0,0.0,Normal
+Tamil Nadu,Potato,2025-03-03,3942.86,7,4000.0,-1.43,Normal
+Tamil Nadu,Potato,2025-03-10,3633.33,6,3942.86,-7.85,Normal
+Tamil Nadu,Potato,2025-03-17,3500.0,7,3633.33,-3.67,Normal
+Tamil Nadu,Potato,2025-03-24,3421.43,7,3500.0,-2.24,Normal
+Tamil Nadu,Potato,2025-03-31,3400.0,7,3421.43,-0.63,Normal
+Tamil Nadu,Potato,2025-04-07,3485.71,7,3400.0,2.52,Normal
+Tamil Nadu,Potato,2025-04-14,3435.71,7,3485.71,-1.43,Normal
+Tamil Nadu,Potato,2025-04-21,3450.0,7,3435.71,0.42,Normal
+Tamil Nadu,Potato,2025-04-28,3542.86,7,3450.0,2.69,Normal
+Tamil Nadu,Potato,2025-05-05,3600.0,6,3542.86,1.61,Normal
+Tamil Nadu,Potato,2025-05-12,3800.0,7,3600.0,5.56,Normal
+Tamil Nadu,Potato,2025-05-19,4000.0,7,3800.0,5.26,Normal
+Tamil Nadu,Potato,2025-05-26,3957.14,7,4000.0,-1.07,Normal
+Tamil Nadu,Potato,2025-06-02,4000.0,7,3957.14,1.08,Normal
+Tamil Nadu,Potato,2025-06-09,4000.0,6,4000.0,0.0,Normal
+Tamil Nadu,Potato,2025-06-16,4000.0,7,4000.0,0.0,Normal
+Tamil Nadu,Potato,2025-06-23,4000.0,6,4000.0,0.0,Normal
+Tamil Nadu,Potato,2025-06-30,4000.0,6,4000.0,0.0,Normal
+Tamil Nadu,Potato,2025-07-07,3985.71,7,4000.0,-0.36,Normal
+Tamil Nadu,Potato,2025-07-14,4000.0,5,3985.71,0.36,Normal
+Tamil Nadu,Potato,2025-07-21,3966.67,6,4000.0,-0.83,Normal
+Tamil Nadu,Potato,2025-07-28,3871.43,7,3966.67,-2.4,Normal
+Tamil Nadu,Potato,2025-08-04,3880.0,5,3871.43,0.22,Normal
+Tamil Nadu,Potato,2025-08-11,3800.0,6,3880.0,-2.06,Normal
+Tamil Nadu,Potato,2025-08-18,3885.71,7,3800.0,2.26,Normal
+Tamil Nadu,Potato,2025-08-25,3933.33,6,3885.71,1.23,Normal
+Tamil Nadu,Potato,2025-09-01,3871.43,7,3933.33,-1.57,Normal
+Tamil Nadu,Potato,2025-09-08,3785.71,7,3871.43,-2.21,Normal
+Tamil Nadu,Potato,2025-09-15,3800.0,7,3785.71,0.38,Normal
+Tamil Nadu,Potato,2025-09-22,3866.67,6,3800.0,1.75,Normal
+Tamil Nadu,Potato,2025-09-29,4000.0,5,3866.67,3.45,Normal
+Tamil Nadu,Potato,2025-10-06,3933.33,6,4000.0,-1.67,Normal
+Tamil Nadu,Potato,2025-10-13,3971.43,7,3933.33,0.97,Normal
+Tamil Nadu,Potato,2025-10-20,4100.0,5,3971.43,3.24,Normal
+Tamil Nadu,Potato,2025-10-27,4307.14,7,4100.0,5.05,Normal
+Tamil Nadu,Potato,2025-12-01,4165.0,5,4307.14,,No data
+Tamil Nadu,Potato,2025-12-08,3942.86,7,4165.0,-5.33,Normal
+Tamil Nadu,Potato,2025-12-15,3907.14,7,3942.86,-0.91,Normal
+Tamil Nadu,Potato,2025-12-22,3814.29,7,3907.14,-2.38,Normal
+Tamil Nadu,Potato,2025-12-29,3885.71,7,3814.29,1.87,Normal
+Tamil Nadu,Potato,2026-01-05,3828.57,7,3885.71,-1.47,Normal
+Tamil Nadu,Potato,2026-01-12,3850.0,7,3828.57,0.56,Normal
+Tamil Nadu,Potato,2026-01-19,3853.57,7,3850.0,0.09,Normal
+Tamil Nadu,Potato,2026-01-26,3767.86,7,3853.57,-2.22,Normal
+Tamil Nadu,Potato,2026-02-02,3658.33,6,3767.86,-2.91,Normal
+Tamil Nadu,Potato,2026-02-09,3485.71,7,3658.33,-4.72,Normal
+Tamil Nadu,Potato,2026-02-16,3389.29,7,3485.71,-2.77,Normal
+Tamil Nadu,Potato,2026-02-23,3195.83,6,3389.29,-5.71,Normal
+Tamil Nadu,Potato,2026-03-02,3150.0,4,3195.83,-1.43,Normal
+Tamil Nadu,Potato,2026-03-09,3041.67,6,3150.0,-3.44,Normal
+Tamil Nadu,Potato,2026-03-16,2962.5,4,3041.67,-2.6,Normal
+Tamil Nadu,Potato,2026-03-23,3089.29,7,2962.5,4.28,Normal
+Tamil Nadu,Potato,2026-03-30,2950.0,7,3089.29,-4.51,Normal
+Tamil Nadu,Potato,2026-04-06,2871.43,7,2950.0,-2.66,Normal
+Tamil Nadu,Potato,2026-04-13,2878.57,7,2871.43,0.25,Normal
+Tamil Nadu,Tomato,2024-07-08,4700.0,7,,,No data
+Tamil Nadu,Tomato,2024-07-15,6485.71,7,4700.0,37.99,Severe
+Tamil Nadu,Tomato,2024-07-22,4657.14,7,6485.71,-28.19,Normal
+Tamil Nadu,Tomato,2024-07-29,3157.14,7,4657.14,-32.21,Normal
+Tamil Nadu,Tomato,2024-08-05,2685.71,7,3157.14,-14.93,Normal
+Tamil Nadu,Tomato,2024-08-12,2528.57,7,2685.71,-5.85,Normal
+Tamil Nadu,Tomato,2024-08-19,2500.0,7,2528.57,-1.13,Normal
+Tamil Nadu,Tomato,2024-08-26,2142.86,7,2500.0,-14.29,Normal
+Tamil Nadu,Tomato,2024-09-02,2414.29,7,2142.86,12.67,Normal
+Tamil Nadu,Tomato,2024-09-09,2528.57,7,2414.29,4.73,Normal
+Tamil Nadu,Tomato,2024-09-16,3371.43,7,2528.57,33.33,Severe
+Tamil Nadu,Tomato,2024-09-23,4028.57,7,3371.43,19.49,Alert
+Tamil Nadu,Tomato,2024-09-30,5500.0,7,4028.57,36.52,Severe
+Tamil Nadu,Tomato,2024-10-07,5542.86,7,5500.0,0.78,Normal
+Tamil Nadu,Tomato,2024-10-14,5785.71,7,5542.86,4.38,Normal
+Tamil Nadu,Tomato,2024-10-21,4757.14,7,5785.71,-17.78,Normal
+Tamil Nadu,Tomato,2024-10-28,4171.43,7,4757.14,-12.31,Normal
+Tamil Nadu,Tomato,2024-11-04,3492.86,7,4171.43,-16.27,Normal
+Tamil Nadu,Tomato,2024-11-11,3000.0,7,3492.86,-14.11,Normal
+Tamil Nadu,Tomato,2024-11-18,3571.43,7,3000.0,19.05,Alert
+Tamil Nadu,Tomato,2024-11-25,4220.0,5,3571.43,18.16,Alert
+Tamil Nadu,Tomato,2024-12-02,5657.14,7,4220.0,34.06,Severe
+Tamil Nadu,Tomato,2024-12-09,3000.0,7,5657.14,-46.97,Normal
+Tamil Nadu,Tomato,2024-12-16,2500.0,7,3000.0,-16.67,Normal
+Tamil Nadu,Tomato,2024-12-23,2514.29,7,2500.0,0.57,Normal
+Tamil Nadu,Tomato,2024-12-30,2057.14,7,2514.29,-18.18,Normal
+Tamil Nadu,Tomato,2025-01-06,2028.57,7,2057.14,-1.39,Normal
+Tamil Nadu,Tomato,2025-01-13,2057.14,7,2028.57,1.41,Normal
+Tamil Nadu,Tomato,2025-01-20,2114.29,7,2057.14,2.78,Normal
+Tamil Nadu,Tomato,2025-01-27,2428.57,7,2114.29,14.86,Normal
+Tamil Nadu,Tomato,2025-02-03,2485.71,7,2428.57,2.35,Normal
+Tamil Nadu,Tomato,2025-02-10,2207.14,7,2485.71,-11.21,Normal
+Tamil Nadu,Tomato,2025-02-17,2000.0,7,2207.14,-9.39,Normal
+Tamil Nadu,Tomato,2025-02-24,1800.0,7,2000.0,-10.0,Normal
+Tamil Nadu,Tomato,2025-03-03,1542.86,7,1800.0,-14.29,Normal
+Tamil Nadu,Tomato,2025-03-10,1500.0,6,1542.86,-2.78,Normal
+Tamil Nadu,Tomato,2025-03-17,1485.71,7,1500.0,-0.95,Normal
+Tamil Nadu,Tomato,2025-03-24,1442.86,7,1485.71,-2.88,Normal
+Tamil Nadu,Tomato,2025-03-31,1657.14,7,1442.86,14.85,Normal
+Tamil Nadu,Tomato,2025-04-07,1750.0,7,1657.14,5.6,Normal
+Tamil Nadu,Tomato,2025-04-14,1742.86,7,1750.0,-0.41,Normal
+Tamil Nadu,Tomato,2025-04-21,1707.14,7,1742.86,-2.05,Normal
+Tamil Nadu,Tomato,2025-04-28,1585.71,7,1707.14,-7.11,Normal
+Tamil Nadu,Tomato,2025-05-05,1516.67,6,1585.71,-4.35,Normal
+Tamil Nadu,Tomato,2025-05-12,1500.0,7,1516.67,-1.1,Normal
+Tamil Nadu,Tomato,2025-05-19,1542.86,7,1500.0,2.86,Normal
+Tamil Nadu,Tomato,2025-05-26,1557.14,7,1542.86,0.93,Normal
+Tamil Nadu,Tomato,2025-06-02,1900.0,7,1557.14,22.02,Alert
+Tamil Nadu,Tomato,2025-06-09,2433.33,6,1900.0,28.07,Severe
+Tamil Nadu,Tomato,2025-06-16,2207.14,7,2433.33,-9.3,Normal
+Tamil Nadu,Tomato,2025-06-23,2533.33,6,2207.14,14.78,Normal
+Tamil Nadu,Tomato,2025-06-30,3233.33,6,2533.33,27.63,Severe
+Tamil Nadu,Tomato,2025-07-07,3028.57,7,3233.33,-6.33,Normal
+Tamil Nadu,Tomato,2025-07-14,3000.0,5,3028.57,-0.94,Normal
+Tamil Nadu,Tomato,2025-07-21,3950.0,6,3000.0,31.67,Severe
+Tamil Nadu,Tomato,2025-07-28,4414.29,7,3950.0,11.75,Normal
+Tamil Nadu,Tomato,2025-08-04,4240.0,5,4414.29,-3.95,Normal
+Tamil Nadu,Tomato,2025-08-11,4000.0,6,4240.0,-5.66,Normal
+Tamil Nadu,Tomato,2025-08-18,4700.0,7,4000.0,17.5,Alert
+Tamil Nadu,Tomato,2025-08-25,4216.67,6,4700.0,-10.28,Normal
+Tamil Nadu,Tomato,2025-09-01,2864.29,7,4216.67,-32.07,Normal
+Tamil Nadu,Tomato,2025-09-08,2300.0,7,2864.29,-19.7,Normal
+Tamil Nadu,Tomato,2025-09-15,2392.86,7,2300.0,4.04,Normal
+Tamil Nadu,Tomato,2025-09-22,2714.29,7,2392.86,13.43,Normal
+Tamil Nadu,Tomato,2025-09-29,2310.0,5,2714.29,-14.89,Normal
+Tamil Nadu,Tomato,2025-10-06,2516.67,6,2310.0,8.95,Normal
+Tamil Nadu,Tomato,2025-10-13,2521.43,7,2516.67,0.19,Normal
+Tamil Nadu,Tomato,2025-10-20,3370.0,5,2521.43,33.65,Severe
+Tamil Nadu,Tomato,2025-10-27,3271.43,7,3370.0,-2.92,Normal
+Tamil Nadu,Tomato,2025-12-01,4535.0,5,3271.43,,No data
+Tamil Nadu,Tomato,2025-12-08,3832.14,7,4535.0,-15.5,Normal
+Tamil Nadu,Tomato,2025-12-15,4735.71,7,3832.14,23.58,Alert
+Tamil Nadu,Tomato,2025-12-22,5464.29,7,4735.71,15.38,Alert
+Tamil Nadu,Tomato,2025-12-29,5200.0,7,5464.29,-4.84,Normal
+Tamil Nadu,Tomato,2026-01-05,4000.0,7,5200.0,-23.08,Normal
+Tamil Nadu,Tomato,2026-01-12,3346.43,7,4000.0,-16.34,Normal
+Tamil Nadu,Tomato,2026-01-19,2735.71,7,3346.43,-18.25,Normal
+Tamil Nadu,Tomato,2026-01-26,2285.71,7,2735.71,-16.45,Normal
+Tamil Nadu,Tomato,2026-02-02,1908.33,6,2285.71,-16.51,Normal
+Tamil Nadu,Tomato,2026-02-09,1885.71,7,1908.33,-1.19,Normal
+Tamil Nadu,Tomato,2026-02-16,1907.14,7,1885.71,1.14,Normal
+Tamil Nadu,Tomato,2026-02-23,1562.5,6,1907.14,-18.07,Normal
+Tamil Nadu,Tomato,2026-03-02,1460.0,5,1562.5,-6.56,Normal
+Tamil Nadu,Tomato,2026-03-09,1550.0,6,1460.0,6.16,Normal
+Tamil Nadu,Tomato,2026-03-16,1643.75,4,1550.0,6.05,Normal
+Tamil Nadu,Tomato,2026-03-23,1657.14,7,1643.75,0.81,Normal
+Tamil Nadu,Tomato,2026-03-30,1725.0,7,1657.14,4.09,Normal
+Tamil Nadu,Tomato,2026-04-06,1817.86,7,1725.0,5.38,Normal
+Tamil Nadu,Tomato,2026-04-13,2467.86,7,1817.86,35.76,Severe
+Uttar Pradesh,Onion,2024-01-01,1905.36,7,,,No data
+Uttar Pradesh,Onion,2024-01-08,1886.43,7,1905.36,-0.99,Normal
+Uttar Pradesh,Onion,2024-01-15,1868.93,7,1886.43,-0.93,Normal
+Uttar Pradesh,Onion,2024-01-22,1830.71,7,1868.93,-2.04,Normal
+Uttar Pradesh,Onion,2024-01-29,1715.0,7,1830.71,-6.32,Normal
+Uttar Pradesh,Onion,2024-02-05,1549.29,7,1715.0,-9.66,Normal
+Uttar Pradesh,Onion,2024-02-12,1487.14,7,1549.29,-4.01,Normal
+Uttar Pradesh,Onion,2024-02-19,1538.93,7,1487.14,3.48,Normal
+Uttar Pradesh,Onion,2024-02-26,1649.64,7,1538.93,7.19,Normal
+Uttar Pradesh,Onion,2024-03-04,1761.43,7,1649.64,6.78,Normal
+Uttar Pradesh,Onion,2024-03-11,1847.43,7,1761.43,4.88,Normal
+Uttar Pradesh,Onion,2024-03-18,1863.57,7,1847.43,0.87,Normal
+Uttar Pradesh,Onion,2024-03-25,1802.5,7,1863.57,-3.28,Normal
+Uttar Pradesh,Onion,2024-04-01,1728.93,7,1802.5,-4.08,Normal
+Uttar Pradesh,Onion,2024-04-08,1698.57,7,1728.93,-1.76,Normal
+Uttar Pradesh,Onion,2024-04-15,1675.0,7,1698.57,-1.39,Normal
+Uttar Pradesh,Onion,2024-04-22,1688.21,7,1675.0,0.79,Normal
+Uttar Pradesh,Onion,2024-04-29,1657.5,7,1688.21,-1.82,Normal
+Uttar Pradesh,Onion,2024-05-06,1642.86,7,1657.5,-0.88,Normal
+Uttar Pradesh,Onion,2024-05-13,1611.43,7,1642.86,-1.91,Normal
+Uttar Pradesh,Onion,2024-05-20,1553.21,7,1611.43,-3.61,Normal
+Uttar Pradesh,Onion,2024-05-27,1510.0,7,1553.21,-2.78,Normal
+Uttar Pradesh,Onion,2024-06-03,1541.79,7,1510.0,2.11,Normal
+Uttar Pradesh,Onion,2024-06-10,1787.5,7,1541.79,15.94,Alert
+Uttar Pradesh,Onion,2024-06-17,2092.14,7,1787.5,17.04,Alert
+Uttar Pradesh,Onion,2024-06-24,2385.0,7,2092.14,14.0,Normal
+Uttar Pradesh,Onion,2024-07-01,2677.5,7,2385.0,12.26,Normal
+Uttar Pradesh,Onion,2024-07-08,2935.36,7,2677.5,9.63,Normal
+Uttar Pradesh,Onion,2024-07-15,2984.64,7,2935.36,1.68,Normal
+Uttar Pradesh,Onion,2024-07-22,2928.21,7,2984.64,-1.89,Normal
+Uttar Pradesh,Onion,2024-07-29,2843.93,7,2928.21,-2.88,Normal
+Uttar Pradesh,Onion,2024-08-05,2846.79,7,2843.93,0.1,Normal
+Uttar Pradesh,Onion,2024-08-12,2980.0,7,2846.79,4.68,Normal
+Uttar Pradesh,Onion,2024-08-19,3176.07,7,2980.0,6.58,Normal
+Uttar Pradesh,Onion,2024-08-26,3337.14,7,3176.07,5.07,Normal
+Uttar Pradesh,Onion,2024-09-02,3521.07,7,3337.14,5.51,Normal
+Uttar Pradesh,Onion,2024-09-09,3650.71,7,3521.07,3.68,Normal
+Uttar Pradesh,Onion,2024-09-16,3740.71,7,3650.71,2.47,Normal
+Uttar Pradesh,Onion,2024-09-23,3956.43,7,3740.71,5.77,Normal
+Uttar Pradesh,Onion,2024-09-30,4109.29,7,3956.43,3.86,Normal
+Uttar Pradesh,Onion,2024-10-07,4154.64,7,4109.29,1.1,Normal
+Uttar Pradesh,Onion,2024-10-14,4070.71,7,4154.64,-2.02,Normal
+Uttar Pradesh,Onion,2024-10-21,3994.29,7,4070.71,-1.88,Normal
+Uttar Pradesh,Onion,2024-10-28,3937.86,7,3994.29,-1.41,Normal
+Uttar Pradesh,Onion,2024-11-04,3974.64,7,3937.86,0.93,Normal
+Uttar Pradesh,Onion,2024-11-11,4212.5,7,3974.64,5.98,Normal
+Uttar Pradesh,Onion,2024-11-18,4076.79,7,4212.5,-3.22,Normal
+Uttar Pradesh,Onion,2024-11-25,3833.57,7,4076.79,-5.97,Normal
+Uttar Pradesh,Onion,2024-12-02,3688.93,7,3833.57,-3.77,Normal
+Uttar Pradesh,Onion,2024-12-09,3564.64,7,3688.93,-3.37,Normal
+Uttar Pradesh,Onion,2024-12-16,3329.29,7,3564.64,-6.6,Normal
+Uttar Pradesh,Onion,2024-12-23,2768.93,7,3329.29,-16.83,Normal
+Uttar Pradesh,Onion,2024-12-30,2381.36,7,2768.93,-14.0,Normal
+Uttar Pradesh,Onion,2025-01-06,2347.14,7,2381.36,-1.44,Normal
+Uttar Pradesh,Onion,2025-01-13,2342.5,7,2347.14,-0.2,Normal
+Uttar Pradesh,Onion,2025-01-20,2257.14,7,2342.5,-3.64,Normal
+Uttar Pradesh,Onion,2025-01-27,2140.36,7,2257.14,-5.17,Normal
+Uttar Pradesh,Onion,2025-02-03,2061.43,7,2140.36,-3.69,Normal
+Uttar Pradesh,Onion,2025-02-10,2077.14,7,2061.43,0.76,Normal
+Uttar Pradesh,Onion,2025-02-17,2302.86,7,2077.14,10.87,Normal
+Uttar Pradesh,Onion,2025-02-24,2520.0,7,2302.86,9.43,Normal
+Uttar Pradesh,Onion,2025-03-03,2590.0,7,2520.0,2.78,Normal
+Uttar Pradesh,Onion,2025-03-10,2542.14,7,2590.0,-1.85,Normal
+Uttar Pradesh,Onion,2025-03-17,2377.5,7,2542.14,-6.48,Normal
+Uttar Pradesh,Onion,2025-03-24,2065.71,7,2377.5,-13.11,Normal
+Uttar Pradesh,Onion,2025-03-31,1792.5,7,2065.71,-13.23,Normal
+Uttar Pradesh,Onion,2025-04-07,1628.21,7,1792.5,-9.17,Normal
+Uttar Pradesh,Onion,2025-04-14,1527.14,7,1628.21,-6.21,Normal
+Uttar Pradesh,Onion,2025-04-21,1397.14,7,1527.14,-8.51,Normal
+Uttar Pradesh,Onion,2025-04-28,1287.14,7,1397.14,-7.87,Normal
+Uttar Pradesh,Onion,2025-05-05,1236.79,7,1287.14,-3.91,Normal
+Uttar Pradesh,Onion,2025-05-12,1202.86,7,1236.79,-2.74,Normal
+Uttar Pradesh,Onion,2025-05-19,1200.0,7,1202.86,-0.24,Normal
+Uttar Pradesh,Onion,2025-05-26,1189.71,7,1200.0,-0.86,Normal
+Uttar Pradesh,Onion,2025-06-02,1181.43,7,1189.71,-0.7,Normal
+Uttar Pradesh,Onion,2025-06-09,1178.57,7,1181.43,-0.24,Normal
+Uttar Pradesh,Onion,2025-06-16,1187.86,7,1178.57,0.79,Normal
+Uttar Pradesh,Onion,2025-06-23,1206.07,7,1187.86,1.53,Normal
+Uttar Pradesh,Onion,2025-06-30,1311.43,7,1206.07,8.74,Normal
+Uttar Pradesh,Onion,2025-07-07,1386.43,7,1311.43,5.72,Normal
+Uttar Pradesh,Onion,2025-07-14,1376.86,7,1386.43,-0.69,Normal
+Uttar Pradesh,Onion,2025-07-21,1368.64,7,1376.86,-0.6,Normal
+Uttar Pradesh,Onion,2025-07-28,1374.64,7,1368.64,0.44,Normal
+Uttar Pradesh,Onion,2025-08-04,1358.93,7,1374.64,-1.14,Normal
+Uttar Pradesh,Onion,2025-08-11,1361.07,7,1358.93,0.16,Normal
+Uttar Pradesh,Onion,2025-08-18,1399.64,7,1361.07,2.83,Normal
+Uttar Pradesh,Onion,2025-08-25,1421.43,7,1399.64,1.56,Normal
+Uttar Pradesh,Onion,2025-09-01,1421.43,7,1421.43,0.0,Normal
+Uttar Pradesh,Onion,2025-09-08,1406.79,7,1421.43,-1.03,Normal
+Uttar Pradesh,Onion,2025-09-15,1395.71,7,1406.79,-0.79,Normal
+Uttar Pradesh,Onion,2025-09-22,1370.71,7,1395.71,-1.79,Normal
+Uttar Pradesh,Onion,2025-09-29,1346.36,7,1370.71,-1.78,Normal
+Uttar Pradesh,Onion,2025-10-06,1336.07,7,1346.36,-0.76,Normal
+Uttar Pradesh,Onion,2025-10-13,1320.36,7,1336.07,-1.18,Normal
+Uttar Pradesh,Onion,2025-10-20,1326.07,7,1320.36,0.43,Normal
+Uttar Pradesh,Onion,2025-10-27,1304.29,7,1326.07,-1.64,Normal
+Uttar Pradesh,Onion,2025-11-03,1503.12,4,1304.29,15.25,Alert
+Uttar Pradesh,Onion,2025-12-01,1157.5,5,1503.12,,No data
+Uttar Pradesh,Onion,2025-12-08,1126.43,7,1157.5,-2.68,Normal
+Uttar Pradesh,Onion,2025-12-15,1204.64,7,1126.43,6.94,Normal
+Uttar Pradesh,Onion,2025-12-22,1349.64,7,1204.64,12.04,Normal
+Uttar Pradesh,Onion,2025-12-29,1389.64,7,1349.64,2.96,Normal
+Uttar Pradesh,Onion,2026-01-05,1468.21,7,1389.64,5.65,Normal
+Uttar Pradesh,Onion,2026-01-12,1493.93,7,1468.21,1.75,Normal
+Uttar Pradesh,Onion,2026-01-19,1483.93,7,1493.93,-0.67,Normal
+Uttar Pradesh,Onion,2026-01-26,1486.43,7,1483.93,0.17,Normal
+Uttar Pradesh,Onion,2026-02-02,1505.0,7,1486.43,1.25,Normal
+Uttar Pradesh,Onion,2026-02-09,1453.57,7,1505.0,-3.42,Normal
+Uttar Pradesh,Onion,2026-02-16,1383.21,7,1453.57,-4.84,Normal
+Uttar Pradesh,Onion,2026-02-23,1423.33,6,1383.21,2.9,Normal
+Uttar Pradesh,Onion,2026-03-02,1289.5,5,1423.33,-9.4,Normal
+Uttar Pradesh,Onion,2026-03-09,1387.0,5,1289.5,7.56,Normal
+Uttar Pradesh,Onion,2026-03-16,1321.88,4,1387.0,-4.7,Normal
+Uttar Pradesh,Onion,2026-03-23,1273.93,7,1321.88,-3.63,Normal
+Uttar Pradesh,Onion,2026-03-30,1199.09,7,1273.93,-5.87,Normal
+Uttar Pradesh,Onion,2026-04-06,1132.24,7,1199.09,-5.58,Normal
+Uttar Pradesh,Onion,2026-04-13,1132.92,7,1132.24,0.06,Normal
+Uttar Pradesh,Potato,2024-01-01,717.5,7,,,No data
+Uttar Pradesh,Potato,2024-01-08,690.36,7,717.5,-3.78,Normal
+Uttar Pradesh,Potato,2024-01-15,692.5,7,690.36,0.31,Normal
+Uttar Pradesh,Potato,2024-01-22,693.57,7,692.5,0.15,Normal
+Uttar Pradesh,Potato,2024-01-29,699.29,7,693.57,0.82,Normal
+Uttar Pradesh,Potato,2024-02-05,698.57,7,699.29,-0.1,Normal
+Uttar Pradesh,Potato,2024-02-12,713.21,7,698.57,2.1,Normal
+Uttar Pradesh,Potato,2024-02-19,797.14,7,713.21,11.77,Normal
+Uttar Pradesh,Potato,2024-02-26,902.14,7,797.14,13.17,Normal
+Uttar Pradesh,Potato,2024-03-04,1011.43,7,902.14,12.11,Normal
+Uttar Pradesh,Potato,2024-03-11,1208.93,7,1011.43,19.53,Alert
+Uttar Pradesh,Potato,2024-03-18,1307.86,7,1208.93,8.18,Normal
+Uttar Pradesh,Potato,2024-03-25,1330.36,7,1307.86,1.72,Normal
+Uttar Pradesh,Potato,2024-04-01,1392.86,7,1330.36,4.7,Normal
+Uttar Pradesh,Potato,2024-04-08,1516.07,7,1392.86,8.85,Normal
+Uttar Pradesh,Potato,2024-04-15,1604.64,7,1516.07,5.84,Normal
+Uttar Pradesh,Potato,2024-04-22,1652.5,7,1604.64,2.98,Normal
+Uttar Pradesh,Potato,2024-04-29,1686.43,7,1652.5,2.05,Normal
+Uttar Pradesh,Potato,2024-05-06,1706.79,7,1686.43,1.21,Normal
+Uttar Pradesh,Potato,2024-05-13,1718.21,7,1706.79,0.67,Normal
+Uttar Pradesh,Potato,2024-05-20,1706.43,7,1718.21,-0.69,Normal
+Uttar Pradesh,Potato,2024-05-27,1723.21,7,1706.43,0.98,Normal
+Uttar Pradesh,Potato,2024-06-03,1727.86,7,1723.21,0.27,Normal
+Uttar Pradesh,Potato,2024-06-10,1777.86,7,1727.86,2.89,Normal
+Uttar Pradesh,Potato,2024-06-17,1849.64,7,1777.86,4.04,Normal
+Uttar Pradesh,Potato,2024-06-24,1956.79,7,1849.64,5.79,Normal
+Uttar Pradesh,Potato,2024-07-01,2128.21,7,1956.79,8.76,Normal
+Uttar Pradesh,Potato,2024-07-08,2300.0,7,2128.21,8.07,Normal
+Uttar Pradesh,Potato,2024-07-15,2360.71,7,2300.0,2.64,Normal
+Uttar Pradesh,Potato,2024-07-22,2341.79,7,2360.71,-0.8,Normal
+Uttar Pradesh,Potato,2024-07-29,2292.14,7,2341.79,-2.12,Normal
+Uttar Pradesh,Potato,2024-08-05,2265.71,7,2292.14,-1.15,Normal
+Uttar Pradesh,Potato,2024-08-12,2273.21,7,2265.71,0.33,Normal
+Uttar Pradesh,Potato,2024-08-19,2289.64,7,2273.21,0.72,Normal
+Uttar Pradesh,Potato,2024-08-26,2291.07,7,2289.64,0.06,Normal
+Uttar Pradesh,Potato,2024-09-02,2262.5,7,2291.07,-1.25,Normal
+Uttar Pradesh,Potato,2024-09-09,2194.29,7,2262.5,-3.01,Normal
+Uttar Pradesh,Potato,2024-09-16,2142.5,7,2194.29,-2.36,Normal
+Uttar Pradesh,Potato,2024-09-23,2145.71,7,2142.5,0.15,Normal
+Uttar Pradesh,Potato,2024-09-30,2155.0,7,2145.71,0.43,Normal
+Uttar Pradesh,Potato,2024-10-07,2159.29,7,2155.0,0.2,Normal
+Uttar Pradesh,Potato,2024-10-14,2140.0,7,2159.29,-0.89,Normal
+Uttar Pradesh,Potato,2024-10-21,2122.86,7,2140.0,-0.8,Normal
+Uttar Pradesh,Potato,2024-10-28,2111.79,7,2122.86,-0.52,Normal
+Uttar Pradesh,Potato,2024-11-04,2117.14,7,2111.79,0.25,Normal
+Uttar Pradesh,Potato,2024-11-11,2116.43,7,2117.14,-0.03,Normal
+Uttar Pradesh,Potato,2024-11-18,2117.14,7,2116.43,0.03,Normal
+Uttar Pradesh,Potato,2024-11-25,2103.21,7,2117.14,-0.66,Normal
+Uttar Pradesh,Potato,2024-12-02,2127.86,7,2103.21,1.17,Normal
+Uttar Pradesh,Potato,2024-12-09,2048.93,7,2127.86,-3.71,Normal
+Uttar Pradesh,Potato,2024-12-16,1862.14,7,2048.93,-9.12,Normal
+Uttar Pradesh,Potato,2024-12-23,1664.29,7,1862.14,-10.63,Normal
+Uttar Pradesh,Potato,2024-12-30,1485.36,7,1664.29,-10.75,Normal
+Uttar Pradesh,Potato,2025-01-06,1380.0,7,1485.36,-7.09,Normal
+Uttar Pradesh,Potato,2025-01-13,1306.43,7,1380.0,-5.33,Normal
+Uttar Pradesh,Potato,2025-01-20,1221.43,7,1306.43,-6.51,Normal
+Uttar Pradesh,Potato,2025-01-27,1105.0,7,1221.43,-9.53,Normal
+Uttar Pradesh,Potato,2025-02-03,1013.57,7,1105.0,-8.27,Normal
+Uttar Pradesh,Potato,2025-02-10,990.0,7,1013.57,-2.33,Normal
+Uttar Pradesh,Potato,2025-02-17,952.86,7,990.0,-3.75,Normal
+Uttar Pradesh,Potato,2025-02-24,949.64,7,952.86,-0.34,Normal
+Uttar Pradesh,Potato,2025-03-03,988.57,7,949.64,4.1,Normal
+Uttar Pradesh,Potato,2025-03-10,1065.36,7,988.57,7.77,Normal
+Uttar Pradesh,Potato,2025-03-17,1088.21,7,1065.36,2.15,Normal
+Uttar Pradesh,Potato,2025-03-24,1103.21,7,1088.21,1.38,Normal
+Uttar Pradesh,Potato,2025-03-31,1109.64,7,1103.21,0.58,Normal
+Uttar Pradesh,Potato,2025-04-07,1112.86,7,1109.64,0.29,Normal
+Uttar Pradesh,Potato,2025-04-14,1129.29,7,1112.86,1.48,Normal
+Uttar Pradesh,Potato,2025-04-21,1132.5,7,1129.29,0.28,Normal
+Uttar Pradesh,Potato,2025-04-28,1132.14,7,1132.5,-0.03,Normal
+Uttar Pradesh,Potato,2025-05-05,1118.21,7,1132.14,-1.23,Normal
+Uttar Pradesh,Potato,2025-05-12,1126.43,7,1118.21,0.73,Normal
+Uttar Pradesh,Potato,2025-05-19,1147.5,7,1126.43,1.87,Normal
+Uttar Pradesh,Potato,2025-05-26,1150.0,7,1147.5,0.22,Normal
+Uttar Pradesh,Potato,2025-06-02,1161.79,7,1150.0,1.02,Normal
+Uttar Pradesh,Potato,2025-06-09,1195.71,7,1161.79,2.92,Normal
+Uttar Pradesh,Potato,2025-06-16,1203.57,7,1195.71,0.66,Normal
+Uttar Pradesh,Potato,2025-06-23,1214.64,7,1203.57,0.92,Normal
+Uttar Pradesh,Potato,2025-06-30,1228.21,7,1214.64,1.12,Normal
+Uttar Pradesh,Potato,2025-07-07,1225.71,7,1228.21,-0.2,Normal
+Uttar Pradesh,Potato,2025-07-14,1205.0,7,1225.71,-1.69,Normal
+Uttar Pradesh,Potato,2025-07-21,1168.57,7,1205.0,-3.02,Normal
+Uttar Pradesh,Potato,2025-07-28,1110.36,7,1168.57,-4.98,Normal
+Uttar Pradesh,Potato,2025-08-04,1070.36,7,1110.36,-3.6,Normal
+Uttar Pradesh,Potato,2025-08-11,1042.86,7,1070.36,-2.57,Normal
+Uttar Pradesh,Potato,2025-08-18,1053.57,7,1042.86,1.03,Normal
+Uttar Pradesh,Potato,2025-08-25,1045.0,7,1053.57,-0.81,Normal
+Uttar Pradesh,Potato,2025-09-01,1009.14,7,1045.0,-3.43,Normal
+Uttar Pradesh,Potato,2025-09-08,1044.29,7,1009.14,3.48,Normal
+Uttar Pradesh,Potato,2025-09-15,1048.57,7,1044.29,0.41,Normal
+Uttar Pradesh,Potato,2025-09-22,1052.5,7,1048.57,0.37,Normal
+Uttar Pradesh,Potato,2025-09-29,1060.36,7,1052.5,0.75,Normal
+Uttar Pradesh,Potato,2025-10-06,1059.29,7,1060.36,-0.1,Normal
+Uttar Pradesh,Potato,2025-10-13,1063.79,7,1059.29,0.42,Normal
+Uttar Pradesh,Potato,2025-10-20,1098.21,7,1063.79,3.24,Normal
+Uttar Pradesh,Potato,2025-10-27,1148.21,7,1098.21,4.55,Normal
+Uttar Pradesh,Potato,2025-11-03,1255.62,4,1148.21,9.35,Normal
+Uttar Pradesh,Potato,2025-12-01,1129.17,6,1255.62,,No data
+Uttar Pradesh,Potato,2025-12-08,1002.5,7,1129.17,-11.22,Normal
+Uttar Pradesh,Potato,2025-12-15,908.57,7,1002.5,-9.37,Normal
+Uttar Pradesh,Potato,2025-12-22,832.5,7,908.57,-8.37,Normal
+Uttar Pradesh,Potato,2025-12-29,776.0,7,832.5,-6.79,Normal
+Uttar Pradesh,Potato,2026-01-05,731.79,7,776.0,-5.7,Normal
+Uttar Pradesh,Potato,2026-01-12,712.14,7,731.79,-2.68,Normal
+Uttar Pradesh,Potato,2026-01-19,661.43,7,712.14,-7.12,Normal
+Uttar Pradesh,Potato,2026-01-26,656.07,7,661.43,-0.81,Normal
+Uttar Pradesh,Potato,2026-02-02,636.67,6,656.07,-2.96,Normal
+Uttar Pradesh,Potato,2026-02-09,637.14,7,636.67,0.07,Normal
+Uttar Pradesh,Potato,2026-02-16,628.79,7,637.14,-1.31,Normal
+Uttar Pradesh,Potato,2026-02-23,615.67,6,628.79,-2.09,Normal
+Uttar Pradesh,Potato,2026-03-02,748.66,4,615.67,21.6,Alert
+Uttar Pradesh,Potato,2026-03-09,623.75,6,748.66,-16.69,Normal
+Uttar Pradesh,Potato,2026-03-16,616.25,4,623.75,-1.2,Normal
+Uttar Pradesh,Potato,2026-03-23,618.93,7,616.25,0.43,Normal
+Uttar Pradesh,Potato,2026-03-30,564.95,7,618.93,-8.72,Normal
+Uttar Pradesh,Potato,2026-04-06,507.14,7,564.95,-10.23,Normal
+Uttar Pradesh,Potato,2026-04-13,528.65,7,507.14,4.24,Normal
+Uttar Pradesh,Rice,2024-01-01,2727.5,7,,,No data
+Uttar Pradesh,Rice,2024-01-08,2727.14,7,2727.5,-0.01,Normal
+Uttar Pradesh,Rice,2024-01-15,2717.14,7,2727.14,-0.37,Normal
+Uttar Pradesh,Rice,2024-01-22,2722.86,7,2717.14,0.21,Normal
+Uttar Pradesh,Rice,2024-01-29,2755.0,7,2722.86,1.18,Normal
+Uttar Pradesh,Rice,2024-02-05,2757.86,7,2755.0,0.1,Normal
+Uttar Pradesh,Rice,2024-02-12,2782.14,7,2757.86,0.88,Normal
+Uttar Pradesh,Rice,2024-02-19,2788.57,7,2782.14,0.23,Normal
+Uttar Pradesh,Rice,2024-02-26,2810.0,7,2788.57,0.77,Normal
+Uttar Pradesh,Rice,2024-03-04,2823.21,7,2810.0,0.47,Normal
+Uttar Pradesh,Rice,2024-03-11,2832.14,7,2823.21,0.32,Normal
+Uttar Pradesh,Rice,2024-03-18,2849.14,7,2832.14,0.6,Normal
+Uttar Pradesh,Rice,2024-03-25,2851.43,7,2849.14,0.08,Normal
+Uttar Pradesh,Rice,2024-04-01,2868.21,7,2851.43,0.59,Normal
+Uttar Pradesh,Rice,2024-04-08,2878.93,7,2868.21,0.37,Normal
+Uttar Pradesh,Rice,2024-04-15,2883.57,7,2878.93,0.16,Normal
+Uttar Pradesh,Rice,2024-04-22,2887.14,7,2883.57,0.12,Normal
+Uttar Pradesh,Rice,2024-04-29,2894.29,7,2887.14,0.25,Normal
+Uttar Pradesh,Rice,2024-05-06,2915.36,7,2894.29,0.73,Normal
+Uttar Pradesh,Rice,2024-05-13,2941.43,7,2915.36,0.89,Normal
+Uttar Pradesh,Rice,2024-05-20,2937.5,7,2941.43,-0.13,Normal
+Uttar Pradesh,Rice,2024-05-27,2955.71,7,2937.5,0.62,Normal
+Uttar Pradesh,Rice,2024-06-03,2950.71,7,2955.71,-0.17,Normal
+Uttar Pradesh,Rice,2024-06-10,2953.93,7,2950.71,0.11,Normal
+Uttar Pradesh,Rice,2024-06-17,2961.07,7,2953.93,0.24,Normal
+Uttar Pradesh,Rice,2024-06-24,3008.93,7,2961.07,1.62,Normal
+Uttar Pradesh,Rice,2024-07-01,3028.57,7,3008.93,0.65,Normal
+Uttar Pradesh,Rice,2024-07-08,3038.57,7,3028.57,0.33,Normal
+Uttar Pradesh,Rice,2024-07-15,3065.36,7,3038.57,0.88,Normal
+Uttar Pradesh,Rice,2024-07-22,3090.0,7,3065.36,0.8,Normal
+Uttar Pradesh,Rice,2024-07-29,3115.36,7,3090.0,0.82,Normal
+Uttar Pradesh,Rice,2024-08-05,3125.36,7,3115.36,0.32,Normal
+Uttar Pradesh,Rice,2024-08-12,3141.43,7,3125.36,0.51,Normal
+Uttar Pradesh,Rice,2024-08-19,3148.21,7,3141.43,0.22,Normal
+Uttar Pradesh,Rice,2024-08-26,3152.86,7,3148.21,0.15,Normal
+Uttar Pradesh,Rice,2024-09-02,3152.86,7,3152.86,0.0,Normal
+Uttar Pradesh,Rice,2024-09-09,3162.14,7,3152.86,0.29,Normal
+Uttar Pradesh,Rice,2024-09-16,3161.43,7,3162.14,-0.02,Normal
+Uttar Pradesh,Rice,2024-09-23,3158.93,7,3161.43,-0.08,Normal
+Uttar Pradesh,Rice,2024-09-30,3170.71,7,3158.93,0.37,Normal
+Uttar Pradesh,Rice,2024-10-07,3176.79,7,3170.71,0.19,Normal
+Uttar Pradesh,Rice,2024-10-14,3171.07,7,3176.79,-0.18,Normal
+Uttar Pradesh,Rice,2024-10-21,3174.29,7,3171.07,0.1,Normal
+Uttar Pradesh,Rice,2024-10-28,3173.93,7,3174.29,-0.01,Normal
+Uttar Pradesh,Rice,2024-11-04,3167.14,7,3173.93,-0.21,Normal
+Uttar Pradesh,Rice,2024-11-11,3164.64,7,3167.14,-0.08,Normal
+Uttar Pradesh,Rice,2024-11-18,3165.71,7,3164.64,0.03,Normal
+Uttar Pradesh,Rice,2024-11-25,3166.43,7,3165.71,0.02,Normal
+Uttar Pradesh,Rice,2024-12-02,3156.07,7,3166.43,-0.33,Normal
+Uttar Pradesh,Rice,2024-12-09,3152.14,7,3156.07,-0.12,Normal
+Uttar Pradesh,Rice,2024-12-16,3146.43,7,3152.14,-0.18,Normal
+Uttar Pradesh,Rice,2024-12-23,3146.43,7,3146.43,0.0,Normal
+Uttar Pradesh,Rice,2024-12-30,3150.36,7,3146.43,0.12,Normal
+Uttar Pradesh,Rice,2025-01-06,3155.0,7,3150.36,0.15,Normal
+Uttar Pradesh,Rice,2025-01-13,3158.57,7,3155.0,0.11,Normal
+Uttar Pradesh,Rice,2025-01-20,3176.79,7,3158.57,0.58,Normal
+Uttar Pradesh,Rice,2025-01-27,3199.64,7,3176.79,0.72,Normal
+Uttar Pradesh,Rice,2025-02-03,3203.57,7,3199.64,0.12,Normal
+Uttar Pradesh,Rice,2025-02-10,3207.5,7,3203.57,0.12,Normal
+Uttar Pradesh,Rice,2025-02-17,3207.86,7,3207.5,0.01,Normal
+Uttar Pradesh,Rice,2025-02-24,3208.57,7,3207.86,0.02,Normal
+Uttar Pradesh,Rice,2025-03-03,3213.21,7,3208.57,0.14,Normal
+Uttar Pradesh,Rice,2025-03-10,3212.86,7,3213.21,-0.01,Normal
+Uttar Pradesh,Rice,2025-03-17,3211.07,7,3212.86,-0.06,Normal
+Uttar Pradesh,Rice,2025-03-24,3206.79,7,3211.07,-0.13,Normal
+Uttar Pradesh,Rice,2025-03-31,3197.14,7,3206.79,-0.3,Normal
+Uttar Pradesh,Rice,2025-04-07,3195.36,7,3197.14,-0.06,Normal
+Uttar Pradesh,Rice,2025-04-14,3195.36,7,3195.36,0.0,Normal
+Uttar Pradesh,Rice,2025-04-21,3204.29,7,3195.36,0.28,Normal
+Uttar Pradesh,Rice,2025-04-28,3204.29,7,3204.29,0.0,Normal
+Uttar Pradesh,Rice,2025-05-05,3202.86,7,3204.29,-0.04,Normal
+Uttar Pradesh,Rice,2025-05-12,3206.43,7,3202.86,0.11,Normal
+Uttar Pradesh,Rice,2025-05-19,3202.14,7,3206.43,-0.13,Normal
+Uttar Pradesh,Rice,2025-05-26,3207.5,7,3202.14,0.17,Normal
+Uttar Pradesh,Rice,2025-06-02,3212.86,7,3207.5,0.17,Normal
+Uttar Pradesh,Rice,2025-06-09,3218.93,7,3212.86,0.19,Normal
+Uttar Pradesh,Rice,2025-06-16,3205.36,7,3218.93,-0.42,Normal
+Uttar Pradesh,Rice,2025-06-23,3224.64,7,3205.36,0.6,Normal
+Uttar Pradesh,Rice,2025-06-30,3228.21,7,3224.64,0.11,Normal
+Uttar Pradesh,Rice,2025-07-07,3233.93,7,3228.21,0.18,Normal
+Uttar Pradesh,Rice,2025-07-14,3247.5,7,3233.93,0.42,Normal
+Uttar Pradesh,Rice,2025-07-21,3245.71,7,3247.5,-0.05,Normal
+Uttar Pradesh,Rice,2025-07-28,3247.86,7,3245.71,0.07,Normal
+Uttar Pradesh,Rice,2025-08-04,3252.86,7,3247.86,0.15,Normal
+Uttar Pradesh,Rice,2025-08-11,3252.86,7,3252.86,0.0,Normal
+Uttar Pradesh,Rice,2025-08-18,3257.14,7,3252.86,0.13,Normal
+Uttar Pradesh,Rice,2025-08-25,3265.0,7,3257.14,0.24,Normal
+Uttar Pradesh,Rice,2025-09-01,3260.71,7,3265.0,-0.13,Normal
+Uttar Pradesh,Rice,2025-09-08,3267.86,7,3260.71,0.22,Normal
+Uttar Pradesh,Rice,2025-09-15,3280.36,7,3267.86,0.38,Normal
+Uttar Pradesh,Rice,2025-09-22,3265.36,7,3280.36,-0.46,Normal
+Uttar Pradesh,Rice,2025-09-29,3259.29,7,3265.36,-0.19,Normal
+Uttar Pradesh,Rice,2025-10-06,3261.43,7,3259.29,0.07,Normal
+Uttar Pradesh,Rice,2025-10-13,3249.29,7,3261.43,-0.37,Normal
+Uttar Pradesh,Rice,2025-10-20,3237.86,7,3249.29,-0.35,Normal
+Uttar Pradesh,Rice,2025-10-27,3275.71,7,3237.86,1.17,Normal
+Uttar Pradesh,Rice,2025-11-03,3269.17,3,3275.71,-0.2,Normal
+Uttar Pradesh,Rice,2025-12-01,3194.0,5,3269.17,,No data
+Uttar Pradesh,Rice,2025-12-08,3185.0,7,3194.0,-0.28,Normal
+Uttar Pradesh,Rice,2025-12-15,3169.29,7,3185.0,-0.49,Normal
+Uttar Pradesh,Rice,2025-12-22,3216.07,7,3169.29,1.48,Normal
+Uttar Pradesh,Rice,2025-12-29,3191.07,7,3216.07,-0.78,Normal
+Uttar Pradesh,Rice,2026-01-05,3227.86,7,3191.07,1.15,Normal
+Uttar Pradesh,Rice,2026-01-12,3023.93,7,3227.86,-6.32,Normal
+Uttar Pradesh,Rice,2026-01-19,2968.86,7,3023.93,-1.82,Normal
+Uttar Pradesh,Rice,2026-01-26,2903.21,7,2968.86,-2.21,Normal
+Uttar Pradesh,Rice,2026-02-02,2865.21,7,2903.21,-1.31,Normal
+Uttar Pradesh,Rice,2026-02-09,2991.07,7,2865.21,4.39,Normal
+Uttar Pradesh,Rice,2026-02-16,3058.21,7,2991.07,2.24,Normal
+Uttar Pradesh,Rice,2026-02-23,2782.08,6,3058.21,-9.03,Normal
+Uttar Pradesh,Rice,2026-03-02,2948.75,4,2782.08,5.99,Normal
+Uttar Pradesh,Rice,2026-03-09,2905.08,6,2948.75,-1.48,Normal
+Uttar Pradesh,Rice,2026-03-16,3180.0,3,2905.08,9.46,Normal
+Uttar Pradesh,Rice,2026-03-23,2950.0,7,3180.0,-7.23,Normal
+Uttar Pradesh,Rice,2026-03-30,2657.67,7,2950.0,-9.91,Normal
+Uttar Pradesh,Rice,2026-04-06,2454.21,7,2657.67,-7.66,Normal
+Uttar Pradesh,Rice,2026-04-13,2458.51,7,2454.21,0.18,Normal
+Uttar Pradesh,Tomato,2024-01-01,1205.0,7,,,No data
+Uttar Pradesh,Tomato,2024-01-08,1158.57,7,1205.0,-3.85,Normal
+Uttar Pradesh,Tomato,2024-01-15,1210.43,7,1158.57,4.48,Normal
+Uttar Pradesh,Tomato,2024-01-22,1450.0,7,1210.43,19.79,Alert
+Uttar Pradesh,Tomato,2024-01-29,1651.79,7,1450.0,13.92,Normal
+Uttar Pradesh,Tomato,2024-02-05,1570.0,7,1651.79,-4.95,Normal
+Uttar Pradesh,Tomato,2024-02-12,1469.64,7,1570.0,-6.39,Normal
+Uttar Pradesh,Tomato,2024-02-19,1684.29,7,1469.64,14.61,Normal
+Uttar Pradesh,Tomato,2024-02-26,1713.57,7,1684.29,1.74,Normal
+Uttar Pradesh,Tomato,2024-03-04,1821.43,7,1713.57,6.29,Normal
+Uttar Pradesh,Tomato,2024-03-11,1993.5,7,1821.43,9.45,Normal
+Uttar Pradesh,Tomato,2024-03-18,2031.43,7,1993.5,1.9,Normal
+Uttar Pradesh,Tomato,2024-03-25,1932.14,7,2031.43,-4.89,Normal
+Uttar Pradesh,Tomato,2024-04-01,1797.14,7,1932.14,-6.99,Normal
+Uttar Pradesh,Tomato,2024-04-08,1780.71,7,1797.14,-0.91,Normal
+Uttar Pradesh,Tomato,2024-04-15,1832.5,7,1780.71,2.91,Normal
+Uttar Pradesh,Tomato,2024-04-22,1796.43,7,1832.5,-1.97,Normal
+Uttar Pradesh,Tomato,2024-04-29,1698.57,7,1796.43,-5.45,Normal
+Uttar Pradesh,Tomato,2024-05-06,1645.71,7,1698.57,-3.11,Normal
+Uttar Pradesh,Tomato,2024-05-13,1481.5,7,1645.71,-9.98,Normal
+Uttar Pradesh,Tomato,2024-05-20,1239.64,7,1481.5,-16.33,Normal
+Uttar Pradesh,Tomato,2024-05-27,1212.86,7,1239.64,-2.16,Normal
+Uttar Pradesh,Tomato,2024-06-03,1185.0,7,1212.86,-2.3,Normal
+Uttar Pradesh,Tomato,2024-06-10,1184.64,7,1185.0,-0.03,Normal
+Uttar Pradesh,Tomato,2024-06-17,1559.29,7,1184.64,31.62,Severe
+Uttar Pradesh,Tomato,2024-06-24,2023.21,7,1559.29,29.75,Severe
+Uttar Pradesh,Tomato,2024-07-01,3202.5,7,2023.21,58.29,Severe
+Uttar Pradesh,Tomato,2024-07-08,4288.21,7,3202.5,33.9,Severe
+Uttar Pradesh,Tomato,2024-07-15,4550.0,7,4288.21,6.1,Normal
+Uttar Pradesh,Tomato,2024-07-22,4507.86,7,4550.0,-0.93,Normal
+Uttar Pradesh,Tomato,2024-07-29,3977.14,7,4507.86,-11.77,Normal
+Uttar Pradesh,Tomato,2024-08-05,3293.21,7,3977.14,-17.2,Normal
+Uttar Pradesh,Tomato,2024-08-12,3016.43,7,3293.21,-8.4,Normal
+Uttar Pradesh,Tomato,2024-08-19,2877.14,7,3016.43,-4.62,Normal
+Uttar Pradesh,Tomato,2024-08-26,2694.29,7,2877.14,-6.36,Normal
+Uttar Pradesh,Tomato,2024-09-02,2469.64,7,2694.29,-8.34,Normal
+Uttar Pradesh,Tomato,2024-09-09,2402.86,7,2469.64,-2.7,Normal
+Uttar Pradesh,Tomato,2024-09-16,2650.0,7,2402.86,10.29,Normal
+Uttar Pradesh,Tomato,2024-09-23,3206.79,7,2650.0,21.01,Alert
+Uttar Pradesh,Tomato,2024-09-30,3916.36,7,3206.79,22.13,Alert
+Uttar Pradesh,Tomato,2024-10-07,4754.29,7,3916.36,21.4,Alert
+Uttar Pradesh,Tomato,2024-10-14,4735.36,7,4754.29,-0.4,Normal
+Uttar Pradesh,Tomato,2024-10-21,4290.71,7,4735.36,-9.39,Normal
+Uttar Pradesh,Tomato,2024-10-28,3967.86,7,4290.71,-7.52,Normal
+Uttar Pradesh,Tomato,2024-11-04,3682.14,7,3967.86,-7.2,Normal
+Uttar Pradesh,Tomato,2024-11-11,3265.36,7,3682.14,-11.32,Normal
+Uttar Pradesh,Tomato,2024-11-18,3018.57,7,3265.36,-7.56,Normal
+Uttar Pradesh,Tomato,2024-11-25,2990.71,7,3018.57,-0.92,Normal
+Uttar Pradesh,Tomato,2024-12-02,2975.0,7,2990.71,-0.53,Normal
+Uttar Pradesh,Tomato,2024-12-09,2761.43,7,2975.0,-7.18,Normal
+Uttar Pradesh,Tomato,2024-12-16,2262.14,7,2761.43,-18.08,Normal
+Uttar Pradesh,Tomato,2024-12-23,1857.86,7,2262.14,-17.87,Normal
+Uttar Pradesh,Tomato,2024-12-30,1472.14,7,1857.86,-20.76,Normal
+Uttar Pradesh,Tomato,2025-01-06,1231.43,7,1472.14,-16.35,Normal
+Uttar Pradesh,Tomato,2025-01-13,1105.71,7,1231.43,-10.21,Normal
+Uttar Pradesh,Tomato,2025-01-20,1002.86,7,1105.71,-9.3,Normal
+Uttar Pradesh,Tomato,2025-01-27,916.79,7,1002.86,-8.58,Normal
+Uttar Pradesh,Tomato,2025-02-03,859.29,7,916.79,-6.27,Normal
+Uttar Pradesh,Tomato,2025-02-10,825.71,7,859.29,-3.91,Normal
+Uttar Pradesh,Tomato,2025-02-17,800.36,7,825.71,-3.07,Normal
+Uttar Pradesh,Tomato,2025-02-24,750.0,7,800.36,-6.29,Normal
+Uttar Pradesh,Tomato,2025-03-03,705.71,7,750.0,-5.9,Normal
+Uttar Pradesh,Tomato,2025-03-10,651.07,7,705.71,-7.74,Normal
+Uttar Pradesh,Tomato,2025-03-17,667.14,7,651.07,2.47,Normal
+Uttar Pradesh,Tomato,2025-03-24,632.86,7,667.14,-5.14,Normal
+Uttar Pradesh,Tomato,2025-03-31,647.5,7,632.86,2.31,Normal
+Uttar Pradesh,Tomato,2025-04-07,742.86,7,647.5,14.73,Normal
+Uttar Pradesh,Tomato,2025-04-14,749.43,7,742.86,0.88,Normal
+Uttar Pradesh,Tomato,2025-04-21,722.5,7,749.43,-3.59,Normal
+Uttar Pradesh,Tomato,2025-04-28,720.0,7,722.5,-0.35,Normal
+Uttar Pradesh,Tomato,2025-05-05,765.71,7,720.0,6.35,Normal
+Uttar Pradesh,Tomato,2025-05-12,789.29,7,765.71,3.08,Normal
+Uttar Pradesh,Tomato,2025-05-19,838.57,7,789.29,6.24,Normal
+Uttar Pradesh,Tomato,2025-05-26,980.71,7,838.57,16.95,Alert
+Uttar Pradesh,Tomato,2025-06-02,1233.57,7,980.71,25.78,Severe
+Uttar Pradesh,Tomato,2025-06-09,1603.57,7,1233.57,29.99,Severe
+Uttar Pradesh,Tomato,2025-06-16,1894.43,7,1603.57,18.14,Alert
+Uttar Pradesh,Tomato,2025-06-23,1940.0,7,1894.43,2.41,Normal
+Uttar Pradesh,Tomato,2025-06-30,2278.93,7,1940.0,17.47,Alert
+Uttar Pradesh,Tomato,2025-07-07,2715.71,7,2278.93,19.17,Alert
+Uttar Pradesh,Tomato,2025-07-14,2812.86,7,2715.71,3.58,Normal
+Uttar Pradesh,Tomato,2025-07-21,2832.86,7,2812.86,0.71,Normal
+Uttar Pradesh,Tomato,2025-07-28,3348.21,7,2832.86,18.19,Alert
+Uttar Pradesh,Tomato,2025-08-04,3768.21,7,3348.21,12.54,Normal
+Uttar Pradesh,Tomato,2025-08-11,3942.5,7,3768.21,4.63,Normal
+Uttar Pradesh,Tomato,2025-08-18,3978.57,7,3942.5,0.91,Normal
+Uttar Pradesh,Tomato,2025-08-25,3594.64,7,3978.57,-9.65,Normal
+Uttar Pradesh,Tomato,2025-09-01,2992.86,7,3594.64,-16.74,Normal
+Uttar Pradesh,Tomato,2025-09-08,2558.93,7,2992.86,-14.5,Normal
+Uttar Pradesh,Tomato,2025-09-15,2282.14,7,2558.93,-10.82,Normal
+Uttar Pradesh,Tomato,2025-09-22,2163.93,7,2282.14,-5.18,Normal
+Uttar Pradesh,Tomato,2025-09-29,2125.71,7,2163.93,-1.77,Normal
+Uttar Pradesh,Tomato,2025-10-06,2012.5,7,2125.71,-5.33,Normal
+Uttar Pradesh,Tomato,2025-10-13,1998.93,7,2012.5,-0.67,Normal
+Uttar Pradesh,Tomato,2025-10-20,2001.07,7,1998.93,0.11,Normal
+Uttar Pradesh,Tomato,2025-10-27,1928.93,7,2001.07,-3.61,Normal
+Uttar Pradesh,Tomato,2025-11-03,1978.12,4,1928.93,2.55,Normal
+Uttar Pradesh,Tomato,2025-12-01,2868.33,6,1978.12,,No data
+Uttar Pradesh,Tomato,2025-12-08,2574.64,7,2868.33,-10.24,Normal
+Uttar Pradesh,Tomato,2025-12-15,2699.64,7,2574.64,4.86,Normal
+Uttar Pradesh,Tomato,2025-12-22,2685.54,7,2699.64,-0.52,Normal
+Uttar Pradesh,Tomato,2025-12-29,2676.07,7,2685.54,-0.35,Normal
+Uttar Pradesh,Tomato,2026-01-05,2786.43,7,2676.07,4.12,Normal
+Uttar Pradesh,Tomato,2026-01-12,2675.0,7,2786.43,-4.0,Normal
+Uttar Pradesh,Tomato,2026-01-19,2171.43,7,2675.0,-18.83,Normal
+Uttar Pradesh,Tomato,2026-01-26,1651.43,7,2171.43,-23.95,Normal
+Uttar Pradesh,Tomato,2026-02-02,1570.0,6,1651.43,-4.93,Normal
+Uttar Pradesh,Tomato,2026-02-09,1248.57,7,1570.0,-20.47,Normal
+Uttar Pradesh,Tomato,2026-02-16,1286.43,7,1248.57,3.03,Normal
+Uttar Pradesh,Tomato,2026-02-23,1349.17,6,1286.43,4.88,Normal
+Uttar Pradesh,Tomato,2026-03-02,1219.62,5,1349.17,-9.6,Normal
+Uttar Pradesh,Tomato,2026-03-09,1233.75,6,1219.62,1.16,Normal
+Uttar Pradesh,Tomato,2026-03-16,1278.75,4,1233.75,3.65,Normal
+Uttar Pradesh,Tomato,2026-03-23,1271.43,7,1278.75,-0.57,Normal
+Uttar Pradesh,Tomato,2026-03-30,1102.11,7,1271.43,-13.32,Normal
+Uttar Pradesh,Tomato,2026-04-06,1083.39,7,1102.11,-1.7,Normal
+Uttar Pradesh,Tomato,2026-04-13,1082.14,7,1083.39,-0.11,Normal
+Uttar Pradesh,Wheat,2024-01-01,2477.0,7,,,No data
+Uttar Pradesh,Wheat,2024-01-08,2500.0,7,2477.0,0.93,Normal
+Uttar Pradesh,Wheat,2024-01-15,2507.14,7,2500.0,0.29,Normal
+Uttar Pradesh,Wheat,2024-01-22,2511.43,7,2507.14,0.17,Normal
+Uttar Pradesh,Wheat,2024-01-29,2515.71,7,2511.43,0.17,Normal
+Uttar Pradesh,Wheat,2024-02-05,2513.21,7,2515.71,-0.1,Normal
+Uttar Pradesh,Wheat,2024-02-12,2492.86,7,2513.21,-0.81,Normal
+Uttar Pradesh,Wheat,2024-02-19,2458.93,7,2492.86,-1.36,Normal
+Uttar Pradesh,Wheat,2024-02-26,2443.57,7,2458.93,-0.62,Normal
+Uttar Pradesh,Wheat,2024-03-04,2472.14,7,2443.57,1.17,Normal
+Uttar Pradesh,Wheat,2024-03-11,2465.71,7,2472.14,-0.26,Normal
+Uttar Pradesh,Wheat,2024-03-18,2443.57,7,2465.71,-0.9,Normal
+Uttar Pradesh,Wheat,2024-03-25,2437.86,7,2443.57,-0.23,Normal
+Uttar Pradesh,Wheat,2024-04-01,2385.0,7,2437.86,-2.17,Normal
+Uttar Pradesh,Wheat,2024-04-08,2331.14,7,2385.0,-2.26,Normal
+Uttar Pradesh,Wheat,2024-04-15,2311.07,7,2331.14,-0.86,Normal
+Uttar Pradesh,Wheat,2024-04-22,2308.57,7,2311.07,-0.11,Normal
+Uttar Pradesh,Wheat,2024-04-29,2310.0,7,2308.57,0.06,Normal
+Uttar Pradesh,Wheat,2024-05-06,2310.0,7,2310.0,0.0,Normal
+Uttar Pradesh,Wheat,2024-05-13,2312.86,7,2310.0,0.12,Normal
+Uttar Pradesh,Wheat,2024-05-20,2322.71,7,2312.86,0.43,Normal
+Uttar Pradesh,Wheat,2024-05-27,2345.0,7,2322.71,0.96,Normal
+Uttar Pradesh,Wheat,2024-06-03,2359.29,7,2345.0,0.61,Normal
+Uttar Pradesh,Wheat,2024-06-10,2374.29,7,2359.29,0.64,Normal
+Uttar Pradesh,Wheat,2024-06-17,2385.71,7,2374.29,0.48,Normal
+Uttar Pradesh,Wheat,2024-06-24,2400.71,7,2385.71,0.63,Normal
+Uttar Pradesh,Wheat,2024-07-01,2411.43,7,2400.71,0.45,Normal
+Uttar Pradesh,Wheat,2024-07-08,2420.71,7,2411.43,0.39,Normal
+Uttar Pradesh,Wheat,2024-07-15,2426.43,7,2420.71,0.24,Normal
+Uttar Pradesh,Wheat,2024-07-22,2436.79,7,2426.43,0.43,Normal
+Uttar Pradesh,Wheat,2024-07-29,2442.14,7,2436.79,0.22,Normal
+Uttar Pradesh,Wheat,2024-08-05,2450.0,7,2442.14,0.32,Normal
+Uttar Pradesh,Wheat,2024-08-12,2458.07,7,2450.0,0.33,Normal
+Uttar Pradesh,Wheat,2024-08-19,2476.43,7,2458.07,0.75,Normal
+Uttar Pradesh,Wheat,2024-08-26,2502.14,7,2476.43,1.04,Normal
+Uttar Pradesh,Wheat,2024-09-02,2517.5,7,2502.14,0.61,Normal
+Uttar Pradesh,Wheat,2024-09-09,2537.86,7,2517.5,0.81,Normal
+Uttar Pradesh,Wheat,2024-09-16,2547.14,7,2537.86,0.37,Normal
+Uttar Pradesh,Wheat,2024-09-23,2566.21,7,2547.14,0.75,Normal
+Uttar Pradesh,Wheat,2024-09-30,2597.14,7,2566.21,1.21,Normal
+Uttar Pradesh,Wheat,2024-10-07,2636.07,7,2597.14,1.5,Normal
+Uttar Pradesh,Wheat,2024-10-14,2671.07,7,2636.07,1.33,Normal
+Uttar Pradesh,Wheat,2024-10-21,2704.29,7,2671.07,1.24,Normal
+Uttar Pradesh,Wheat,2024-10-28,2721.79,7,2704.29,0.65,Normal
+Uttar Pradesh,Wheat,2024-11-04,2728.21,7,2721.79,0.24,Normal
+Uttar Pradesh,Wheat,2024-11-11,2747.5,7,2728.21,0.71,Normal
+Uttar Pradesh,Wheat,2024-11-18,2756.79,7,2747.5,0.34,Normal
+Uttar Pradesh,Wheat,2024-11-25,2750.0,7,2756.79,-0.25,Normal
+Uttar Pradesh,Wheat,2024-12-02,2752.5,7,2750.0,0.09,Normal
+Uttar Pradesh,Wheat,2024-12-09,2759.64,7,2752.5,0.26,Normal
+Uttar Pradesh,Wheat,2024-12-16,2769.29,7,2759.64,0.35,Normal
+Uttar Pradesh,Wheat,2024-12-23,2777.14,7,2769.29,0.28,Normal
+Uttar Pradesh,Wheat,2024-12-30,2787.14,7,2777.14,0.36,Normal
+Uttar Pradesh,Wheat,2025-01-06,2822.5,7,2787.14,1.27,Normal
+Uttar Pradesh,Wheat,2025-01-13,2852.29,7,2822.5,1.06,Normal
+Uttar Pradesh,Wheat,2025-01-20,2871.43,7,2852.29,0.67,Normal
+Uttar Pradesh,Wheat,2025-01-27,2875.71,7,2871.43,0.15,Normal
+Uttar Pradesh,Wheat,2025-02-03,2850.0,7,2875.71,-0.89,Normal
+Uttar Pradesh,Wheat,2025-02-10,2861.43,7,2850.0,0.4,Normal
+Uttar Pradesh,Wheat,2025-02-17,2898.57,7,2861.43,1.3,Normal
+Uttar Pradesh,Wheat,2025-02-24,2921.07,7,2898.57,0.78,Normal
+Uttar Pradesh,Wheat,2025-03-03,2895.36,7,2921.07,-0.88,Normal
+Uttar Pradesh,Wheat,2025-03-10,2881.64,7,2895.36,-0.47,Normal
+Uttar Pradesh,Wheat,2025-03-17,2818.07,7,2881.64,-2.21,Normal
+Uttar Pradesh,Wheat,2025-03-24,2670.0,7,2818.07,-5.25,Normal
+Uttar Pradesh,Wheat,2025-03-31,2502.86,7,2670.0,-6.26,Normal
+Uttar Pradesh,Wheat,2025-04-07,2449.64,7,2502.86,-2.13,Normal
+Uttar Pradesh,Wheat,2025-04-14,2445.71,7,2449.64,-0.16,Normal
+Uttar Pradesh,Wheat,2025-04-21,2447.14,7,2445.71,0.06,Normal
+Uttar Pradesh,Wheat,2025-04-28,2448.64,7,2447.14,0.06,Normal
+Uttar Pradesh,Wheat,2025-05-05,2450.0,7,2448.64,0.06,Normal
+Uttar Pradesh,Wheat,2025-05-12,2452.14,7,2450.0,0.09,Normal
+Uttar Pradesh,Wheat,2025-05-19,2459.29,7,2452.14,0.29,Normal
+Uttar Pradesh,Wheat,2025-05-26,2472.5,7,2459.29,0.54,Normal
+Uttar Pradesh,Wheat,2025-06-02,2485.0,7,2472.5,0.51,Normal
+Uttar Pradesh,Wheat,2025-06-09,2489.64,7,2485.0,0.19,Normal
+Uttar Pradesh,Wheat,2025-06-16,2493.57,7,2489.64,0.16,Normal
+Uttar Pradesh,Wheat,2025-06-23,2492.71,7,2493.57,-0.03,Normal
+Uttar Pradesh,Wheat,2025-06-30,2492.5,7,2492.71,-0.01,Normal
+Uttar Pradesh,Wheat,2025-07-07,2492.93,7,2492.5,0.02,Normal
+Uttar Pradesh,Wheat,2025-07-14,2499.29,7,2492.93,0.26,Normal
+Uttar Pradesh,Wheat,2025-07-21,2504.29,7,2499.29,0.2,Normal
+Uttar Pradesh,Wheat,2025-07-28,2513.21,7,2504.29,0.36,Normal
+Uttar Pradesh,Wheat,2025-08-04,2516.79,7,2513.21,0.14,Normal
+Uttar Pradesh,Wheat,2025-08-11,2524.64,7,2516.79,0.31,Normal
+Uttar Pradesh,Wheat,2025-08-18,2524.29,7,2524.64,-0.01,Normal
+Uttar Pradesh,Wheat,2025-08-25,2530.0,7,2524.29,0.23,Normal
+Uttar Pradesh,Wheat,2025-09-01,2529.64,7,2530.0,-0.01,Normal
+Uttar Pradesh,Wheat,2025-09-08,2538.21,7,2529.64,0.34,Normal
+Uttar Pradesh,Wheat,2025-09-15,2541.07,7,2538.21,0.11,Normal
+Uttar Pradesh,Wheat,2025-09-22,2537.5,7,2541.07,-0.14,Normal
+Uttar Pradesh,Wheat,2025-09-29,2535.0,7,2537.5,-0.1,Normal
+Uttar Pradesh,Wheat,2025-10-06,2528.93,7,2535.0,-0.24,Normal
+Uttar Pradesh,Wheat,2025-10-13,2528.93,7,2528.93,0.0,Normal
+Uttar Pradesh,Wheat,2025-10-20,2527.14,7,2528.93,-0.07,Normal
+Uttar Pradesh,Wheat,2025-10-27,2525.71,7,2527.14,-0.06,Normal
+Uttar Pradesh,Wheat,2025-11-03,2499.38,4,2525.71,-1.04,Normal
+Uttar Pradesh,Wheat,2025-12-01,2518.4,5,2499.38,,No data
+Uttar Pradesh,Wheat,2025-12-08,2519.07,7,2518.4,0.03,Normal
+Uttar Pradesh,Wheat,2025-12-15,2520.0,7,2519.07,0.04,Normal
+Uttar Pradesh,Wheat,2025-12-22,2533.93,7,2520.0,0.55,Normal
+Uttar Pradesh,Wheat,2025-12-29,2533.93,7,2533.93,0.0,Normal
+Uttar Pradesh,Wheat,2026-01-05,2543.57,7,2533.93,0.38,Normal
+Uttar Pradesh,Wheat,2026-01-12,2540.79,7,2543.57,-0.11,Normal
+Uttar Pradesh,Wheat,2026-01-19,2532.86,7,2540.79,-0.31,Normal
+Uttar Pradesh,Wheat,2026-01-26,2519.5,7,2532.86,-0.53,Normal
+Uttar Pradesh,Wheat,2026-02-02,2493.4,5,2519.5,-1.04,Normal
+Uttar Pradesh,Wheat,2026-02-09,2488.14,7,2493.4,-0.21,Normal
+Uttar Pradesh,Wheat,2026-02-16,2473.14,7,2488.14,-0.6,Normal
+Uttar Pradesh,Wheat,2026-02-23,2473.33,6,2473.14,0.01,Normal
+Uttar Pradesh,Wheat,2026-03-09,2465.0,6,2473.33,,No data
+Uttar Pradesh,Wheat,2026-03-16,2431.25,4,2465.0,-1.37,Normal
+Uttar Pradesh,Wheat,2026-03-23,2455.0,7,2431.25,0.98,Normal
+Uttar Pradesh,Wheat,2026-03-30,2415.18,7,2455.0,-1.62,Normal
+Uttar Pradesh,Wheat,2026-04-06,2400.48,7,2415.18,-0.61,Normal
+Uttar Pradesh,Wheat,2026-04-13,2404.6,7,2400.48,0.17,Normal
