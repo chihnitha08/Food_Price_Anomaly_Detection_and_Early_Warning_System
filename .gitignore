@@ -1,5 +1,7 @@
 data/raw/
 data/csv/
+data/processed/filtered_prices.csv
+data/processed/cleaned_prices.csv
 __pycache__/
 .env
 config.py

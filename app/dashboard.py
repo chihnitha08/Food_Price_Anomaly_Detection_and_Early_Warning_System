@@ -15,7 +15,8 @@ weekly = load()
 FLAG = ["Alert", "Severe"]
 
 st.title("Food Price Anomaly Detection and Early Warning System")
-st.caption("SDG 2: Zero Hunger | Data: Agmarknet mandi prices via data.gov.in | Group B7")
+st.caption("SDG 2: Zero Hunger | Data: Agmarknet mandi prices (Kaggle mirror), Jan 2024 to Apr 2026 | Group B7")
+st.caption("All prices are wholesale mandi prices in Rs per quintal (1 quintal = 100 kg).")
 
 # ---------- sidebar filters ----------
 st.sidebar.header("Filters")
@@ -53,14 +54,20 @@ with tab1:
     st.subheader("Latest week for every state and commodity")
     show = latest[["state", "commodity", "week_start", "avg_price", "pct_change", "status"]]
     show = show.sort_values("pct_change", ascending=False)
-    show = show.assign(week_start=show["week_start"].dt.date)
+    show = show.assign(week_start=show["week_start"].dt.date,
+                       price_per_kg=show["avg_price"] / 100)
+    show = show[["state", "commodity", "week_start", "avg_price", "price_per_kg", "pct_change", "status"]]
+    show = show.rename(columns={"avg_price": "avg price (Rs/quintal)",
+                                "price_per_kg": "approx Rs/kg"})
+
     def colour(row):
         c = {"Severe": "#f8b4b4", "Alert": "#fde1a8",
              "Normal": "#d4f0d4", "No data": "#e5e5e5"}[row["status"]]
         return [f"background-color: {c}; color: #111"] * len(row)
 
     styled = show.style.apply(colour, axis=1).format(
-        {"avg_price": "{:,.0f}", "pct_change": "{:+.1f}%"}, na_rep="-")
+        {"avg price (Rs/quintal)": "{:,.0f}", "approx Rs/kg": "{:,.1f}",
+         "pct_change": "{:+.1f}%"}, na_rep="-")
     st.dataframe(styled, hide_index=True)
 
 # ---------- tab 2: price trend ----------
@@ -86,10 +93,14 @@ with tab3:
     a = a.sort_values("pct_change", ascending=False)
     a = a[["state", "week_start", "prev_price", "avg_price", "pct_change", "status"]]
     a = a.assign(week_start=a["week_start"].dt.date)
+    a = a.rename(columns={"prev_price": "previous week (Rs/quintal)",
+                          "avg_price": "this week (Rs/quintal)"})
     if a.empty:
         st.info("No flagged weeks for this commodity in the selected dates.")
     else:
-        st.dataframe(a, hide_index=True)
+        st.dataframe(a.style.format({"previous week (Rs/quintal)": "{:,.0f}",
+                                     "this week (Rs/quintal)": "{:,.0f}",
+                                     "pct_change": "{:+.1f}%"}), hide_index=True)
 
 # ---------- tab 4: regional risk ----------
 with tab4:
@@ -111,8 +122,9 @@ with tab4:
 # ---------- tab 5: how it works ----------
 with tab5:
     st.markdown("""
-**Data:** daily wholesale (mandi) prices from Agmarknet, published on data.gov.in. Five staples
-(onion, tomato, potato, rice, wheat) in five states, January 2024 onwards.
+**Data:** daily wholesale (mandi) prices reported through Agmarknet, the government's market price
+system, from a Kaggle mirror of the data.gov.in dataset. Five staples (onion, tomato, potato, rice,
+wheat) in five states, January 2024 to April 2026. Prices are in Rs per quintal (100 kg).
 
 **Method:**
 1. Clean the records (remove duplicates and impossible prices).
@@ -125,6 +137,6 @@ households, so a sudden rise in a staple's price is an early sign that people in
 may struggle to afford food.
 
 **Limitations:** the rule catches sudden jumps but can miss slow, steady climbs.
-Weeks with fewer than 3 days of data are ignored, and a few weeks with unit errors in the
-source data were removed.
+Weeks with fewer than 3 days of data are ignored, and nine weeks with unit errors in the
+source data (prices recorded per kg instead of per quintal) were removed.
 """)

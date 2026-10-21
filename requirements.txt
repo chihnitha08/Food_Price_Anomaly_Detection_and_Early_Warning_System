@@ -1,0 +1,6 @@
+pandas
+pyarrow
+matplotlib
+seaborn
+mysql-connector-python
+streamlit
