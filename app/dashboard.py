@@ -54,13 +54,14 @@ with tab1:
     show = latest[["state", "commodity", "week_start", "avg_price", "pct_change", "status"]]
     show = show.sort_values("pct_change", ascending=False)
     show = show.assign(week_start=show["week_start"].dt.date)
-
     def colour(row):
         c = {"Severe": "#f8b4b4", "Alert": "#fde1a8",
              "Normal": "#d4f0d4", "No data": "#e5e5e5"}[row["status"]]
-        return [f"background-color: {c}"] * len(row)
+        return [f"background-color: {c}; color: #111"] * len(row)
 
-    st.dataframe(show.style.apply(colour, axis=1), hide_index=True)
+    styled = show.style.apply(colour, axis=1).format(
+        {"avg_price": "{:,.0f}", "pct_change": "{:+.1f}%"}, na_rep="-")
+    st.dataframe(styled, hide_index=True)
 
 # ---------- tab 2: price trend ----------
 with tab2:
